@@ -10,7 +10,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "generate": "tsx scripts/generate-digest.ts",
-    "prune": "tsx scripts/prune-old-digests.ts"
+    "prune": "tsx scripts/prune-old-digests.ts",
+    "send-email": "tsx scripts/send-email.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.78.0",
