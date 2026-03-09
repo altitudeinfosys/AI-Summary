@@ -1,0 +1,50 @@
+categories:
+  llm_updates:
+    name: "LLM Updates"
+    feeds:
+      - url: "https://www.anthropic.com/feed.xml"
+        name: "Anthropic Blog"
+      - url: "https://openai.com/blog/rss.xml"
+        name: "OpenAI Blog"
+      - url: "https://blog.google/technology/ai/rss/"
+        name: "Google AI Blog"
+      - url: "https://ai.meta.com/blog/rss/"
+        name: "Meta AI Blog"
+      - url: "https://mistral.ai/feed.xml"
+        name: "Mistral AI Blog"
+
+  dev_tools:
+    name: "Dev Tools"
+    feeds:
+      - url: "https://github.blog/feed/"
+        name: "GitHub Blog"
+
+  tech_media:
+    name: "Tech Media"
+    feeds:
+      - url: "https://www.theverge.com/ai/rss/index.xml"
+        name: "The Verge AI"
+      - url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+        name: "TechCrunch AI"
+      - url: "https://arstechnica.com/ai/feed/"
+        name: "Ars Technica AI"
+      - url: "https://www.technologyreview.com/feed/"
+        name: "MIT Technology Review"
+
+  research:
+    name: "Research & Papers"
+    feeds:
+      - url: "https://arxiv.org/rss/cs.AI"
+        name: "arXiv CS.AI"
+      - url: "https://arxiv.org/rss/cs.CL"
+        name: "arXiv CS.CL"
+
+  community:
+    name: "Community"
+    feeds:
+      - url: "https://hnrss.org/newest?q=AI+LLM+GPT+Claude"
+        name: "Hacker News AI"
+      - url: "https://simonwillison.net/atom/everything/"
+        name: "Simon Willison"
+      - url: "https://www.reddit.com/r/MachineLearning/.rss"
+        name: "r/MachineLearning"
