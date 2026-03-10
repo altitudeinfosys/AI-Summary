@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="py-20 text-center">
       <h1 className="text-3xl font-bold">No digests yet</h1>
-      <p className="mt-4 text-gray-500">
+      <p className="mt-4 text-secondary">
         The first digest will appear after the daily pipeline runs.
       </p>
     </div>
