@@ -34,8 +34,7 @@ yarn-error.log*
 .env*.local
 .env
 
-# digest content
-content/digests/*.json
+# digest content is committed by GitHub Actions (do NOT ignore)
 
 # vercel
 .vercel
