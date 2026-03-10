@@ -2,8 +2,8 @@ import { notFound } from "next/navigation";
 import { format, parse } from "date-fns";
 import { getDigest, getAllDigestDates } from "@/lib/digests";
 
-// Required for output: "export" to allow empty generateStaticParams
-export const revalidate = 0;
+// Only pre-render dates returned by generateStaticParams; 404 for unknown dates
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   return getAllDigestDates().map((date) => ({ date }));
