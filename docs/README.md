@@ -223,21 +223,19 @@ The static `out/` directory can also be deployed to GitHub Pages or any static h
 
 ## Git Workflow
 
-We follow **Git Flow** branching:
+Simple feature-branch workflow:
 
 ```
-main          ← production (auto-deploys to Vercel)
-  └── develop ← integration branch
-       └── feature/* ← new features (branch from develop)
-       └── hotfix/*  ← emergency fixes (branch from main)
+main              ← production (auto-deploys to Vercel)
+  └── feature/*   ← new features (branch from main, PR back to main)
 ```
 
-### Creating a feature
+### Making changes
 
 ```bash
-# Start from develop
-git checkout develop
-git pull origin develop
+# Start from main
+git checkout main
+git pull origin main
 
 # Create feature branch
 git checkout -b feature/my-feature
@@ -246,19 +244,10 @@ git checkout -b feature/my-feature
 git add .
 git commit -m "feat: description of changes"
 
-# Push and create PR
+# Push and create PR to main
 git push -u origin feature/my-feature
-# Then create PR on GitHub: feature/my-feature → develop
-```
-
-### Merging to production
-
-```bash
-# After PR is merged to develop, merge develop to main
-git checkout main
-git pull origin main
-git merge develop
-git push origin main   # triggers Vercel deploy
+# Create PR on GitHub: feature/my-feature → main
+# Merging the PR triggers Vercel auto-deploy
 ```
 
 ### Commit message format
