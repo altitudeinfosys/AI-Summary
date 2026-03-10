@@ -5,8 +5,8 @@ import { format } from "date-fns";
 import { Resend } from "resend";
 import type { DailyDigest } from "./types";
 
-// Load .env.local for local development
-config({ path: path.join(process.cwd(), ".env.local") });
+// Load .env.local for local development (override existing empty vars)
+config({ path: path.join(process.cwd(), ".env.local"), override: true });
 
 async function main() {
   const apiKey = process.env.RESEND_API_KEY;

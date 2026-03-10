@@ -1,7 +1,12 @@
 import Anthropic from "@anthropic-ai/sdk";
 import type { RawArticle, DigestCategory } from "./types";
 
-const client = new Anthropic();
+// Client created lazily so dotenv has time to load ANTHROPIC_API_KEY
+let _client: Anthropic | null = null;
+function getClient(): Anthropic {
+  if (!_client) _client = new Anthropic();
+  return _client;
+}
 
 export async function summarizeArticles(
   articles: RawArticle[],
@@ -22,7 +27,7 @@ export async function summarizeArticles(
     .map(([slug, name]) => `- ${slug}: ${name}`)
     .join("\n");
 
-  const message = await client.messages.create({
+  const message = await getClient().messages.create({
     model: "claude-sonnet-4-20250514",
     max_tokens: 4096,
     messages: [
@@ -65,15 +70,21 @@ Rules:
     ],
   });
 
-  const text =
+  const rawText =
     message.content[0].type === "text" ? message.content[0].text : "";
+
+  // Strip markdown code fences if Claude wraps the JSON in ```json ... ```
+  const text = rawText
+    .replace(/^```(?:json)?\s*\n?/i, "")
+    .replace(/\n?```\s*$/i, "")
+    .trim();
 
   try {
     const parsed = JSON.parse(text);
     return parsed.categories as DigestCategory[];
   } catch (error) {
     console.error("Failed to parse Claude response:", error);
-    console.error("Raw response:", text);
+    console.error("Raw response (first 500 chars):", rawText.slice(0, 500));
 
     // Fallback: return raw articles grouped by category without summaries
     return fallbackGrouping(articles, categoryNames);

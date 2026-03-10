@@ -6,8 +6,8 @@ import { loadSources, fetchAllFeeds } from "./fetch-feeds";
 import { summarizeArticles } from "./summarize";
 import type { DailyDigest } from "./types";
 
-// Load .env.local for local development
-config({ path: path.join(process.cwd(), ".env.local") });
+// Load .env.local for local development (override existing empty vars)
+config({ path: path.join(process.cwd(), ".env.local"), override: true });
 
 async function main() {
   const today = format(new Date(), "yyyy-MM-dd");
