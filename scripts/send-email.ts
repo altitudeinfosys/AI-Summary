@@ -1,8 +1,12 @@
 import * as fs from "fs";
 import * as path from "path";
+import { config } from "dotenv";
 import { format } from "date-fns";
 import { Resend } from "resend";
 import type { DailyDigest } from "./types";
+
+// Load .env.local for local development
+config({ path: path.join(process.cwd(), ".env.local") });
 
 async function main() {
   const apiKey = process.env.RESEND_API_KEY;

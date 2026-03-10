@@ -2,16 +2,12 @@ categories:
   llm_updates:
     name: "LLM Updates"
     feeds:
-      - url: "https://www.anthropic.com/feed.xml"
-        name: "Anthropic Blog"
       - url: "https://openai.com/blog/rss.xml"
         name: "OpenAI Blog"
       - url: "https://blog.google/technology/ai/rss/"
         name: "Google AI Blog"
-      - url: "https://ai.meta.com/blog/rss/"
-        name: "Meta AI Blog"
-      - url: "https://mistral.ai/feed.xml"
-        name: "Mistral AI Blog"
+      # Anthropic, Meta AI, Mistral do not offer official RSS feeds
+      # Add community-maintained feeds or new sources here as they become available
 
   dev_tools:
     name: "Dev Tools"
@@ -22,8 +18,8 @@ categories:
   tech_media:
     name: "Tech Media"
     feeds:
-      - url: "https://www.theverge.com/ai/rss/index.xml"
-        name: "The Verge AI"
+      - url: "https://www.theverge.com/rss/index.xml"
+        name: "The Verge"
       - url: "https://techcrunch.com/category/artificial-intelligence/feed/"
         name: "TechCrunch AI"
       - url: "https://arstechnica.com/ai/feed/"

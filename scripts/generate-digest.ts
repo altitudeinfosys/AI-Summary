@@ -1,9 +1,13 @@
 import * as fs from "fs";
 import * as path from "path";
+import { config } from "dotenv";
 import { format } from "date-fns";
 import { loadSources, fetchAllFeeds } from "./fetch-feeds";
 import { summarizeArticles } from "./summarize";
 import type { DailyDigest } from "./types";
+
+// Load .env.local for local development
+config({ path: path.join(process.cwd(), ".env.local") });
 
 async function main() {
   const today = format(new Date(), "yyyy-MM-dd");
