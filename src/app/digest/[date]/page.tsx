@@ -27,14 +27,14 @@ export default async function DigestPage({ params }: Props) {
     <div>
       <div className="mb-8">
         <h1 className="text-3xl font-bold">AI Digest</h1>
-        <p className="mt-1 text-gray-500">
+        <p className="mt-1 text-secondary">
           {formattedDate} &middot; {digest.totalArticles} articles
         </p>
       </div>
 
       {digest.categories.map((category) => (
         <section key={category.slug} className="mb-10">
-          <h2 className="mb-4 text-xl font-semibold border-b border-gray-100 pb-2">
+          <h2 className="mb-4 border-b border-border pb-2 text-xl font-semibold">
             {category.name}
           </h2>
           <div className="space-y-4">
@@ -47,7 +47,7 @@ export default async function DigestPage({ params }: Props) {
                         ? "bg-red-500"
                         : article.importance >= 3
                           ? "bg-orange-400"
-                          : "bg-gray-300"
+                          : "bg-gray-400 dark:bg-gray-500"
                     }`}
                   >
                     {article.importance}
@@ -57,14 +57,14 @@ export default async function DigestPage({ params }: Props) {
                       href={article.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="font-medium text-blue-700 hover:underline"
+                      className="font-medium text-link hover:text-link-hover hover:underline"
                     >
                       {article.title}
                     </a>
-                    <p className="mt-1 text-sm text-gray-600">
+                    <p className="mt-1 text-sm text-secondary">
                       {article.summary}
                     </p>
-                    <p className="mt-1 text-xs text-gray-400">
+                    <p className="mt-1 text-xs text-muted">
                       {article.source}
                     </p>
                   </div>

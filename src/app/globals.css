@@ -1,26 +1,57 @@
 @import "tailwindcss";
 
+/* Enable class-based dark mode in Tailwind v4 */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ── Light mode (default) ── */
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #111827;
+  --secondary: #4b5563;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --card: #f9fafb;
+  --link: #2563eb;
+  --link-hover: #1d4ed8;
 }
 
+/* ── Dark mode (class-based) ── */
+.dark {
+  --background: #0f172a;
+  --foreground: #f1f5f9;
+  --secondary: #cbd5e1;
+  --muted: #94a3b8;
+  --border: #334155;
+  --card: #1e293b;
+  --link: #60a5fa;
+  --link-hover: #93bbfd;
+}
+
+/* ── Register CSS variables as Tailwind theme tokens ── */
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-secondary: var(--secondary);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-card: var(--card);
+  --color-link: var(--link);
+  --color-link-hover: var(--link-hover);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Smooth transition for theme switch */
+html.theme-transition,
+html.theme-transition *,
+html.theme-transition *::before,
+html.theme-transition *::after {
+  transition: background-color 0.2s ease, color 0.2s ease,
+    border-color 0.2s ease !important;
 }
