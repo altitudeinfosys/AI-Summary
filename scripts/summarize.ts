@@ -4,7 +4,7 @@ import type { RawArticle, DigestCategory } from "./types";
 // Client created lazily so dotenv has time to load ANTHROPIC_API_KEY
 let _client: Anthropic | null = null;
 function getClient(): Anthropic {
-  if (!_client) _client = new Anthropic();
+  if (!_client) _client = new Anthropic({ timeout: 120_000 });
   return _client;
 }
 

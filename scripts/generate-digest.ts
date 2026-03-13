@@ -52,6 +52,8 @@ async function main() {
   fs.mkdirSync(outputDir, { recursive: true });
   fs.writeFileSync(outputPath, JSON.stringify(digest, null, 2));
   console.log(`Digest written to ${outputPath} (${totalArticles} articles)`);
+
+  process.exit(0);
 }
 
 main().catch((err) => {

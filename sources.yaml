@@ -42,5 +42,3 @@ categories:
         name: "Hacker News AI"
       - url: "https://simonwillison.net/atom/everything/"
         name: "Simon Willison"
-      - url: "https://www.reddit.com/r/MachineLearning/.rss"
-        name: "r/MachineLearning"
