@@ -1,0 +1,163 @@
+{
+  "date": "2026-03-13",
+  "generatedAt": "2026-03-13T17:03:13.053Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2602.04634",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces width scaling with multi-agent systems as a complement to depth scaling in LLMs, showing improved performance on broad information seeking tasks. Demonstrates how organizational capability becomes more important than individual competence as tasks grow broader.",
+          "importance": 4
+        },
+        {
+          "title": "Tiny Aya: Bridging Scale and Multilingual Depth",
+          "url": "https://arxiv.org/abs/2603.11510",
+          "source": "arXiv CS.CL",
+          "summary": "A 3.35B parameter multilingual model trained on 70 languages that achieves state-of-the-art translation quality. Includes pretrained foundation model, globally balanced instruction-tuned variant, and three region-specialized models.",
+          "importance": 4
+        },
+        {
+          "title": "Bielik-Minitron-7B: Compressing Large Language Models via Structured Pruning and Knowledge Distillation for the Polish Language",
+          "url": "https://arxiv.org/abs/2603.11881",
+          "source": "arXiv CS.CL",
+          "summary": "Compressed 7.35B parameter version of Bielik-11B-v3.0 model optimized for European languages. Uses structured hybrid pruning and knowledge distillation to reduce parameters by 33.4% while maintaining performance.",
+          "importance": 3
+        },
+        {
+          "title": "DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining",
+          "url": "https://arxiv.org/abs/2603.11838",
+          "source": "arXiv CS.CL",
+          "summary": "Family of twelve 1.3B-parameter language models trained on temporally partitioned data with strict annual cutoffs from 2013 to 2024. Addresses lookahead bias in financial backtesting by preventing models from seeing future outcomes during training.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "CR-Bench: Evaluating the Real-World Utility of AI Code Review Agents",
+          "url": "https://arxiv.org/abs/2603.11078",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a comprehensive benchmark for evaluating AI code review agents with granular evaluation protocols. Addresses the challenge of assessing agent behavior beyond coarse success metrics, particularly for tasks where false positives are costly.",
+          "importance": 4
+        },
+        {
+          "title": "Resolving Java Code Repository Issues with iSWE Agent",
+          "url": "https://arxiv.org/abs/2603.11356",
+          "source": "arXiv CS.AI",
+          "summary": "Automated system for resolving Java code repository issues using LLMs and agents. Addresses the gap in automated issue resolution for Java, which is prevalent in enterprise software but underserved compared to Python-focused tools.",
+          "importance": 3
+        },
+        {
+          "title": "Once4All: Skeleton-Guided SMT Solver Fuzzing with LLM-Synthesized Generators",
+          "url": "https://arxiv.org/abs/2508.20340",
+          "source": "arXiv CS.AI",
+          "summary": "Novel approach to testing SMT solvers using LLM-generated test formulas guided by skeletal structures. Addresses limitations of prior testing techniques that struggle with modern solver versions.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "The $32B acquisition that one VC is calling the 'Deal of the Decade'",
+          "url": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+          "source": "TechCrunch AI",
+          "summary": "Google's $32 billion acquisition of cybersecurity startup Wiz becomes the largest venture-backed acquisition in history. The deal was finalized after a declined 2024 offer and antitrust review on both sides of the Atlantic.",
+          "importance": 5
+        },
+        {
+          "title": "Amazon Prime Video's ad-free plan is getting a price hike",
+          "url": "https://www.theverge.com/tech/894466/amazon-prime-video-ultra-ad-free-price-hike",
+          "source": "The Verge",
+          "summary": "Prime Video's ad-free tier will cost $4.99 per month instead of $2.99 starting April 10th, including exclusive access to 4K/UHD streaming. The price increase comes two years after Amazon switched all users to an ad-supported plan.",
+          "importance": 3
+        },
+        {
+          "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
+          "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
+          "source": "TechCrunch AI",
+          "summary": "Peacock introduces AI-powered video experiences, vertical clips, and mobile games to drive growth. Features include an AI Andy Cohen avatar and vertical video format for live NBA games.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
+          "url": "https://arxiv.org/abs/2602.15112",
+          "source": "arXiv CS.AI",
+          "summary": "Benchmark using five real ICML, ICLR, and ACL papers to evaluate AI agents on end-to-end research tasks. Preserves datasets and evaluation harnesses while withholding the proposed methods, creating 39 sub-tasks across containerized environments.",
+          "importance": 5
+        },
+        {
+          "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
+          "url": "https://arxiv.org/abs/2603.11076",
+          "source": "arXiv CS.AI",
+          "summary": "Addresses insufficient diversity in synthesized agentic tasks for training tool-using LLMs. Proposes methods to scale diversity while maintaining task executability and verifiability, improving generalization under shifts in tasks and toolsets.",
+          "importance": 4
+        },
+        {
+          "title": "Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios",
+          "url": "https://arxiv.org/abs/2603.11214",
+          "source": "arXiv CS.AI",
+          "summary": "Evaluates autonomous cyber-attack capabilities of frontier AI models on purpose-built cyber ranges. Compares seven models across 18 months on 32-step corporate network and 7-step industrial control system attacks, revealing concerning capability trends.",
+          "importance": 4
+        },
+        {
+          "title": "The Attack and Defense Landscape of Agentic AI: A Comprehensive Survey",
+          "url": "https://arxiv.org/abs/2603.11088",
+          "source": "arXiv CS.AI",
+          "summary": "First systematic survey of AI agent security, analyzing design space and attack vectors. Covers complex security challenges different from traditional software systems as AI agents combine LLMs with non-AI components.",
+          "importance": 4
+        },
+        {
+          "title": "Can RL Improve Generalization of LLM Agents? An Empirical Study",
+          "url": "https://arxiv.org/abs/2603.12011",
+          "source": "arXiv CS.AI",
+          "summary": "Systematic study of reinforcement fine-tuning for LLM agents in multi-turn decision-making tasks. Evaluates generalization to unseen environments with different background knowledge, observation spaces, and action interfaces.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
+          "url": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Significant performance improvements to the Shopify Liquid templating engine with substantial speed and memory efficiency gains.",
+          "importance": 3
+        },
+        {
+          "title": "MALUS - Clean Room as a Service",
+          "url": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Introduction of a new clean room service offering, likely related to secure development or testing environments.",
+          "importance": 2
+        },
+        {
+          "title": "Coding After Coders: The End of Computer Programming as We Know It",
+          "url": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Discussion about the future of programming in the age of AI code generation and automation tools.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 18
+}
