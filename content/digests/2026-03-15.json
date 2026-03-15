@@ -1,20 +1,7 @@
 {
   "date": "2026-03-15",
-  "generatedAt": "2026-03-15T04:12:19.322Z",
+  "generatedAt": "2026-03-15T13:47:26.553Z",
   "categories": [
-    {
-      "name": "LLM Updates",
-      "slug": "llm_updates",
-      "articles": [
-        {
-          "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-          "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-          "source": "TechCrunch AI",
-          "summary": "ChatGPT now offers direct integrations with popular apps including Spotify, Canva, Figma, Expedia, DoorDash, and Uber. Users can now interact with these services directly within the ChatGPT interface without switching between applications.",
-          "importance": 4
-        }
-      ]
-    },
     {
       "name": "Tech Media",
       "slug": "tech_media",
@@ -23,56 +10,49 @@
           "title": "Meta is reportedly laying off up to 20 percent of its staff",
           "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
           "source": "The Verge",
-          "summary": "Meta is considering massive layoffs that could eliminate roughly 15,800 positions, or 20% of its workforce. This would be the largest round of layoffs since the company cut 22,000 jobs between November 2022 and early 2023, as Meta looks to offset spending on AI and data centers.",
+          "summary": "Meta is planning massive layoffs that could eliminate roughly 15,800 positions, affecting up to 20% of its workforce. The cuts are intended to offset spending on AI infrastructure and data centers. This would be the largest round of layoffs since the company terminated 22,000 workers in 2022-2023.",
           "importance": 5
-        },
-        {
-          "title": "US Army announces contract with Anduril worth up to $20B",
-          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-          "source": "TechCrunch AI",
-          "summary": "The US Army has awarded Anduril a major contract worth up to $20 billion. The Army described this as a single enterprise contract that consolidates more than 120 separate procurement actions.",
-          "importance": 4
         },
         {
           "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
           "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
           "source": "The Verge",
-          "summary": "Sources report the Trump administration is collecting approximately $10 billion in fees from the TikTok deal brokered with new investors including Oracle and Silver Lake. $2.5 billion was reportedly already paid to the Treasury when the deal closed on January 22nd, with the remainder to be paid in installments.",
+          "summary": "The Trump administration is reportedly collecting $10 billion in fees from the TikTok deal brokered with Oracle and Silver Lake. Sources indicate $2.5 billion was already paid to the Treasury when the deal closed on January 22nd. The remaining amount will be paid in installments by the new investors.",
           "importance": 4
         },
         {
-          "title": "Staff complain that xAI is flailing because of constant upheaval",
-          "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
-          "source": "Ars Technica AI",
-          "summary": "Internal staff at Elon Musk's xAI company are reportedly experiencing low morale due to constant organizational upheaval. The frequent changes and instability are reportedly hampering the company's progress and destroying employee morale.",
-          "importance": 3
+          "title": "US Army announces contract with Anduril worth up to $20B",
+          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+          "source": "TechCrunch AI",
+          "summary": "The US Army has awarded Anduril a massive contract worth up to $20 billion. The Army described this as a single enterprise contract that consolidates more than 120 separate procurement actions.",
+          "importance": 4
+        },
+        {
+          "title": "The $100,000 fee for H-1Bs is causing all sorts of problems",
+          "url": "https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers",
+          "source": "The Verge",
+          "summary": "President Trump's executive order raising H-1B visa fees to $100,000 has caused significant disruption in the tech industry. Thousands of workers were stranded abroad when trying to renew visas, with details about impacts only emerging after implementation. The new H-1B registration season has begun amid continued uncertainty.",
+          "importance": 4
         },
         {
           "title": "MacBook Air M5 review: a small update for the 'just right' Mac",
           "url": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
           "source": "The Verge",
-          "summary": "The 2026 MacBook Air features incremental updates including the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. While it remains an outstanding computer, it's now $100 more expensive, and faces new competition from the cheaper MacBook Neo.",
+          "summary": "The 2026 MacBook Air features incremental updates including the M5 chip, Wi-Fi 7, and faster storage starting at 512GB. While it remains an outstanding computer, it's now $100 more expensive than the previous model. The new MacBook Neo offers a more affordable alternative at $500 less than the base Air.",
           "importance": 3
         },
         {
-          "title": "Samsung Galaxy S26 Ultra review: show off",
-          "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+          "title": "Samsung's Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone",
+          "url": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
           "source": "The Verge",
-          "summary": "The Samsung Galaxy S26 Ultra offers notable improvements for users concerned about screen privacy in public spaces. The review highlights the phone's enhanced privacy features and overall performance improvements over previous generations.",
-          "importance": 3
-        },
-        {
-          "title": "Asus' new open earbuds are a wonderful companion for handheld gaming",
-          "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
-          "source": "The Verge",
-          "summary": "The Asus Cetra Open Wireless earbuds feature an open-style design that rests outside the ears, allowing game audio to mix with environmental sounds. They include optional RGB LED effects but may leak audio to nearby listeners when volume is turned up.",
+          "summary": "Samsung's $249.99 Galaxy Buds 4 Pro offer upgraded woofers, improved hi-fi sound, better noise cancellation, and clearer calls. While they're a nice improvement over the Buds 3, they still require a Galaxy device to access all features. The update isn't a huge leap forward but refines what worked well in the previous model.",
           "importance": 2
         },
         {
-          "title": "5 great indie games from GDC 2026",
-          "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+          "title": "The fast rise and epic fall of Clubhouse",
+          "url": "https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history",
           "source": "The Verge",
-          "summary": "A roundup of standout indie games showcased at the GDC Festival of Gaming 2026 in San Francisco. The featured games are expected to launch this year, potentially before Grand Theft Auto VI.",
+          "summary": "Clubhouse was once seen as the next big thing in social media, betting that audio would be the future of social networking. The app grew rapidly in 2020-2021 and became hugely influential among tech circles. However, it ultimately failed to sustain its momentum and fell from prominence as quickly as it rose.",
           "importance": 2
         }
       ]
@@ -85,11 +65,11 @@
           "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
           "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
           "source": "Simon Willison",
-          "summary": "Simon Willison participated in a fireside chat discussing agentic engineering concepts at the Pragmatic Summit conference.",
+          "summary": "Simon Willison participated in a fireside chat discussing agentic engineering at the Pragmatic Summit. The discussion covered topics related to AI agents and their engineering applications.",
           "importance": 2
         }
       ]
     }
   ],
-  "totalArticles": 10
+  "totalArticles": 8
 }
