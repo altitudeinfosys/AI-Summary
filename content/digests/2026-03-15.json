@@ -1,0 +1,95 @@
+{
+  "date": "2026-03-15",
+  "generatedAt": "2026-03-15T04:12:19.322Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+          "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+          "source": "TechCrunch AI",
+          "summary": "ChatGPT now offers direct integrations with popular apps including Spotify, Canva, Figma, Expedia, DoorDash, and Uber. Users can now interact with these services directly within the ChatGPT interface without switching between applications.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Meta is reportedly laying off up to 20 percent of its staff",
+          "url": "https://www.theverge.com/business/895026/meta-laying-off-20-percent",
+          "source": "The Verge",
+          "summary": "Meta is considering massive layoffs that could eliminate roughly 15,800 positions, or 20% of its workforce. This would be the largest round of layoffs since the company cut 22,000 jobs between November 2022 and early 2023, as Meta looks to offset spending on AI and data centers.",
+          "importance": 5
+        },
+        {
+          "title": "US Army announces contract with Anduril worth up to $20B",
+          "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+          "source": "TechCrunch AI",
+          "summary": "The US Army has awarded Anduril a major contract worth up to $20 billion. The Army described this as a single enterprise contract that consolidates more than 120 separate procurement actions.",
+          "importance": 4
+        },
+        {
+          "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal",
+          "url": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
+          "source": "The Verge",
+          "summary": "Sources report the Trump administration is collecting approximately $10 billion in fees from the TikTok deal brokered with new investors including Oracle and Silver Lake. $2.5 billion was reportedly already paid to the Treasury when the deal closed on January 22nd, with the remainder to be paid in installments.",
+          "importance": 4
+        },
+        {
+          "title": "Staff complain that xAI is flailing because of constant upheaval",
+          "url": "https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/",
+          "source": "Ars Technica AI",
+          "summary": "Internal staff at Elon Musk's xAI company are reportedly experiencing low morale due to constant organizational upheaval. The frequent changes and instability are reportedly hampering the company's progress and destroying employee morale.",
+          "importance": 3
+        },
+        {
+          "title": "MacBook Air M5 review: a small update for the 'just right' Mac",
+          "url": "https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review",
+          "source": "The Verge",
+          "summary": "The 2026 MacBook Air features incremental updates including the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256GB. While it remains an outstanding computer, it's now $100 more expensive, and faces new competition from the cheaper MacBook Neo.",
+          "importance": 3
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra review: show off",
+          "url": "https://www.theverge.com/tech/893936/samsung-galaxy-s26-ultra-review-show-off",
+          "source": "The Verge",
+          "summary": "The Samsung Galaxy S26 Ultra offers notable improvements for users concerned about screen privacy in public spaces. The review highlights the phone's enhanced privacy features and overall performance improvements over previous generations.",
+          "importance": 3
+        },
+        {
+          "title": "Asus' new open earbuds are a wonderful companion for handheld gaming",
+          "url": "https://www.theverge.com/tech/893765/asus-cetra-open-wireless-gaming-earbuds-hands-on-impressions",
+          "source": "The Verge",
+          "summary": "The Asus Cetra Open Wireless earbuds feature an open-style design that rests outside the ears, allowing game audio to mix with environmental sounds. They include optional RGB LED effects but may leak audio to nearby listeners when volume is turned up.",
+          "importance": 2
+        },
+        {
+          "title": "5 great indie games from GDC 2026",
+          "url": "https://www.theverge.com/games/894511/gdc-2026-best-indie-games",
+          "source": "The Verge",
+          "summary": "A roundup of standout indie games showcased at the GDC Festival of Gaming 2026 in San Francisco. The featured games are expected to launch this year, potentially before Grand Theft Auto VI.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
+          "url": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison participated in a fireside chat discussing agentic engineering concepts at the Pragmatic Summit conference.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 10
+}
