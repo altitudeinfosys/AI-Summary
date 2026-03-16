@@ -1,0 +1,149 @@
+{
+  "date": "2026-03-16",
+  "generatedAt": "2026-03-16T14:21:38.469Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI's adult mode will reportedly be smutty, not pornographic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/895130/openai-chatgpt-adult-mode-text-smut-written-erotica",
+          "source": "The Verge",
+          "summary": "OpenAI's delayed 'adult mode' for ChatGPT will support textual adult content but not images, voice, or video at launch. The feature will allow users to generate text-based adult conversations while maintaining safety restrictions on other modalities.",
+          "importance": 4
+        },
+        {
+          "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+          "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+          "source": "TechCrunch AI",
+          "summary": "ByteDance has delayed the global launch of its Seedance 2.0 video generation model as engineers and lawyers work to address potential legal issues. This highlights ongoing challenges in deploying AI video generation tools at scale.",
+          "importance": 3
+        },
+        {
+          "title": "Experimental evidence of progressive ChatGPT models self-convergence",
+          "url": "https://arxiv.org/abs/2603.12683",
+          "source": "arXiv CS.AI",
+          "summary": "Research demonstrates that ChatGPT models trained recursively on their own outputs show signs of model collapse and self-convergence. This finding raises concerns about the long-term sustainability of AI systems that consume synthetic data.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Building Effective AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned",
+          "url": "https://arxiv.org/abs/2603.05344",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces OPENDEV, an open-source command-line coding agent written in Rust for terminal-native development tasks. The framework addresses the shift from IDE plugins to versatile CLI-based agents that operate directly in developer environments.",
+          "importance": 4
+        },
+        {
+          "title": "daVinci-Env: Open SWE Environment Synthesis at Scale",
+          "url": "https://arxiv.org/abs/2603.13023",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a large-scale environment for training software engineering agents with executable, verifiable feedback loops. The system addresses limitations in existing datasets by providing dynamic environments for code editing, testing, and refinement.",
+          "importance": 4
+        },
+        {
+          "title": "98× Faster LLM Routing Without a Dedicated GPU: Flash Attention, Prompt Compression, and Near-Streaming for the vLLM Semantic Router",
+          "url": "https://arxiv.org/abs/2603.12646",
+          "source": "arXiv CS.CL",
+          "summary": "Introduces optimization techniques for LLM routing systems that achieve 98x speed improvements without requiring dedicated GPUs. The approach uses flash attention and prompt compression for efficient safety classification and domain routing.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Apple's $549 AirPods Max 2 add better ANC and live translation",
+          "url": "https://www.theverge.com/tech/895155/apple-airpods-max-2-pricing-availability",
+          "source": "The Verge",
+          "summary": "Apple announced the AirPods Max 2 with enhanced H2 chip featuring AI-powered live translation and 1.5x more effective noise cancellation. The second-generation over-ear headphones start at $549 and include real-time speech translation capabilities.",
+          "importance": 3
+        },
+        {
+          "title": "This is not a fly uploaded to a computer",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
+          "source": "The Verge",
+          "summary": "Reports on Eon Systems' controversial claims about creating a virtual 'embodied fly' that generated AI hype despite questionable scientific backing. The company claims it wants to build a full digital emulation of a mouse brain within two years.",
+          "importance": 2
+        },
+        {
+          "title": "Aether OS is a computer in a browser built for the AT Protocol",
+          "url": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+          "source": "The Verge",
+          "summary": "Aether OS creates a desktop environment in browsers that integrates with the AT Protocol and Bluesky. The system offers 42 apps covering text editing, task management, and social media with a cyberpunk aesthetic inspired by The Matrix.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+          "url": "https://arxiv.org/abs/2603.12740",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a Monte Carlo tree search-inspired framework for LLM agent tool planning that addresses limitations in current greedy approaches. ToolTree enables more strategic tool selection by accounting for inter-tool dependencies and long-term planning.",
+          "importance": 4
+        },
+        {
+          "title": "Semantic Invariance in Agentic AI",
+          "url": "https://arxiv.org/abs/2603.13173",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces the concept of semantic invariance for LLM agents - ensuring reasoning remains stable under semantically equivalent input variations. This work addresses a critical requirement for deploying autonomous agents in consequential applications.",
+          "importance": 4
+        },
+        {
+          "title": "Efficient and Interpretable Multi-Agent LLM Routing via Ant Colony Optimization",
+          "url": "https://arxiv.org/abs/2603.12933",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes an ant colony optimization approach for routing queries across heterogeneous LLM agent pools to balance quality-cost trade-offs. The method addresses high inference costs and latency issues in multi-agent systems.",
+          "importance": 4
+        },
+        {
+          "title": "CRYSTAL: Clear Reasoning via Yielded Steps, Traceability and Logic",
+          "url": "https://arxiv.org/abs/2603.13099",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a diagnostic benchmark with 6,372 instances for evaluating multimodal reasoning through verifiable intermediate steps. CRYSTAL provides metrics for assessing step-level precision and logical ordering in reasoning chains.",
+          "importance": 3
+        },
+        {
+          "title": "Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation",
+          "url": "https://arxiv.org/abs/2603.13131",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a non-parametric self-evolving framework for embodied agents that couples fine-grained execution diagnosis with dual-track knowledge distillation. The approach enables agents to organize and evolve interaction experience in open-world environments.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "How coding agents work",
+          "url": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Guide explaining the inner workings of coding agents and their implementation patterns. Provides practical insights into how AI coding assistants function and can be effectively utilized.",
+          "importance": 3
+        },
+        {
+          "title": "What is agentic engineering?",
+          "url": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Introduction to agentic engineering concepts and patterns for building AI agent systems. Covers fundamental principles and approaches for developing effective autonomous AI agents.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "totalArticles": 16
+}
