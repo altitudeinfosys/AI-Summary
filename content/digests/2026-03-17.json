@@ -1,0 +1,163 @@
+{
+  "date": "2026-03-17",
+  "generatedAt": "2026-03-17T14:19:10.322Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Introducing Mistral Small 4",
+          "url": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Mistral releases their latest Small 4 model, continuing their series of efficient language models. This represents an incremental update to their model lineup.",
+          "importance": 4
+        },
+        {
+          "title": "VIBEVOICE-ASR Technical Report",
+          "url": "https://arxiv.org/abs/2601.18184",
+          "source": "arXiv CS.AI",
+          "summary": "VibeVoice-ASR introduces a general-purpose speech understanding framework that supports single-pass processing of long-form audio like meetings and podcasts. Unlike traditional pipelined approaches that rely on audio chunking, this system can process extended audio sequences without fragmentation.",
+          "importance": 4
+        },
+        {
+          "title": "FLUX: Data Worth Training On",
+          "url": "https://arxiv.org/abs/2603.13972",
+          "source": "arXiv CS.CL",
+          "summary": "FLUX introduces a new preprocessing pipeline that achieves both massive scale and high data quality for language model training. Current approaches are forced to sacrifice one for the other, but this framework aims to solve both challenges simultaneously.",
+          "importance": 4
+        },
+        {
+          "title": "Why the Valuable Capabilities of LLMs Are Precisely the Unexplainable Ones",
+          "url": "https://arxiv.org/abs/2603.15238",
+          "source": "arXiv CS.AI",
+          "summary": "This paper argues that the most valuable capabilities of large language models reside in aspects that cannot be fully captured by human-readable rules. If LLM capabilities could be described by complete rule sets, they would be equivalent to expert systems.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Use subagents and custom agents in Codex",
+          "url": "https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison explains how to utilize subagents and custom agents within Codex for enhanced coding workflows. This represents new capabilities for developers using AI coding assistants.",
+          "importance": 4
+        },
+        {
+          "title": "GitHub for Beginners: Getting started with GitHub Actions",
+          "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
+          "source": "GitHub Blog",
+          "summary": "A beginner-friendly guide to setting up your first GitHub Actions workflow. This tutorial helps new developers understand automated workflows and CI/CD processes.",
+          "importance": 3
+        },
+        {
+          "title": "Coding agents for data analysis",
+          "url": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison explores the use of AI coding agents specifically for data analysis tasks. This covers practical applications of agent-based programming for analytical workflows.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Nintendo Switch 2 update adds 'Handheld Boost Mode' for original Switch games",
+          "url": "https://www.theverge.com/games/895919/nintendo-switch-2-handheld-boost-mode-update",
+          "source": "The Verge",
+          "summary": "Nintendo's latest Switch 2 update introduces Handheld Boost Mode, which forces original Switch games to run as if connected to TV when in handheld mode. This allows for better visuals by overcoming the previous 720p handheld limitation.",
+          "importance": 4
+        },
+        {
+          "title": "Samsung discontinues its Galaxy Z TriFold after just three months",
+          "url": "https://www.theverge.com/tech/895879/samsung-galaxy-z-trifold-discontinued-stock-sold-out",
+          "source": "The Verge",
+          "summary": "Samsung is discontinuing the $2,899 Galaxy Z TriFold less than three months after its US launch. Sales will wind down in Korea first, then in the US once remaining inventory is cleared.",
+          "importance": 4
+        },
+        {
+          "title": "DLSS 5 looks like a real-time generative AI filter for video games",
+          "url": "https://www.theverge.com/news/895472/nvidia-dlss5-generative-ai-pc-graphics",
+          "source": "The Verge",
+          "summary": "Nvidia announced DLSS 5 at GTC, which uses generative AI to enhance gaming visuals in real-time. CEO Jensen Huang calls this the \"GPT moment for graphics,\" though early reactions are mixed with some calling it \"slop.\"",
+          "importance": 4
+        },
+        {
+          "title": "Hands on with Aqara's new Matter-compatible camera",
+          "url": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review",
+          "source": "The Verge",
+          "summary": "The Aqara Camera Hub G350 is the first camera with Matter support, featuring pan-and-tilt functionality and up to 4K video resolution. Currently only works with Samsung SmartThings as other platforms haven't added Matter 1.5 support yet.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Chart-R1: Chain-of-Thought Supervision and Reinforcement for Advanced Chart Reasoner",
+          "url": "https://arxiv.org/abs/2507.15509",
+          "source": "arXiv CS.AI",
+          "summary": "Chart-R1 introduces a vision-language model specifically designed for chart reasoning tasks, addressing challenges like numerical comprehension and multi-level visual understanding. The model uses chain-of-thought supervision and reinforcement learning to improve performance on complex chart interpretation.",
+          "importance": 4
+        },
+        {
+          "title": "The Phenomenology of Hallucinations",
+          "url": "https://arxiv.org/abs/2603.13911",
+          "source": "arXiv CS.AI",
+          "summary": "This research shows that language models hallucinate not due to failure in detecting uncertainty, but because of failure to integrate uncertainty into output generation. Uncertain inputs are reliably identified but the internal signal is weakly coupled to the output layer.",
+          "importance": 4
+        },
+        {
+          "title": "Think Before You Lie: How Reasoning Leads to Honesty",
+          "url": "https://arxiv.org/abs/2603.09957",
+          "source": "arXiv CS.CL",
+          "summary": "This study investigates conditions that give rise to deceptive behavior in LLMs using realistic moral trade-offs. Contrary to humans who become less honest with deliberation time, reasoning consistently increases honesty in language models.",
+          "importance": 4
+        },
+        {
+          "title": "Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment",
+          "url": "https://arxiv.org/abs/2603.13236",
+          "source": "arXiv CS.AI",
+          "summary": "This paper investigates how humans perceive causal responsibility when AI systems are involved in harmful outcomes. It examines folk perceptions of causal responsibility in causal chain structures across different scenarios of AI involvement.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Subagents",
+          "url": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison provides a comprehensive guide to subagents as an agentic engineering pattern. This resource helps developers understand how to architect and implement subagent systems effectively.",
+          "importance": 4
+        },
+        {
+          "title": "Quoting A member of Anthropic's alignment-science team",
+          "url": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison quotes insights from an Anthropic alignment-science team member regarding AI safety concerns. This provides perspective from industry researchers working on alignment challenges.",
+          "importance": 3
+        },
+        {
+          "title": "Quoting Guilherme Rambo",
+          "url": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison shares insights and observations from developer Guilherme Rambo. This represents community discourse and developer perspectives on current technology trends.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 18
+}
