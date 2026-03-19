@@ -1,0 +1,150 @@
+{
+  "date": "2026-03-19",
+  "generatedAt": "2026-03-19T14:08:24.884Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI to acquire Astral",
+          "url": "https://openai.com/index/openai-to-acquire-astral",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI announces acquisition of Astral to accelerate Codex growth and power the next generation of Python developer tools.",
+          "importance": 5
+        },
+        {
+          "title": "EngGPT2: Sovereign, Efficient and Open Intelligence",
+          "url": "https://arxiv.org/abs/2603.16430",
+          "source": "arXiv CS.AI",
+          "summary": "EngGPT2-16B-A3B is Engineering Group's latest Italian LLM trained on 2.5 trillion tokens, delivering performance comparable to 8B-16B dense models while requiring significantly less inference power.",
+          "importance": 4
+        },
+        {
+          "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+          "url": "https://arxiv.org/abs/2603.15726",
+          "source": "arXiv CS.CL",
+          "summary": "MiroThinker-1.7 is a new research agent designed for complex long-horizon reasoning tasks, with H1 extension providing heavy-duty reasoning capabilities for more reliable multi-step problem solving.",
+          "importance": 4
+        },
+        {
+          "title": "A Family of LLMs Liberated from Static Vocabularies",
+          "url": "https://arxiv.org/abs/2603.15953",
+          "source": "arXiv CS.CL",
+          "summary": "Researchers present a family of models up to 70B parameters based on hierarchical autoregressive tokenization, addressing limitations of fixed vocabulary sizes in current LLMs.",
+          "importance": 3
+        },
+        {
+          "title": "Fanar 2.0: Arabic Generative AI Stack",
+          "url": "https://arxiv.org/abs/2603.16397",
+          "source": "arXiv CS.CL",
+          "summary": "Qatar's second-generation Arabic-centric generative AI platform, designed with sovereignty as a first-class principle and operated entirely on 256 H100 GPUs at QCRI.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Transformers are Bayesian Networks",
+          "url": "https://arxiv.org/abs/2603.17063",
+          "source": "arXiv CS.AI",
+          "summary": "Paper provides precise mathematical proof that transformers implement weighted loopy belief propagation on implicit factor graphs, with one layer corresponding to one round of BP. This holds for any weights - trained, random, or constructed.",
+          "importance": 5
+        },
+        {
+          "title": "Facts as First Class Objects: Knowledge Objects for Persistent LLM Memory",
+          "url": "https://arxiv.org/abs/2603.17781",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers benchmark Knowledge Objects (KOs) - discrete hash-addressed tuples with O(1) retrieval - against in-context memory for LLMs. Claude Sonnet 4.5 achieves 100% accuracy from 10 to 7,000 facts.",
+          "importance": 4
+        },
+        {
+          "title": "AI Scientist via Synthetic Task Scaling",
+          "url": "https://arxiv.org/abs/2603.17216",
+          "source": "arXiv CS.AI",
+          "summary": "Novel approach to training AI agents for automatic scientific discovery using synthetic environment generation pipeline targeting machine learning research, addressing the challenge of learning from doing.",
+          "importance": 4
+        },
+        {
+          "title": "Omnilingual MT: Machine Translation for 1,600 Languages",
+          "url": "https://arxiv.org/abs/2603.16309",
+          "source": "arXiv CS.CL",
+          "summary": "Breakthrough in multilingual machine translation achieving coverage for 1,600 languages, far exceeding current systems that typically support only around 200 languages on the target side.",
+          "importance": 4
+        },
+        {
+          "title": "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences",
+          "url": "https://arxiv.org/abs/2603.15677",
+          "source": "arXiv CS.CL",
+          "summary": "New evaluation framework addressing limitations of static medical LLM benchmarks by capturing complexity and dynamics of real-world clinical practice through clinician preference comparisons.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Adobe's AI image generator can now be trained on your own art",
+          "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+          "source": "The Verge",
+          "summary": "Adobe launches Firefly Custom Models in public beta, allowing creators to train AI models on their own assets for consistent character and style generation. The tool aims to streamline workflows for personalized content creation.",
+          "importance": 4
+        },
+        {
+          "title": "Amazon brings Alexa+ to the UK",
+          "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is expanding Alexa+ availability to the UK market through an early access program, allowing users to try the enhanced voice assistant for free.",
+          "importance": 3
+        },
+        {
+          "title": "Fitbit's AI health coach will soon be able to read your medical records",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+          "source": "The Verge",
+          "summary": "Google announces Fitbit's AI health coach will gain ability to access medical records starting next month in preview for US users. This follows similar moves by competitors like Amazon, OpenAI, and Microsoft in trading sensitive data for personalized health insights.",
+          "importance": 3
+        },
+        {
+          "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+          "url": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+          "source": "TechCrunch AI",
+          "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion. The Sequoia-backed platform focused on AI-powered team collaboration.",
+          "importance": 3
+        },
+        {
+          "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+          "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+          "source": "TechCrunch AI",
+          "summary": "Nothing CEO Carl Pei predicts AI agents will eventually replace smartphone apps, shifting devices toward systems that understand user intent and act autonomously on their behalf.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
+          "url": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Security vulnerability discovered in Snowflake Cortex AI allowing sandbox escape and malware execution.",
+          "importance": 4
+        },
+        {
+          "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+          "url": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Technical analysis of Apple's LLM in a Flash approach applied to running the massive Qwen 397B model on local hardware.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "totalArticles": 17
+}
