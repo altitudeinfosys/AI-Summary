@@ -1,0 +1,177 @@
+{
+  "date": "2026-03-21",
+  "generatedAt": "2026-03-21T13:42:44.223Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Mi:dm K 2.5 Pro",
+          "url": "https://arxiv.org/abs/2603.18788",
+          "source": "arXiv CS.AI",
+          "summary": "A 32B parameter flagship LLM designed for enterprise-grade complexity through reasoning-focused training. It is the second open-weight LLM to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad.",
+          "importance": 4
+        },
+        {
+          "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+          "url": "https://arxiv.org/abs/2603.19220",
+          "source": "arXiv CS.AI",
+          "summary": "An open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models.",
+          "importance": 4
+        },
+        {
+          "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+          "url": "https://arxiv.org/abs/2603.19223",
+          "source": "arXiv CS.AI",
+          "summary": "A new family of general-purpose, multilingual embedding models in 8 sizes from 80M to 14B parameters. Supports over 200 languages with particular emphasis on previously underserved mid- and low-resource languages.",
+          "importance": 3
+        },
+        {
+          "title": "MOSS-TTS Technical Report",
+          "url": "https://arxiv.org/abs/2603.18090",
+          "source": "arXiv CS.AI",
+          "summary": "A speech generation foundation model built on discrete audio tokens and autoregressive modeling with large-scale pretraining. Built on MOSS-Audio-Tokenizer that compresses 24 kHz audio to 12.5 fps with variable-bitrate RVQ.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "SpecForge: A Flexible and Efficient Open-Source Training Framework for Speculative Decoding",
+          "url": "https://arxiv.org/abs/2603.18567",
+          "source": "arXiv CS.AI",
+          "summary": "An open-source, production-oriented framework for training speculative decoding models to accelerate LLM inference. Addresses the lack of high-quality draft models and scalable training infrastructure that has limited speculative decoding adoption.",
+          "importance": 4
+        },
+        {
+          "title": "LLMIA: An Out-of-the-Box Index Advisor via In-Context Learning with LLMs",
+          "url": "https://arxiv.org/abs/2503.07884",
+          "source": "arXiv CS.AI",
+          "summary": "A system that uses LLMs for database index recommendation through in-context learning, avoiding the inefficient exhaustive search of existing methods. Inspired by database administrator refinement strategies for more efficient index identification.",
+          "importance": 3
+        },
+        {
+          "title": "Quine: Realizing LLM Agents as Native POSIX Processes",
+          "url": "https://arxiv.org/abs/2603.18030",
+          "source": "arXiv CS.AI",
+          "summary": "A runtime architecture that realizes LLM agents as native POSIX processes instead of application-layer orchestrators. Maps identity to PID and interface to standard I/O for better integration with operating system mechanisms.",
+          "importance": 3
+        },
+        {
+          "title": "TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+          "url": "https://arxiv.org/abs/2603.17973",
+          "source": "arXiv CS.AI",
+          "summary": "An open-source tool that performs pre-change impact analysis for AI coding agents to reduce regressions. Uses dependency mapping between source code and tests to identify which tests might be affected by proposed changes.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Gemini task automation is slow, clunky, and super impressive",
+          "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+          "source": "The Verge",
+          "summary": "Testing of Gemini's new task automation on Pixel 10 Pro and Galaxy S26 Ultra shows it can use apps for users but is limited to food delivery and rideshare services. While slow and clunky, the capability is described as impressive for its potential.",
+          "importance": 4
+        },
+        {
+          "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+          "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+          "source": "TechCrunch AI",
+          "summary": "Jensen Huang delivered a keynote projecting $1 trillion in AI chip sales through 2027 and declaring every company needs an 'OpenClaw strategy'. The presentation featured various AI demonstrations including a rambling Olaf robot.",
+          "importance": 4
+        },
+        {
+          "title": "A new Nintendo Switch 2 could be the poster child for replaceable batteries",
+          "url": "https://www.theverge.com/games/898313/nintendo-switch-2-eu-replaceable-battery",
+          "source": "The Verge",
+          "summary": "Nintendo plans to release a Switch 2 revision in the EU with user-replaceable batteries to comply with new EU rules taking effect in February 2027. The new version will be released 'soon' with replaceable batteries in both console and Joy-Cons.",
+          "importance": 3
+        },
+        {
+          "title": "Jury finds Elon Musk's 'stupid tweets' caused Twitter investors' losses",
+          "url": "https://www.theverge.com/tech/898511/elon-musk-twitter-lawsuit",
+          "source": "The Verge",
+          "summary": "A California jury determined that Elon Musk misled Twitter investors before his $44 billion acquisition deal in 2022. Musk acknowledged making 'stupid tweets' during testimony, with potential damages reaching as high as $2.6 billion.",
+          "importance": 3
+        },
+        {
+          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+          "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps. This represents a pullback from the company's aggressive AI integration across Windows applications.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Research",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Continually self-improving AI",
+          "url": "https://arxiv.org/abs/2603.18073",
+          "source": "arXiv CS.AI",
+          "summary": "Explores how modern language models remain fundamentally capped by their human creators in three key ways: inefficient knowledge acquisition, dependence on finite human-generated data, and limited learning from specialized corpora. Proposes approaches for AI systems to overcome these limitations through self-improvement.",
+          "importance": 5
+        },
+        {
+          "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+          "url": "https://arxiv.org/abs/2603.18085",
+          "source": "arXiv CS.AI",
+          "summary": "Studies alarming cases where human-AI interactions led to negative psychological outcomes including mental health crises and user harm. Develops methods to study mechanisms underlying harmful interactions that are typically difficult to investigate organically.",
+          "importance": 4
+        },
+        {
+          "title": "From Weak Cues to Real Identities: Evaluating Inference-Driven De-Anonymization in LLM Agents",
+          "url": "https://arxiv.org/abs/2603.18382",
+          "source": "arXiv CS.AI",
+          "summary": "Shows that LLM-based agents can autonomously reconstruct real-world identities from scattered, individually non-identifying cues by combining sparse information with public data. This represents a growing privacy risk that may weaken traditional anonymization barriers.",
+          "importance": 4
+        },
+        {
+          "title": "Reasonably reasoning AI agents can avoid game-theoretic failures in zero-shot, provably",
+          "url": "https://arxiv.org/abs/2603.18563",
+          "source": "arXiv CS.AI",
+          "summary": "Demonstrates that AI agents with reasoning capabilities can avoid game-theoretic failures without specific training or alignment methods. Provides theoretical proofs showing that reasoning-based approaches can achieve strategic equilibrium in zero-shot scenarios.",
+          "importance": 4
+        },
+        {
+          "title": "I Can't Believe It's Corrupt: Evaluating Corruption in Multi-Agent Governance Systems",
+          "url": "https://arxiv.org/abs/2603.18894",
+          "source": "arXiv CS.AI",
+          "summary": "Evaluates multi-agent governance simulations where agents occupy formal governmental roles to assess whether LLMs follow institutional rules when granted authority. Provides systematic evidence about integrity in institutional AI systems.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Turbo Pascal 3.02A, deconstructed",
+          "url": "https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A detailed analysis and deconstruction of the classic Turbo Pascal 3.02A development environment, exploring its architecture and historical significance in programming language development.",
+          "importance": 2
+        },
+        {
+          "title": "Quoting Kimi.ai @Kimi_Moonshot",
+          "url": "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Discussion and commentary on Kimi.ai's developments and announcements, providing community perspective on the AI assistant platform's recent updates and capabilities.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 20
+}
