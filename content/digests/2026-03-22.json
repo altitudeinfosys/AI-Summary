@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-22",
+  "generatedAt": "2026-03-22T13:43:18.963Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Amazon's $50 billion investment in OpenAI and exclusive Trainium lab tour",
+          "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon announced a massive $50 billion investment in OpenAI, with AWS showcasing their Trainium chip lab that has attracted major clients including Anthropic, OpenAI, and Apple. This represents a significant move in the AI infrastructure race.",
+          "importance": 5
+        },
+        {
+          "title": "AI dominates GDC 2026 but remains absent from actual games",
+          "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+          "source": "The Verge",
+          "summary": "The Game Developers Conference was flooded with AI vendors pitching generative tools for NPCs and entire games, including demos from Tencent and Razer's QA assistant. Despite the overwhelming presence of AI technology at the conference, actual games incorporating these tools were notably scarce.",
+          "importance": 4
+        },
+        {
+          "title": "Wall Street remains skeptical despite Nvidia's latest conference",
+          "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+          "source": "TechCrunch AI",
+          "summary": "Despite investor concerns about an AI bubble, Nvidia's recent conference failed to impress Wall Street. However, most industry participants remain unconcerned about potential bubble risks.",
+          "importance": 3
+        },
+        {
+          "title": "AI tokens emerge as potential new form of engineering compensation",
+          "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+          "source": "TechCrunch AI",
+          "summary": "Companies are beginning to offer AI tokens as part of compensation packages for engineers. While this could become the fourth pillar of engineering compensation alongside salary, equity, and benefits, engineers are advised to be cautious about embracing this trend.",
+          "importance": 3
+        },
+        {
+          "title": "Halide co-founder lawsuit over Apple source code transfer",
+          "url": "https://www.theverge.com/business/898687/halide-lawsuit-co-founder-apple",
+          "source": "The Verge",
+          "summary": "Lux Optics co-founder is suing former partner Sebastiaan de With for allegedly bringing Halide source code to Apple when he joined the company. This follows Apple's failed attempt to acquire the popular iPhone photography app developer last summer.",
+          "importance": 3
+        },
+        {
+          "title": "Publisher pulls horror novel over AI generation concerns",
+          "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+          "source": "TechCrunch AI",
+          "summary": "Hachette Book Group decided not to publish the horror novel 'Shy Girl' due to concerns that artificial intelligence was used to generate the text. This highlights growing scrutiny around AI-generated content in traditional publishing.",
+          "importance": 2
+        },
+        {
+          "title": "Online age verification may lead to VPN crackdowns",
+          "url": "https://www.theverge.com/column/898122/online-age-verification-vpns",
+          "source": "The Verge",
+          "summary": "As online age verification requirements expand, VPNs that help users bypass these restrictions may face increased scrutiny and potential crackdowns. This represents a shift from VPNs' original enterprise security purpose to broader privacy and access tool usage.",
+          "importance": 2
+        },
+        {
+          "title": "Compliance startup Delve faces 'fake compliance' accusations",
+          "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "source": "TechCrunch AI",
+          "summary": "An anonymous Substack post alleges that compliance startup Delve falsely convinced hundreds of customers they were compliant with privacy and security regulations. The accusations center around misleading compliance practices.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Using Git with coding agents",
+          "url": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A guide exploring best practices for integrating Git version control with AI coding agents. This addresses the growing need for proper development workflows as AI assistants become more prevalent in software engineering.",
+          "importance": 3
+        },
+        {
+          "title": "Profiling Hacker News users based on their comments",
+          "url": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "An analysis of Hacker News user behavior and patterns based on comment data. This provides insights into the community dynamics and user characteristics of one of tech's most influential discussion platforms.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 10
+}
