@@ -1,0 +1,177 @@
+{
+  "date": "2026-03-23",
+  "generatedAt": "2026-03-23T14:16:34.539Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Cursor admits its new coding model was built on top of Moonshot AI's Kimi",
+          "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+          "source": "TechCrunch AI",
+          "summary": "Cursor, a popular AI coding assistant, revealed that its new model is based on Moonshot AI's Kimi foundation model. This disclosure raises questions about transparency in AI development and the use of Chinese AI models in Western applications.",
+          "importance": 4
+        },
+        {
+          "title": "Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States",
+          "url": "https://arxiv.org/abs/2603.19987",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers identify a fundamental bottleneck in reinforcement learning for LLMs where RL acts as a mere refiner rather than discovering novel strategies. They propose reintroducing Markov states to break through this capability ceiling and enable true discovery of new patterns.",
+          "importance": 4
+        },
+        {
+          "title": "The Residual Stream Is All You Need: On the Redundancy of the KV Cache in Transformer Inference",
+          "url": "https://arxiv.org/abs/2603.19664",
+          "source": "arXiv CS.AI",
+          "summary": "Research proves that the key-value cache in transformer inference is entirely redundant, as keys and values can be recomputed from residual vectors with zero reconstruction error. This finding could significantly reduce memory requirements for transformer inference.",
+          "importance": 4
+        },
+        {
+          "title": "AI influencer awards season is upon us",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+          "source": "The Verge",
+          "summary": "The AI influencer economy is maturing with the introduction of an AI Personality of the Year award. This contest represents the industry's push for legitimacy amid concerns about AI-generated content quality and authenticity.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "HyEvo: Self-Evolving Hybrid Agentic Workflows for Efficient Reasoning",
+          "url": "https://arxiv.org/abs/2603.19639",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces an automated workflow-generation framework that leverages heterogeneous operators to address limitations in existing agentic systems. The approach moves beyond homogeneous LLM-only workflows to create more efficient reasoning systems.",
+          "importance": 4
+        },
+        {
+          "title": "A Subgoal-driven Framework for Improving Long-Horizon LLM Agents",
+          "url": "https://arxiv.org/abs/2603.19685",
+          "source": "arXiv CS.AI",
+          "summary": "Addresses challenges in long-horizon planning for LLM-based agents by introducing a subgoal-driven framework. The research tackles issues where agents lose track during online execution and fail to learn from past experiences.",
+          "importance": 4
+        },
+        {
+          "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
+          "url": "https://arxiv.org/abs/2603.19514",
+          "source": "arXiv CS.AI",
+          "summary": "Addresses the gap in AI mathematical reasoning by focusing on counterexample generation rather than just proof construction. The work fine-tunes LLMs to discover counterexamples that disprove false mathematical statements.",
+          "importance": 4
+        },
+        {
+          "title": "PowerLens: Taming LLM Agents for Safe and Personalized Mobile Power Management",
+          "url": "https://arxiv.org/abs/2603.19584",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a system that uses LLMs' reasoning capabilities for personalized mobile power management on Android devices. The approach bridges the semantic gap between user activities and technical power management decisions.",
+          "importance": 3
+        },
+        {
+          "title": "Embodied Science: Closing the Discovery Loop with Agentic Embodied AI",
+          "url": "https://arxiv.org/abs/2603.19782",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes a paradigm shift toward embodied science where AI systems engage in continuous physical interaction for scientific discovery. The approach addresses limitations of current computational methods that frame discovery as isolated predictions.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Confronting the CEO of the AI company that impersonated me",
+          "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+          "source": "The Verge",
+          "summary": "Interview with Superhuman CEO Shishir Mehrotra discussing AI impersonation concerns and the broader implications for software platforms. The conversation covers how AI is transforming creativity and platform design.",
+          "importance": 4
+        },
+        {
+          "title": "AI is beginning to change the business of law",
+          "url": "https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/",
+          "source": "Ars Technica AI",
+          "summary": "Explores how attorneys are finding legitimate uses for AI beyond generating fake case citations. The article examines the practical applications and limitations of AI in legal practice.",
+          "importance": 3
+        },
+        {
+          "title": "Crimson Desert dev apologizes for use of AI art",
+          "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+          "source": "The Verge",
+          "summary": "The developer of Crimson Desert acknowledged using AI-generated assets in the final release, which were supposed to be replaced before launch. The company is conducting an audit to identify and replace any AI-generated content.",
+          "importance": 3
+        },
+        {
+          "title": "Delve accused of misleading customers with 'fake compliance'",
+          "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+          "source": "TechCrunch AI",
+          "summary": "Anonymous allegations suggest compliance startup Delve falsely convinced hundreds of customers they were compliant with privacy and security regulations. The claims raise questions about AI-powered compliance verification.",
+          "importance": 3
+        },
+        {
+          "title": "The Bay Area's animal welfare movement wants to recruit AI",
+          "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+          "source": "MIT Technology Review",
+          "summary": "Animal welfare advocates and AI researchers are collaborating to explore how artificial intelligence can advance animal protection efforts. The initiative represents a unique intersection of technology and ethical advocacy.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Agentic Harness for Real-World Compilers",
+          "url": "https://arxiv.org/abs/2603.20075",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces llvm-autofix, the first agentic harness designed to help LLM agents fix compiler bugs. The tool addresses the unique challenges of compiler debugging which require deep cross-domain expertise.",
+          "importance": 4
+        },
+        {
+          "title": "POET: Power-Oriented Evolutionary Tuning for LLM-Based RTL PPA Optimization",
+          "url": "https://arxiv.org/abs/2603.19333",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes a framework for using LLMs to optimize RTL code for power, performance, and area improvements. The approach addresses functional correctness concerns and systematic power reduction prioritization.",
+          "importance": 3
+        },
+        {
+          "title": "PAI: Fast, Accurate, and Full Benchmark Performance Projection with AI",
+          "url": "https://arxiv.org/abs/2603.19330",
+          "source": "arXiv CS.AI",
+          "summary": "Addresses the need for fast hardware-software performance analysis in modern SoCs driven by Moore's Law complexity. The approach offers an alternative to slow traditional performance simulators.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Beats now have notes",
+          "url": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison discusses a new feature addition to his personal productivity system. The update appears to enhance note-taking capabilities within his existing workflow tools.",
+          "importance": 2
+        },
+        {
+          "title": "Experimenting with Starlette 1.0 with Claude skills",
+          "url": "https://simonwillison.net/2026/Mar/22/starlette/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Technical experimentation with the Starlette web framework version 1.0 using Claude AI capabilities. The post explores integration possibilities between the framework and AI-powered development tools.",
+          "importance": 2
+        },
+        {
+          "title": "JavaScript Sandboxing Research",
+          "url": "https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Research into JavaScript sandboxing techniques and security considerations. The work explores methods for safely executing JavaScript code in isolated environments.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 20
+}
