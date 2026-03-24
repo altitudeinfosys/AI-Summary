@@ -1,0 +1,163 @@
+{
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T14:19:39.650Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+          "url": "https://arxiv.org/abs/2603.19220",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. It's the second open-weight LLM to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad.",
+          "importance": 5
+        },
+        {
+          "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+          "url": "https://arxiv.org/abs/2603.21065",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a flagship 560-billion-parameter open-source Mixture-of-Experts model that advances Native Formal Reasoning in Lean4. Uses agentic tool-integrated reasoning to decompose formal reasoning into auto-formalization, sketching, and proving capabilities.",
+          "importance": 4
+        },
+        {
+          "title": "Seed1.8 Model Card: Towards Generalized Real-World Agency",
+          "url": "https://arxiv.org/abs/2603.20633",
+          "source": "arXiv CS.AI",
+          "summary": "Presents Seed1.8, a foundation model aimed at generalized real-world agency beyond single-turn prediction. Maintains strong LLM and vision-language performance while supporting unified agentic interfaces for search, code generation, and GUI interaction.",
+          "importance": 4
+        },
+        {
+          "title": "SozKZ: Training Efficient Small Language Models for Kazakh from Scratch",
+          "url": "https://arxiv.org/abs/2603.20854",
+          "source": "arXiv CS.CL",
+          "summary": "Presents SozKZ, a family of Llama-architecture language models (50M-600M parameters) trained from scratch on 9 billion tokens of Kazakh text. Addresses the underserved nature of Kazakh in existing multilingual models with dedicated tokenizers suited to agglutinative morphology.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub expands application security coverage with AI‑powered detections",
+          "url": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+          "source": "GitHub Blog",
+          "summary": "GitHub integrates AI-powered detections with CodeQL to identify vulnerabilities across more languages and frameworks. The enhanced system works together to provide broader application security coverage.",
+          "importance": 4
+        },
+        {
+          "title": "DRTriton: Large-Scale Synthetic Data Reinforcement Learning for Triton Kernel Generation",
+          "url": "https://arxiv.org/abs/2603.21465",
+          "source": "arXiv CS.CL",
+          "summary": "Proposes DRTriton, a scalable learning approach for generating efficient CUDA kernels by converting PyTorch implementations to CUDA. Addresses challenges faced by state-of-the-art LLMs like GPT-5.2 and Claude-Sonnet-4.5 in this specific task.",
+          "importance": 3
+        },
+        {
+          "title": "AngelSlim: A more accessible, comprehensive, and efficient toolkit for large model compression",
+          "url": "https://arxiv.org/abs/2602.21233",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces AngelSlim, a comprehensive toolkit for large model compression developed by Tencent Hunyuan team. Consolidates cutting-edge algorithms including quantization, speculative decoding, token pruning, and distillation into a unified pipeline.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Agentic AI and the next intelligence explosion",
+          "url": "https://arxiv.org/abs/2603.20639",
+          "source": "arXiv CS.AI",
+          "summary": "Challenges the monolithic view of AI singularity, proposing instead that intelligence is fundamentally plural and social. Recent advances in agentic AI reveal that frontier reasoning models simulate internal \"societies of thought\" rather than simply \"thinking longer.\"",
+          "importance": 5
+        },
+        {
+          "title": "The Library Theorem: How External Organization Governs Agentic Reasoning Capacity",
+          "url": "https://arxiv.org/abs/2603.21272",
+          "source": "arXiv CS.AI",
+          "summary": "Formalizes the transformer context window as an I/O page and proves that tool-augmented agents with indexed external memory achieve exponentially lower retrieval cost. Shows O(log_b N) versus Ω(N) page reads for structured retrieval compared to sequential scanning.",
+          "importance": 4
+        },
+        {
+          "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
+          "url": "https://arxiv.org/abs/2603.20213",
+          "source": "arXiv CS.AI",
+          "summary": "Addresses Generative Engine Optimization (GEO) for maximizing visibility in LLM-based search engines. Proposes a self-evolving system that strategically manipulates source content for better inclusion in black-box summarized outputs.",
+          "importance": 4
+        },
+        {
+          "title": "Context Cartography: Toward Structured Governance of Contextual Space in Large Language Model Systems",
+          "url": "https://arxiv.org/abs/2603.20578",
+          "source": "arXiv CS.AI",
+          "summary": "Challenges the assumption that more tokens yield better LLM performance, showing contextual space exhibits structural gradients and entropy accumulation. Proposes structured governance approaches for managing contextual space complexity.",
+          "importance": 4
+        },
+        {
+          "title": "Reasoning Traces Shape Outputs but Models Won't Say So",
+          "url": "https://arxiv.org/abs/2603.20620",
+          "source": "arXiv CS.AI",
+          "summary": "Investigates whether reasoning traces in large reasoning models faithfully reflect what drives outputs. Introduces \"Thought Injection\" method showing models follow injected reasoning but often don't acknowledge doing so across 45,000 samples.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Anthropic's Claude Code and Cowork can control your computer",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+          "source": "The Verge",
+          "summary": "Anthropic has updated Claude to perform tasks autonomously using computer control in Code and Cowork AI tools. The new feature can automatically open files, use web browsers and apps, and run dev tools with no setup required.",
+          "importance": 4
+        },
+        {
+          "title": "Zoox is bringing its robotaxis to Austin and Miami",
+          "url": "https://www.theverge.com/transportation/899323/zoox-robotaxi-las-vegas-san-francisco-austin-miami",
+          "source": "The Verge",
+          "summary": "Amazon-owned Zoox announces expansion of its robotaxi service to Austin and Miami while growing operations in San Francisco and Las Vegas. The company has driven nearly two million driverless miles and served approximately 350,000 passengers since launching customer service.",
+          "importance": 3
+        },
+        {
+          "title": "Apple sets June date for WWDC 2026, teasing 'AI advancements'",
+          "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+          "source": "TechCrunch AI",
+          "summary": "Apple announces WWDC 2026 for June 8-12, with expected major updates to Siri featuring advanced AI capabilities. The conference will focus on AI advancements and developer tools.",
+          "importance": 3
+        },
+        {
+          "title": "Nintendo cuts Switch 2 production amid weakening console sales",
+          "url": "https://www.theverge.com/games/899291/nintendo-switch-2-production-cut-weak-us-sales",
+          "source": "The Verge",
+          "summary": "Nintendo reduces Switch 2 production from 6 million to 4 million units this quarter due to weakening US console demand. The reduced output is expected to continue through April as overseas sales remain soft.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Streaming experts",
+          "url": "https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison discusses the concept of streaming experts and their role in modern AI development and deployment.",
+          "importance": 2
+        },
+        {
+          "title": "datasette-files 0.1a2",
+          "url": "https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Release announcement for datasette-files version 0.1a2, a tool for working with files in Datasette.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 18
+}
