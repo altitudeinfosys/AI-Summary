@@ -1,0 +1,177 @@
+{
+  "date": "2026-03-31",
+  "generatedAt": "2026-03-31T14:27:12.214Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "daVinci-LLM:Towards the Science of Pretraining",
+          "url": "https://arxiv.org/abs/2603.27164",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a systematic approach to studying LLM pretraining phases, addressing the structural paradox between commercial pressures and research transparency. Provides insights into foundational pretraining methods that determine model capability ceilings.",
+          "importance": 4
+        },
+        {
+          "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
+          "url": "https://arxiv.org/abs/2603.16790",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a 32B-parameter code foundation model specifically designed for industrial scenarios requiring hardware semantics and specialized language constructs. Unifies code intelligence across multiple domains with focus on real-world deployment needs.",
+          "importance": 4
+        },
+        {
+          "title": "EngGPT2: Sovereign, Efficient and Open Intelligence",
+          "url": "https://arxiv.org/abs/2603.16430",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces EngGPT2-16B-A3B, an Italian LLM trained on 2.5 trillion tokens delivering performance comparable to 8B-16B models while requiring significantly less inference power. Achieves strong results on key benchmarks including MMLU-Pro, GSM8K, and HumanEval.",
+          "importance": 3
+        },
+        {
+          "title": "KazByte: Adapting Qwen models to Kazakh via Byte-level Adapter",
+          "url": "https://arxiv.org/abs/2603.27859",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes bypassing tokenizers entirely by feeding raw bytes through a small adapter for Kazakh language support. Addresses the tokenizer tax that inflates compute costs and weakens morphological understanding for low-resource languages.",
+          "importance": 3
+        },
+        {
+          "title": "DongYuan: An LLM-Based Framework for Integrative Chinese and Western Medicine Spleen-Stomach Disorders Diagnosis",
+          "url": "https://arxiv.org/abs/2603.28191",
+          "source": "arXiv CS.AI",
+          "summary": "Develops a specialized LLM framework for medical diagnosis combining traditional Chinese medicine with Western medicine approaches. Addresses challenges in high-quality data scarcity and integration of different medical reasoning paradigms.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub for Beginners: Getting started with GitHub security",
+          "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+          "source": "GitHub Blog",
+          "summary": "Educational guide covering GitHub Advanced Security features for protecting projects and maintaining safe development practices.",
+          "importance": 2
+        },
+        {
+          "title": "datasette-files 0.1a3",
+          "url": "https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Pre-release version of datasette-files plugin for managing file operations within Datasette environments.",
+          "importance": 2
+        },
+        {
+          "title": "datasette-llm 0.1a3",
+          "url": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Pre-release version of datasette-llm plugin integrating LLM capabilities directly into Datasette workflows.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Samsung finally brings blood pressure tracking to US Galaxy Watches",
+          "url": "https://www.theverge.com/tech/903946/samsung-galaxy-watch-blood-pressure-monitoring-us-launch",
+          "source": "The Verge",
+          "summary": "Samsung rolls out blood pressure monitoring to Galaxy Watch users in the US after years of availability elsewhere. Feature requires additional third-party cuff for baseline measurements but enables continuous monitoring alongside heart rate tracking.",
+          "importance": 3
+        },
+        {
+          "title": "You can finally replace your embarrassing Gmail username",
+          "url": "https://www.theverge.com/tech/904005/google-change-gmail-email-address",
+          "source": "The Verge",
+          "summary": "Gmail users in the US can now change their email address username while keeping their account history intact. Users can create one new email address, with the old address remaining as an alternate for message delivery.",
+          "importance": 3
+        },
+        {
+          "title": "Nvidia rolls out DLSS 4.5 update with new frame generation features",
+          "url": "https://www.theverge.com/tech/903934/nvidia-dlss-4-5-multi-frame-generation-app-beta-launch",
+          "source": "The Verge",
+          "summary": "DLSS 4.5 introduces AI-powered frame generation with 6x Multi Frame Generation for RTX 50-series GPUs. The update is available through Nvidia's app beta and supports over 20 gaming titles with improved performance and image quality.",
+          "importance": 3
+        },
+        {
+          "title": "Instagram tests letting you pay to view stories anonymously",
+          "url": "https://www.theverge.com/tech/904032/instagram-premium-subscription-story-viewing-anonymously",
+          "source": "The Verge",
+          "summary": "Meta tests Instagram premium subscription offering anonymous story viewing, replay analytics, and unlimited audience lists for stories. The paid plan would allow users to see engagement metrics and create targeted story audiences.",
+          "importance": 3
+        },
+        {
+          "title": "OkCupid settles claims it shared user photos with a facial recognition company",
+          "url": "https://www.theverge.com/policy/903999/okcupid-settles-claims-it-shared-user-photos-with-a-facial-recognition-company",
+          "source": "The Verge",
+          "summary": "OkCupid and Match Group settle FTC claims about sharing user photos with facial recognition company Clarifai without consent. The companies promised not to make similar misrepresentations in the future while not admitting wrongdoing.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
+          "url": "https://arxiv.org/abs/2603.26996",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a private benchmark for evaluating AI models' ability to produce formally verified mathematical proofs at graduate level. Each task pairs natural-language problems with Lean 4 formal statements, targeting advanced undergraduate and graduate mathematics.",
+          "importance": 4
+        },
+        {
+          "title": "CounterMoral: Editing Morals in Language Models",
+          "url": "https://arxiv.org/abs/2603.27338",
+          "source": "arXiv CS.AI",
+          "summary": "Presents CounterMoral, a benchmark for assessing model editing techniques in modifying moral judgments across diverse ethical frameworks. Applies various editing techniques to evaluate how well current methods can modify moral reasoning while maintaining model performance.",
+          "importance": 4
+        },
+        {
+          "title": "The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop",
+          "url": "https://arxiv.org/abs/2603.26707",
+          "source": "arXiv CS.AI",
+          "summary": "Documents a self-reinforcing dynamic between exponentially expanding LLM context windows and declining human attention capacity. AI context windows have grown from 512 tokens to 2 million tokens while human sustained attention has contracted, creating concerning asymmetries in cognitive capabilities.",
+          "importance": 4
+        },
+        {
+          "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+          "url": "https://arxiv.org/abs/2603.27150",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a decentralized multi-agent system for medical reasoning that addresses scalability bottlenecks and single points of failure in centralized architectures. Enables collaborative intelligence for complex interdisciplinary medical problems with robust uncertainty handling.",
+          "importance": 4
+        },
+        {
+          "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+          "url": "https://arxiv.org/abs/2603.26838",
+          "source": "arXiv CS.AI",
+          "summary": "Comprehensive survey of uncertainty-aware explainable AI examining how uncertainty is incorporated into explanatory pipelines. Identifies three recurring approaches: Bayesian, Monte Carlo, and Conformal methods with distinct integration strategies.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
+          "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Discussion of a Victorian-era inspired language model with ethical training constraints that can be run locally. Represents an interesting experiment in historical ethical frameworks applied to modern AI systems.",
+          "importance": 2
+        },
+        {
+          "title": "Quoting Georgi Gerganov",
+          "url": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Commentary or quotes from Georgi Gerganov, likely discussing developments in local AI inference or related technical topics.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 20
+}
