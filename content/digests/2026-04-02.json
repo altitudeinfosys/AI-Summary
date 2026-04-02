@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-02",
+  "generatedAt": "2026-04-02T14:22:21.381Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Dynin-Omni: Omnimodal Unified Large Diffusion Language Model",
+          "url": "https://arxiv.org/abs/2604.00007",
+          "source": "arXiv CS.AI",
+          "summary": "First masked-diffusion-based omnimodal foundation model that unifies text, image, and speech understanding and generation, together with video understanding, within a single architecture. Unlike autoregressive or compositional unified models, Dynin-Omni natively formulates omnimodal modeling as masked diffusion.",
+          "importance": 5
+        },
+        {
+          "title": "OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models",
+          "url": "https://arxiv.org/abs/2604.00688",
+          "source": "arXiv CS.CL",
+          "summary": "Massive multilingual zero-shot text-to-speech model that scales to over 600 languages using a novel diffusion language model-style discrete non-autoregressive architecture. Unlike conventional discrete NAR models, OmniVoice directly maps text to multi-codebook acoustic tokens.",
+          "importance": 5
+        },
+        {
+          "title": "Universal YOCO for Efficient Depth Scaling",
+          "url": "https://arxiv.org/abs/2604.01220",
+          "source": "arXiv CS.CL",
+          "summary": "Combines the YOCO decoder-decoder architecture with recursive computation to enable efficient test-time scaling. Addresses standard Transformers' struggle with scaling inference-time compute efficiently due to high computational overhead.",
+          "importance": 4
+        },
+        {
+          "title": "Routing-Free Mixture-of-Experts",
+          "url": "https://arxiv.org/abs/2604.00801",
+          "source": "arXiv CS.AI",
+          "summary": "Eliminates hard-coded centralized routing mechanisms in MoE models, instead encapsulating all activation functionalities within individual experts. Each expert determines its activation through continuous gradient flow optimization.",
+          "importance": 4
+        },
+        {
+          "title": "LinearARD: Linear-Memory Attention Distillation for RoPE Restoration",
+          "url": "https://arxiv.org/abs/2604.00004",
+          "source": "arXiv CS.AI",
+          "summary": "Self-distillation method that restores Rotary Position Embeddings (RoPE)-scaled models' original capabilities after context window extension. Addresses performance degradation on standard short-text benchmarks that occurs during continual pre-training.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Run multiple agents at once with /fleet in Copilot CLI",
+          "url": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+          "source": "GitHub Blog",
+          "summary": "New /fleet feature allows Copilot CLI to dispatch multiple agents in parallel. Users can write prompts that split work across files, declare dependencies, and avoid common pitfalls in multi-agent workflows.",
+          "importance": 4
+        },
+        {
+          "title": "Securing the open source supply chain across GitHub",
+          "url": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+          "source": "GitHub Blog",
+          "summary": "GitHub addresses recent attacks on open source that focus on exfiltrating secrets. Provides prevention steps users can take today, plus overview of security capabilities GitHub is developing.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG",
+          "url": "https://arxiv.org/abs/2501.09136",
+          "source": "arXiv CS.AI",
+          "summary": "Comprehensive survey on how autonomous agents can enhance RAG systems through dynamic planning, tool use, and adaptive retrieval strategies. Addresses limitations of static RAG approaches in handling complex, multi-step reasoning tasks.",
+          "importance": 5
+        },
+        {
+          "title": "BloClaw: An Omniscient, Multi-Modal Agentic Workspace for Next-Generation Scientific Discovery",
+          "url": "https://arxiv.org/abs/2604.00550",
+          "source": "arXiv CS.AI",
+          "summary": "Framework addressing infrastructural vulnerabilities in AI Scientists for life sciences. Overcomes bottlenecks from fragile JSON-based tool-calling protocols and rigid conversational interfaces in research environments.",
+          "importance": 4
+        },
+        {
+          "title": "OrgAgent: Organize Your Multi-Agent System like a Company",
+          "url": "https://arxiv.org/abs/2604.01020",
+          "source": "arXiv CS.AI",
+          "summary": "Company-style hierarchical multi-agent framework with governance, execution, and compliance layers. Decomposes multi-agent reasoning into structured layers for planning, resource allocation, and regulatory compliance.",
+          "importance": 4
+        },
+        {
+          "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+          "url": "https://arxiv.org/abs/2604.01221",
+          "source": "arXiv CS.AI",
+          "summary": "New benchmark for evaluating agents' capabilities on multimodal file management in user-centric environments. Unlike existing benchmarks focusing on web interaction, HippoCamp evaluates personal file context-aware reasoning.",
+          "importance": 4
+        },
+        {
+          "title": "The Silicon Mirror: Dynamic Behavioral Gating for Anti-Sycophancy in LLM Agents",
+          "url": "https://arxiv.org/abs/2604.00478",
+          "source": "arXiv CS.AI",
+          "summary": "Framework that dynamically detects user persuasion tactics and adjusts AI behavior to maintain factual integrity. Introduces Behavioral Access Control system that restricts context layer access based on real-time sycophancy risk.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Microsoft's new 'superintelligence' game plan is all about business",
+          "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+          "source": "The Verge",
+          "summary": "Mustafa Suleyman shifts focus to chasing superintelligence after Microsoft's large-scale restructuring. He's been preparing for the transition for up to nine months, including renegotiating Microsoft's contract with OpenAI.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+          "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic accidentally took down thousands of GitHub repositories while attempting to remove leaked source code. The company said it was an accident and retracted the bulk of the takedown notices.",
+          "importance": 4
+        },
+        {
+          "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+          "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+          "source": "Ars Technica AI",
+          "summary": "Analysis of leaked Anthropic source code reveals plans for persistent agents, stealth \"Undercover\" mode, and a virtual assistant named Buddy. The leak provides insights into Anthropic's future product direction.",
+          "importance": 4
+        },
+        {
+          "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+          "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+          "source": "TechCrunch AI",
+          "summary": "Cognichip raises $60M to develop AI systems that design AI chips. The company claims it can reduce chip development costs by more than 75% and cut timelines by more than half.",
+          "importance": 3
+        },
+        {
+          "title": "A jury says Meta and Google hurt a kid. What now?",
+          "url": "https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230",
+          "source": "The Verge",
+          "summary": "Landmark social media addiction trials result in major verdicts against Meta and Google. Cases have huge repercussions for platform operations and speech regulation in America, with both companies planning to appeal.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "March 2026 sponsors-only newsletter",
+          "url": "https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Monthly newsletter update for sponsors covering recent developments and insights.",
+          "importance": 2
+        },
+        {
+          "title": "datasette-llm 0.1a6",
+          "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "New alpha release of datasette-llm integration tool.",
+          "importance": 2
+        },
+        {
+          "title": "datasette-enrichments-llm 0.2a1",
+          "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "New alpha release of datasette-enrichments-llm for data enhancement workflows.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 20
+}
