@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-05",
+  "generatedAt": "2026-04-05T13:55:05.535Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "A folk musician became a target for AI fakes and a copyright troll",
+          "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+          "source": "The Verge",
+          "summary": "Folk artist Murphy Campbell discovered AI-generated covers of her songs uploaded to Spotify without her permission. Someone had pulled her YouTube performances and created fake AI vocals, highlighting growing issues with AI content and copyright abuse.",
+          "importance": 4
+        },
+        {
+          "title": "How the Amazon Echo learned to talk — and listen",
+          "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
+          "source": "The Verge",
+          "summary": "A deep dive into the development history of Amazon's Echo and Alexa voice assistant. The article explores Jeff Bezos's vision for voice computing and the technical challenges the team faced in making it a reality.",
+          "importance": 3
+        },
+        {
+          "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+          "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is introducing additional charges for Claude Code subscribers who want to use OpenClaw and other third-party tools. This represents a shift in pricing strategy for the AI coding assistant service.",
+          "importance": 3
+        },
+        {
+          "title": "My dream pair of AR gaming glasses needs to have these nine features",
+          "url": "https://www.theverge.com/gadgets/906586/best-ar-glasses-viture-xreal-gaming-steam-deck-switch-2",
+          "source": "The Verge",
+          "summary": "A hands-on review of AR glasses from Xreal and Viture for gaming with Steam Deck and Nintendo Switch. The author highlights 3DoF (three degrees of freedom) as a must-have feature that allows anchoring virtual screens in space.",
+          "importance": 2
+        },
+        {
+          "title": "Is the Slate Truck too minimal for its own good?",
+          "url": "https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design",
+          "source": "The Verge",
+          "summary": "Review of the compact Slate Truck EV, which measures similar to a 1985 Toyota SR5 from Back to the Future. The article questions whether the truck's minimalist design philosophy may be too extreme for practical use.",
+          "importance": 2
+        },
+        {
+          "title": "Grammarly's sloppelganger saga",
+          "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+          "source": "The Verge",
+          "summary": "The Stepback newsletter covers Grammarly's recent developments and bigger ambitions beyond its browser extension. The company has been expanding its AI capabilities and rebranding efforts.",
+          "importance": 2
+        },
+        {
+          "title": "Buy two Nintendo Switch games, get $30 off at Target",
+          "url": "https://www.theverge.com/gadgets/906843/nintendo-switch-2-game-sale-target-circle-deal",
+          "source": "The Verge",
+          "summary": "Target is offering a limited-time deal for Circle members to save $30 when buying two Nintendo Switch games. The promotion includes 224 eligible games and expires at 2:59AM ET on April 5th.",
+          "importance": 1
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "scan-for-secrets 0.2",
+          "url": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Latest version release of the scan-for-secrets tool by Simon Willison. Details about the specific improvements and changes are not available in the snippet.",
+          "importance": 2
+        },
+        {
+          "title": "research-llm-apis 2026-04-04",
+          "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison's research update on LLM APIs dated April 4th, 2026. Specific details about the research findings are not provided in the available snippet.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 9
+}
