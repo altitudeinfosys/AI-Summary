@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-07T14:45:07.405Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Voxtral TTS",
+          "url": "https://arxiv.org/abs/2603.25551",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces Voxtral TTS, an expressive multilingual text-to-speech model that generates natural speech from just 3 seconds of reference audio. The model uses a hybrid architecture combining auto-regressive semantic token generation with flow-matching for acoustic tokens.",
+          "importance": 5
+        },
+        {
+          "title": "Voxtral Realtime",
+          "url": "https://arxiv.org/abs/2602.11298",
+          "source": "arXiv CS.AI",
+          "summary": "Presents Voxtral Realtime, a natively streaming automatic speech recognition model that matches offline transcription quality at sub-second latency. Unlike approaches that adapt offline models, this is trained end-to-end for streaming with explicit audio-text alignment.",
+          "importance": 5
+        },
+        {
+          "title": "Self-Improving Pretraining: using post-trained models to pretrain better models",
+          "url": "https://arxiv.org/abs/2601.21343",
+          "source": "arXiv CS.CL",
+          "summary": "Proposes a paradigm shift where post-trained models are used to improve pretraining data quality. This approach addresses the limitation that desirable behaviors like safety and reasoning are only added in late-stage training.",
+          "importance": 5
+        },
+        {
+          "title": "Flow Map Language Models: One-step Language Modeling via Continuous Denoising",
+          "url": "https://arxiv.org/abs/2602.16813",
+          "source": "arXiv CS.CL",
+          "summary": "Demonstrates that language models based on continuous flows over one-hot token embeddings can outperform discrete diffusion models. This approach enables faster generation than autoregressive models while maintaining quality.",
+          "importance": 4
+        },
+        {
+          "title": "Projected Autoregression: Autoregressive Language Generation in Continuous State Space",
+          "url": "https://arxiv.org/abs/2601.04854",
+          "source": "arXiv CS.CL",
+          "summary": "Replaces discrete token selection with continuous prediction in embedding space followed by discrete projection. This approach allows for more flexible autoregressive generation while maintaining compatibility with existing architectures.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub Copilot CLI combines model families for a second opinion",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
+          "source": "GitHub Blog",
+          "summary": "GitHub introduces Rubber Duck feature that provides different perspectives to Copilot CLI by combining multiple model families. This gives developers a second opinion on their code solutions.",
+          "importance": 4
+        },
+        {
+          "title": "ENCRUST: Encapsulated Substitution and Agentic Refinement on a Live Scaffold for Safe C-to-Rust Translation",
+          "url": "https://arxiv.org/abs/2604.04527",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a two-phase pipeline for translating real-world C projects to safe Rust. The approach handles cross-unit type mismatches and unsafe constructs requiring whole-program reasoning.",
+          "importance": 3
+        },
+        {
+          "title": "Inside the Scaffold: A Source-Code Taxonomy of Coding Agent Architectures",
+          "url": "https://arxiv.org/abs/2604.03515",
+          "source": "arXiv CS.AI",
+          "summary": "Provides a systematic analysis of LLM-based coding agent architectures by examining the scaffolding code that surrounds language models. The study identifies architectural patterns in control loops, tool definitions, and context strategies.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Collective AI can amplify tiny perturbations into divergent decisions",
+          "url": "https://arxiv.org/abs/2603.09127",
+          "source": "arXiv CS.AI",
+          "summary": "Shows that iterative multi-LLM deliberation can amplify tiny perturbations into divergent conversational trajectories and different final decisions. Even in fully deterministic benchmarks, exact reruns can lead to dramatically different outcomes.",
+          "importance": 5
+        },
+        {
+          "title": "Truth as a Compression Artifact in Language Model Training",
+          "url": "https://arxiv.org/abs/2603.11749",
+          "source": "arXiv CS.CL",
+          "summary": "Shows that language models trained on contradictory data prefer correct answers based on compressibility structure rather than truth itself. Controlled experiments reveal that preference tracks error compressibility patterns.",
+          "importance": 5
+        },
+        {
+          "title": "LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations",
+          "url": "https://arxiv.org/abs/2602.09924",
+          "source": "arXiv CS.CL",
+          "summary": "Demonstrates that linear probes on pre-generation activations can predict task success before text generation begins. This enables more efficient inference by selectively applying expensive reasoning only when needed.",
+          "importance": 4
+        },
+        {
+          "title": "Hallucination Basins: A Dynamic Framework for Understanding and Controlling LLM Hallucinations",
+          "url": "https://arxiv.org/abs/2604.04743",
+          "source": "arXiv CS.CL",
+          "summary": "Presents a geometric dynamical systems framework where hallucinations arise from task-dependent basin structure in latent space. The research shows that separability is strongly task-dependent rather than universal.",
+          "importance": 4
+        },
+        {
+          "title": "When Do Hallucinations Arise? A Graph Perspective on the Evolution of Path Reuse and Path Compression",
+          "url": "https://arxiv.org/abs/2604.03557",
+          "source": "arXiv CS.AI",
+          "summary": "Models next-token prediction as graph search and identifies mechanisms by which decoder-only transformers produce hallucinations. The study reveals how entities and transitions affect reasoning quality.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
+          "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch announces final days for early bird pricing on Disrupt 2026 tickets. Attendees can save up to $482 before the April 10 deadline.",
+          "importance": 2
+        },
+        {
+          "title": "Paper Espresso: From Paper Overload to Research Insight",
+          "url": "https://arxiv.org/abs/2604.04562",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces an open-source platform that automatically discovers, summarizes, and analyzes trending arXiv papers using LLMs. The system provides structured summaries and multi-granularity trend analysis.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 15
+}
