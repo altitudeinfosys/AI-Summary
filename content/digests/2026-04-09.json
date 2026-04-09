@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T14:57:46.013Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+          "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI announces official terms and conditions for their Full Fan Mode Contest. The contest involves Instagram submissions and offers IPL match tickets as prizes.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub Universe is back: We want you to take the stage",
+          "url": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
+          "source": "GitHub Blog",
+          "summary": "GitHub announces the return of GitHub Universe conference and calls for speakers. The post highlights five memorable sessions from previous events to inspire potential presenters.",
+          "importance": 4
+        },
+        {
+          "title": "GitHub availability report: March 2026",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+          "source": "GitHub Blog",
+          "summary": "GitHub reports four incidents in March 2026 that resulted in degraded performance across their services. This is part of their regular transparency reporting on platform reliability.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "The AI industry's race for profits is now existential",
+          "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+          "source": "The Verge",
+          "summary": "Analysis of the looming AI monetization cliff facing major companies like Anthropic and OpenAI. The article explores whether these companies can become profitable before running into financial constraints.",
+          "importance": 5
+        },
+        {
+          "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+          "url": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+          "source": "Ars Technica AI",
+          "summary": "Meta releases Muse Spark, the first public model from their Superintelligence Lab. The company reports strong benchmarks but acknowledges performance gaps in agentic and coding systems.",
+          "importance": 4
+        },
+        {
+          "title": "Google makes it easy to deepfake yourself",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+          "source": "The Verge",
+          "summary": "YouTube Shorts introduces AI-powered avatar creation that allows users to easily clone themselves on camera. This reflects the platform's complex relationship with AI-generated content amid concerns about deepfakes and impersonation.",
+          "importance": 4
+        },
+        {
+          "title": "Amazon's Starlink competitor Leo gets a new date",
+          "url": "https://www.theverge.com/tech/909122/amazons-starlink-competitor-leo-gets-a-new-date",
+          "source": "The Verge",
+          "summary": "Amazon CEO Andy Jassy announces that Project Kuiper (now called Leo) will launch commercially in mid-2026. Unlike SpaceX's Starlink, Amazon doesn't have its own rocket fleet for regular satellite deployments.",
+          "importance": 4
+        },
+        {
+          "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
+          "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/",
+          "source": "Ars Technica AI",
+          "summary": "Elon Musk changes his legal strategy in his lawsuit against OpenAI, offering to donate all potential damages to the nonprofit. This comes after initially seeking up to $134 billion in damages.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "The End of the Foundation Model Era: Open-Weight Models, Sovereign AI, and Inference as Infrastructure",
+          "url": "https://arxiv.org/abs/2604.06217",
+          "source": "arXiv CS.AI",
+          "summary": "This paper argues that the foundation model era (2020-2025) is ending as open source models reach frontier performance and inference costs approach zero. It suggests that pre-training large language models at scale is no longer a durable competitive advantage.",
+          "importance": 5
+        },
+        {
+          "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+          "url": "https://arxiv.org/abs/2604.06233",
+          "source": "arXiv CS.AI",
+          "summary": "Research demonstrates that safety-trained language models routinely refuse to help circumvent rules, even when those rules are imposed by illegitimate authority or are deeply unjust. The study introduces the concept of 'blind refusal' as a failure of moral reasoning in AI systems.",
+          "importance": 4
+        },
+        {
+          "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+          "url": "https://arxiv.org/abs/2604.06392",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces the first application-layer operating system for universal AI agent orchestration. Unlike kernel-level approaches, Qualixar OS provides a complete runtime for heterogeneous multi-agent systems spanning 10 LLM providers and 8+ agent frameworks.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Meta's new model is Muse Spark, and meta.ai chat has some interesting tools",
+          "url": "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison discusses Meta's new Muse Spark model and highlights interesting tools available in meta.ai chat interface.",
+          "importance": 3
+        },
+        {
+          "title": "Quoting Giles Turnbull",
+          "url": "https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A brief community post from Simon Willison sharing thoughts or quotes from Giles Turnbull.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 13
+}
