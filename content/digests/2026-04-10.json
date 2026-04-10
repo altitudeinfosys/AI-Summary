@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-10",
+  "generatedAt": "2026-04-10T14:16:56.248Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "ChatGPT has a new $100 per month Pro subscription",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+          "source": "The Verge",
+          "summary": "OpenAI announced a new ChatGPT Pro tier costing $100 per month, offering 5x more usage of its Codex coding tool than the $20 Plus subscription. The new tier is designed for longer, high-effort coding sessions and directly competes with Anthropic's Claude Max tier.",
+          "importance": 4
+        },
+        {
+          "title": "ChatGPT finally offers $100/month Pro plan",
+          "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI launched a $100/month ChatGPT Pro plan to fill the gap between the $20 and $200 monthly subscription tiers. The plan targets power users who need enhanced capabilities but don't require the full enterprise-level features.",
+          "importance": 4
+        },
+        {
+          "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+          "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's AI app jumped from No. 57 to No. 5 on the App Store following the launch of its new Muse Spark model. The significant ranking improvement demonstrates strong user interest in Meta's latest AI capabilities.",
+          "importance": 3
+        },
+        {
+          "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+          "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic limited the release of its newest model, Mythos, citing concerns about its ability to find security exploits in software. Questions arise about whether cybersecurity concerns or competitive considerations are driving the restricted access.",
+          "importance": 3
+        },
+        {
+          "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+          "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+          "source": "Ars Technica AI",
+          "summary": "Anthropic's Mythos model underwent 20 hours of psychiatric evaluation as part of its development process. The company describes Mythos as \"the most psychologically settled model we have trained to date.\"",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Cloudflare made a WordPress for AI agents",
+          "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
+          "source": "The Verge",
+          "summary": "Cloudflare announced EmDash, a new open-source system designed to address WordPress's limitations by allowing AI agents to control websites. The system aims to fix core problems that WordPress cannot solve while maintaining a familiar interface.",
+          "importance": 4
+        },
+        {
+          "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+          "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+          "source": "The Verge",
+          "summary": "Microsoft is removing \"unnecessary\" Copilot buttons from Windows 11 apps like Notepad and Snipping Tool. The changes are part of reducing unnecessary Copilot entry points while replacing some with more specific tools like \"writing tools\" menus.",
+          "importance": 3
+        },
+        {
+          "title": "Evaluating LLM-Based 0-to-1 Software Generation in End-to-End CLI Tool Scenarios",
+          "url": "https://arxiv.org/abs/2604.06742",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers introduce CLI-Tool-Bench to evaluate LLMs' ability to generate complete software from scratch rather than using predefined scaffolds. The benchmark focuses on end-to-end behavioral validation for CLI tools to better assess real-world code generation capabilities.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "The End of the Foundation Model Era: Open-Weight Models, Sovereign AI, and Inference as Infrastructure",
+          "url": "https://arxiv.org/abs/2604.06217",
+          "source": "arXiv CS.AI",
+          "summary": "A significant paper arguing that the foundation model era (2020-2025) is ending as open-source models reach frontier performance while inference costs approach zero. The work suggests that pre-training large language models at scale is no longer a durable competitive advantage.",
+          "importance": 5
+        },
+        {
+          "title": "Qualixar OS: A Universal Operating System for AI Agent Orchestration",
+          "url": "https://arxiv.org/abs/2604.06392",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers present the first application-layer operating system designed for universal AI agent orchestration. Qualixar OS provides a complete runtime for heterogeneous multi-agent systems spanning 10 LLM providers, 8+ agent frameworks, and 7 transport protocols.",
+          "importance": 4
+        },
+        {
+          "title": "Riemann-Bench: A Benchmark for Moonshot Mathematics",
+          "url": "https://arxiv.org/abs/2604.06802",
+          "source": "arXiv CS.AI",
+          "summary": "A new benchmark designed to test advanced mathematical reasoning capabilities beyond competition-style problems. The benchmark focuses on evaluating deep theoretical knowledge and complex mathematical reasoning rather than trick-based solutions.",
+          "importance": 4
+        },
+        {
+          "title": "Beyond Surface Judgments: Human-Grounded Risk Evaluation of LLM-Generated Disinformation",
+          "url": "https://arxiv.org/abs/2604.06820",
+          "source": "arXiv CS.AI",
+          "summary": "Research examining how readers actually receive LLM-generated disinformation content, moving beyond surface-level evaluation metrics. The study investigates whether LLM judges can faithfully track human responses to potentially misleading content.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Fear and loathing at OpenAI",
+          "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+          "source": "The Verge",
+          "summary": "The Verge discusses Sam Altman's tumultuous tenure at OpenAI, including his brief firing and reinstatement as CEO. The coverage explores questions about whether Altman is the right person to lead development of such transformative AI technology.",
+          "importance": 4
+        },
+        {
+          "title": "Gen Z's love-hate relationship with AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+          "source": "The Verge",
+          "summary": "A new Gallup report reveals Gen Z is increasingly disillusioned with AI despite continued usage. The poll found falling enthusiasm and growing resentment toward AI technology among young people ages 14-29.",
+          "importance": 3
+        },
+        {
+          "title": "YouTube Premium is getting pricier",
+          "url": "https://www.theverge.com/streaming/909698/youtube-premium-price-hike-us",
+          "source": "The Verge",
+          "summary": "YouTube Premium prices are increasing in the US, with individual plans rising from $13.99 to $15.99 per month and family plans jumping from $22.99 to $26.99. The price hikes affect both new and existing customers.",
+          "importance": 2
+        },
+        {
+          "title": "Snap is sticking with Qualcomm for its next AR glasses",
+          "url": "https://www.theverge.com/tech/909608/snap-specs-qualcomm-snapdragon-ar-glasses",
+          "source": "The Verge",
+          "summary": "Snap announced a multi-year strategic agreement with Qualcomm to power its upcoming consumer AR glasses with Snapdragon XR chips. The AR glasses are set to launch sometime this year as Snap continues its decade-long development of smart glasses.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+          "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch is offering final discounts of up to $500 for Disrupt 2026 conference passes. The promotional pricing ends at 11:59 p.m. PT, giving attendees one last chance to secure savings on the major tech event.",
+          "importance": 2
+        },
+        {
+          "title": "GitHub Repo Size",
+          "url": "https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison discusses GitHub repository size considerations. The article appears to cover technical aspects of managing repository size on the GitHub platform.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 18
+}
