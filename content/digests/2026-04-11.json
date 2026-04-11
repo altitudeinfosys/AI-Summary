@@ -1,0 +1,133 @@
+{
+  "date": "2026-04-11",
+  "generatedAt": "2026-04-11T13:56:41.128Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": []
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+          "source": "GitHub Blog",
+          "summary": "GitHub provides a step-by-step tutorial for beginners to get started with the GitHub Copilot CLI. This guide helps developers integrate AI-powered command-line assistance into their workflow.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman's house",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+          "source": "The Verge",
+          "summary": "San Francisco police arrested a 20-year-old suspect for throwing a Molotov cocktail at OpenAI CEO Sam Altman's residence. The incident was captured on surveillance cameras and the suspect was later seen making threats outside OpenAI offices.",
+          "importance": 5
+        },
+        {
+          "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser's delusions and ignored her warnings",
+          "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+          "source": "TechCrunch AI",
+          "summary": "A lawsuit alleges OpenAI ignored three warnings about a dangerous ChatGPT user, including its own mass-casualty flag, while he stalked and harassed his ex-girlfriend. The case raises questions about AI safety measures and corporate responsibility.",
+          "importance": 4
+        },
+        {
+          "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+          "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+          "source": "Ars Technica AI",
+          "summary": "A study reveals that AI models from Google, OpenAI, Anthropic, and xAI perform poorly at Premier League betting predictions. xAI's Grok model showed particularly weak performance in sports betting scenarios.",
+          "importance": 3
+        },
+        {
+          "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
+          "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+          "source": "Ars Technica AI",
+          "summary": "Leaked files suggest Valve may be developing AI tools called \"SteamGPT\" for content moderation. These AI systems could help moderators process large volumes of suspicious incidents on the Steam platform.",
+          "importance": 3
+        },
+        {
+          "title": "Anthropic temporarily banned OpenClaw's creator from accessing Claude",
+          "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic imposed a temporary ban on the creator of OpenClaw from accessing Claude. The ban occurred following changes to Claude's pricing structure that affected OpenClaw users.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Large Language Model Post-Training: A Unified View of Off-Policy and On-Policy Learning",
+          "url": "https://arxiv.org/abs/2604.07941",
+          "source": "arXiv CS.CL",
+          "summary": "This paper provides a unified framework for understanding LLM post-training methods including supervised fine-tuning, preference optimization, and reinforcement learning. The research addresses fragmented approaches by organizing methods around behavioral bottlenecks rather than just objective families.",
+          "importance": 4
+        },
+        {
+          "title": "DIVERSED: Relaxed Speculative Decoding via Dynamic Ensemble Verification",
+          "url": "https://arxiv.org/abs/2604.07622",
+          "source": "arXiv CS.CL",
+          "summary": "Researchers propose a new technique to improve speculative decoding in language models by relaxing rigid verification constraints. The method addresses the bottleneck of low acceptance rates while maintaining output quality through dynamic ensemble verification.",
+          "importance": 4
+        },
+        {
+          "title": "AsyncTLS: Efficient Generative LLM Inference with Asynchronous Two-level Sparse Attention",
+          "url": "https://arxiv.org/abs/2604.07815",
+          "source": "arXiv CS.CL",
+          "summary": "This paper introduces a hierarchical sparse attention system that combines coarse-grained block filtering with fine-grained token selection. AsyncTLS aims to balance accuracy and efficiency in long-context LLM inference by addressing quadratic attention complexity.",
+          "importance": 4
+        },
+        {
+          "title": "Efficient and Effective Internal Memory Retrieval for LLM-Based Healthcare Prediction",
+          "url": "https://arxiv.org/abs/2604.07659",
+          "source": "arXiv CS.CL",
+          "summary": "Researchers develop a method for improving LLM reliability in healthcare settings by enhancing internal memory retrieval. The approach addresses hallucinations and lack of medical context while avoiding computationally expensive external knowledge base searches.",
+          "importance": 4
+        },
+        {
+          "title": "SepSeq: A Training-Free Framework for Long Numerical Sequence Processing in LLMs",
+          "url": "https://arxiv.org/abs/2604.07737",
+          "source": "arXiv CS.CL",
+          "summary": "This work addresses performance degradation in LLMs when processing long numerical sequences, attributing failures to attention dispersion in the Softmax mechanism. SepSeq offers a plug-and-play solution to improve numerical sequence understanding without additional training.",
+          "importance": 3
+        },
+        {
+          "title": "Beyond Social Pressure: Benchmarking Epistemic Attack in Large Language Models",
+          "url": "https://arxiv.org/abs/2604.07749",
+          "source": "arXiv CS.CL",
+          "summary": "Researchers introduce PPT-Bench, a diagnostic benchmark for evaluating epistemic attacks where prompts challenge the legitimacy of knowledge, values, or identity. The work extends beyond existing sycophancy research to explore broader epistemic failures in LLMs.",
+          "importance": 3
+        },
+        {
+          "title": "TEMPER: Testing Emotional Perturbation in Quantitative Reasoning",
+          "url": "https://arxiv.org/abs/2604.07801",
+          "source": "arXiv CS.CL",
+          "summary": "This study investigates whether emotional framing degrades LLM reasoning performance when numerical content is preserved. The research develops a controlled framework to test how emotions like frustration or enthusiasm affect quantitative problem-solving abilities.",
+          "importance": 3
+        },
+        {
+          "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
+          "url": "https://arxiv.org/abs/2604.08523",
+          "source": "arXiv CS.CL",
+          "summary": "ClawBench introduces 153 simple everyday online tasks across 144 live platforms to evaluate AI agent capabilities. The benchmark spans 15 categories including purchases, bookings, and routine digital activities to test real-world automation potential.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": []
+    }
+  ],
+  "totalArticles": 14
+}
