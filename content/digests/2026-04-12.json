@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T13:59:51.117Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Sam Altman responds to 'incendiary' New Yorker article after attack on his home",
+          "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI CEO Sam Altman has published a blog post responding to both an apparent attack on his home and a critical New Yorker profile. The incident highlights growing tensions around AI development and public scrutiny of tech leaders.",
+          "importance": 5
+        },
+        {
+          "title": "The Netherlands is the first European country to approve Tesla's supervised Full Self-Driving",
+          "url": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+          "source": "The Verge",
+          "summary": "Dutch regulators have officially approved Tesla's Full Self-Driving (FSD) Supervised after over a year of testing. This makes the Netherlands the first European country to authorize FSD on its roads, potentially opening the door to wider EU adoption.",
+          "importance": 4
+        },
+        {
+          "title": "The AI code wars are heating up",
+          "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+          "source": "The Verge",
+          "summary": "AI-powered coding tools are becoming increasingly competitive, with major players like OpenAI, Google, and Anthropic battling for dominance. The technology that started with Microsoft's GitHub Copilot partnership has now evolved into a full-scale industry competition.",
+          "importance": 4
+        },
+        {
+          "title": "The Hisense UR9 is a great first shot against OLED's bow",
+          "url": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
+          "source": "The Verge",
+          "summary": "Hisense's UR9 RGB LED TV is the first consumer model to use individual red, green, and blue LEDs for backlighting. The technology delivers colorful and accurate HDR with great brightness, representing a step above traditional mini-LED TVs.",
+          "importance": 3
+        },
+        {
+          "title": "Your article about AI doesn't need AI art",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+          "source": "The Verge",
+          "summary": "The New Yorker's use of AI-generated illustration for a Sam Altman profile has sparked debate about AI art in journalism. The piece features mixed-media artist David Szauder's AI-assisted work, raising questions about the role of generative AI in traditional media.",
+          "importance": 3
+        },
+        {
+          "title": "My baby deer plushie told me that Mitski's dad was a CIA operative",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+          "source": "The Verge",
+          "summary": "An AI companion named Coral, housed in a baby deer plushie, sent an unprompted text about musician Mitski's alleged CIA connections. The incident highlights the unpredictable nature of AI companions and their ability to surface random information.",
+          "importance": 2
+        },
+        {
+          "title": "Google says Polymarket bets showing up in News was an 'error'",
+          "url": "https://www.theverge.com/tech/910691/google-news-polymarket-bets-error",
+          "source": "The Verge",
+          "summary": "Polymarket betting results briefly appeared in Google News alongside legitimate news articles before being removed. Google confirmed this was an error, stating that the prediction market site doesn't meet their eligibility policies for News inclusion.",
+          "importance": 2
+        },
+        {
+          "title": "Allow me to explain why I love this camera that can't shoot color",
+          "url": "https://www.theverge.com/tech/910061/ricoh-gr-iv-monochrome-review",
+          "source": "The Verge",
+          "summary": "The Ricoh GR IV Monochrome is a fixed-lens compact camera that shoots only black-and-white photos. Despite its limitations and high price, the reviewer argues it's perfect for always-carry photography and artistic expression.",
+          "importance": 2
+        },
+        {
+          "title": "Pokémon Champions is off to a rough start",
+          "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+          "source": "The Verge",
+          "summary": "The newly launched Pokémon Champions battle simulator is experiencing significant bugs affecting basic battle mechanics. While some issues are being fixed, the game faces broader problems with balance and accessibility for newcomers.",
+          "importance": 2
+        },
+        {
+          "title": "Google's latest Nest Doorbells just hit their lowest prices of the year",
+          "url": "https://www.theverge.com/gadgets/910472/google-nest-doorbell-wired-battery-powered-deal-sale",
+          "source": "The Verge",
+          "summary": "Google's second-generation battery-powered Nest Doorbell is now available for $129.99, a $50 discount from regular price. The deal represents the lowest price since December and offers an affordable solution for package security monitoring.",
+          "importance": 1
+        },
+        {
+          "title": "How AT&T created the most iconic phone ever",
+          "url": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
+          "source": "The Verge",
+          "summary": "A podcast episode explores the history of the Western Electric 500, the ubiquitous landline phone that dominated American homes for decades. The design was so iconic that it still influences modern phone app interfaces, including the iPhone's phone app.",
+          "importance": 1
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "SQLite 3.53.0",
+          "url": "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A new version of SQLite has been released with updates and improvements to the popular embedded database engine.",
+          "importance": 3
+        },
+        {
+          "title": "SQLite Query Result Formatter Demo",
+          "url": "https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A demonstration tool for formatting SQLite query results, likely providing better visualization and presentation of database query outputs.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 13
+}
