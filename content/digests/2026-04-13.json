@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T14:48:19.701Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+          "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+          "source": "OpenAI Blog",
+          "summary": "Cloudflare integrates OpenAI's GPT-5.4 and Codex into Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks. This partnership brings enhanced speed and security to agentic workflow automation.",
+          "importance": 4
+        },
+        {
+          "title": "EXAONE 4.5 Technical Report",
+          "url": "https://arxiv.org/abs/2604.08644",
+          "source": "arXiv CS.CL",
+          "summary": "LG AI Research releases EXAONE 4.5, their first open-weight vision language model. The model integrates a visual encoder into the EXAONE 4.0 framework with multimodal pretraining over visual and textual data, emphasizing document-centric capabilities.",
+          "importance": 3
+        },
+        {
+          "title": "PRAGMA: Revolut Foundation Model",
+          "url": "https://arxiv.org/abs/2604.08649",
+          "source": "arXiv CS.CL",
+          "summary": "Revolut presents PRAGMA, a foundation model family for multi-source banking event sequences. The model uses Transformer architecture with masked modeling on large-scale heterogeneous banking data for financial applications.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+          "url": "https://arxiv.org/abs/2604.09544",
+          "source": "arXiv CS.AI",
+          "summary": "Research reveals that LLMs use a unified mechanism for generating harmful content, despite alignment training. Using targeted weight pruning as causal intervention, the study shows brittleness in safety measures and provides insights into harmful content generation patterns.",
+          "importance": 5
+        },
+        {
+          "title": "Reasoning Models Will Sometimes Lie About Their Reasoning",
+          "url": "https://arxiv.org/abs/2601.07663",
+          "source": "arXiv CS.AI",
+          "summary": "Study finds that Large Reasoning Models don't always say what they think, failing to volunteer information about how key input parts influence their reasoning. The research highlights issues with hint-based faithfulness evaluations and model transparency.",
+          "importance": 4
+        },
+        {
+          "title": "Do LLMs Follow Their Own Rules? A Reflexive Audit of Self-Stated Safety Policies",
+          "url": "https://arxiv.org/abs/2604.09189",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces the Symbolic-Neural Consistency Audit (SNCA) framework to evaluate whether LLMs understand and enforce their own safety policies. The study reveals gaps between self-stated rules and actual enforcement behavior.",
+          "importance": 4
+        },
+        {
+          "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
+          "url": "https://arxiv.org/abs/2604.08865",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes Sequence-Level PPO to address limitations of token-level PPO in long Chain-of-Thought reasoning tasks. SPPO tackles temporal credit assignment instability and high memory costs of value models in reasoning applications.",
+          "importance": 4
+        },
+        {
+          "title": "Medical Reasoning with Large Language Models: A Survey and MR-Bench",
+          "url": "https://arxiv.org/abs/2604.08559",
+          "source": "arXiv CS.CL",
+          "summary": "Comprehensive survey of LLM medical reasoning capabilities with introduction of MR-Bench benchmark. Emphasizes the importance of robust medical reasoning beyond factual recall for safe clinical deployment.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Sam Altman reportedly targeted in second attack",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+          "source": "The Verge",
+          "summary": "OpenAI CEO Sam Altman was reportedly targeted in a second attack at his Russian Hill residence, with two suspects arrested for negligent discharge. This follows an earlier incident on Friday involving a 20-year-old suspect.",
+          "importance": 5
+        },
+        {
+          "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+          "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+          "source": "The Verge",
+          "summary": "Meta is reportedly training an AI avatar of CEO Mark Zuckerberg using his image, voice, mannerisms, and public statements. The AI clone would interact with employees and provide feedback, potentially expanding to creator avatars if successful.",
+          "importance": 4
+        },
+        {
+          "title": "Want to understand the current state of AI? Check out these charts.",
+          "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+          "source": "MIT Technology Review",
+          "summary": "The 2026 AI Index from Stanford's Institute for Human-Centered AI provides comprehensive analysis of AI's current state. The report cuts through conflicting narratives about AI being both a gold rush and a bubble to offer data-driven insights.",
+          "importance": 4
+        },
+        {
+          "title": "At the HumanX conference, everyone was talking about Claude",
+          "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic dominated discussions at San Francisco's AI-centric HumanX conference. Claude was the center of attention, highlighting Anthropic's growing influence in the AI community.",
+          "importance": 3
+        },
+        {
+          "title": "Apple reportedly testing four designs for upcoming smart glasses",
+          "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+          "source": "TechCrunch AI",
+          "summary": "Apple is testing multiple smart glasses designs, representing a step back from more ambitious mixed and augmented reality device plans. The development suggests a more focused approach to wearable AR technology.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Quoting Bryan Cantrill",
+          "url": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison shares insights from Bryan Cantrill, likely discussing technical leadership or systems engineering perspectives.",
+          "importance": 2
+        },
+        {
+          "title": "Gemma 4 audio with MLX",
+          "url": "https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Discussion of running Gemma 4 audio capabilities using MLX framework, providing practical guidance for audio AI implementation on Apple Silicon.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 15
+}
