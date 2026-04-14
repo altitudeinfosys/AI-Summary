@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T14:51:03.879Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Bringing people together at AI for the Economy Forum",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+          "source": "Google AI Blog",
+          "summary": "Google is hosting an AI for the Economy Forum in Washington D.C. to bring together stakeholders to discuss AI's impact on the economy.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub for Beginners: Getting started with GitHub Pages",
+          "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+          "source": "GitHub Blog",
+          "summary": "A beginner's guide to creating free websites for repositories using GitHub Pages. Covers the basics of setting up and deploying static sites through GitHub's hosting service.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "AI Achieves a Perfect LSAT Score",
+          "url": "https://arxiv.org/abs/2604.10034",
+          "source": "arXiv CS.AI",
+          "summary": "This paper reports the first documented instance of a language model achieving a perfect score on an officially disclosed Law School Admission Test (LSAT). The research shows that prompt variation and answer shuffling have minimal impact on performance, highlighting the role of reasoning phases.",
+          "importance": 5
+        },
+        {
+          "title": "From GPT-3 to GPT-5: Mapping their capabilities, scope, limitations, and consequences",
+          "url": "https://arxiv.org/abs/2604.10332",
+          "source": "arXiv CS.AI",
+          "summary": "A comprehensive comparative analysis of the GPT model evolution from GPT-3 through the GPT-5 family. The study examines technical progression, capability changes, deployment shifts, and persistent limitations across the model generations.",
+          "importance": 4
+        },
+        {
+          "title": "AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
+          "url": "https://arxiv.org/abs/2601.11044",
+          "source": "arXiv CS.AI",
+          "summary": "A comprehensive benchmark for evaluating LLM-based autonomous agents in long-horizon real-world scenarios with up to 1M token contexts. The benchmark addresses the gap between existing evaluations and real-world agent deployment requirements.",
+          "importance": 4
+        },
+        {
+          "title": "Self-Calibrating Language Models via Test-Time Discriminative Distillation",
+          "url": "https://arxiv.org/abs/2604.09624",
+          "source": "arXiv CS.CL",
+          "summary": "Large language models are systematically overconfident, often expressing high certainty on incorrect answers. This work proposes a method for LLMs to better calibrate their confidence by leveraging internal token probabilities rather than verbalized confidence expressions.",
+          "importance": 4
+        },
+        {
+          "title": "HumorGen: Cognitive Synergy for Humor Generation in Large Language Models via Persona-Based Distillation",
+          "url": "https://arxiv.org/abs/2604.09629",
+          "source": "arXiv CS.CL",
+          "summary": "A framework addressing humor generation challenges in LLMs by using cognitive synergy and persona-based distillation. The approach tackles the conflict between LLMs' predictive training and the surprise/incongruity needed for comedy.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Has Google's AI watermarking system been reverse-engineered?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+          "source": "The Verge",
+          "summary": "A software developer claims to have reverse-engineered Google DeepMind's SynthID watermarking system for AI-generated images using just 200 samples and signal processing. Google disputes the claim's validity.",
+          "importance": 4
+        },
+        {
+          "title": "Lucid sells more robotaxis to Uber, appoints a new CEO",
+          "url": "https://www.theverge.com/transportation/911628/lucid-uber-robotaxi-nuro-ceo-saudi-arabia",
+          "source": "The Verge",
+          "summary": "Lucid is expanding its robotaxi partnership with Uber while appointing a new CEO from the elevator/escalator industry rather than the EV sector. The move represents strategic changes for the luxury electric vehicle company.",
+          "importance": 3
+        },
+        {
+          "title": "Samsung is hiking the prices of its Galaxy phones and tablets",
+          "url": "https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram",
+          "source": "The Verge",
+          "summary": "Samsung is raising prices on higher-storage variants of Galaxy devices by up to $80, including the Z Flip 7, S25 FE, and S25 Edge models. Base model prices remain unchanged while premium storage options see significant increases.",
+          "importance": 3
+        },
+        {
+          "title": "Apple and Amazon are teaming up to challenge Starlink's smartphone ambitions",
+          "url": "https://www.theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet",
+          "source": "The Verge",
+          "summary": "Amazon is acquiring Globalstar's satellite network for $11.57 billion, combining it with their Leo constellation. As part of the deal, Amazon will continue supporting Apple's Emergency SOS services and develop future satellite connectivity features.",
+          "importance": 4
+        }
+      ]
+    }
+  ],
+  "totalArticles": 11
+}
