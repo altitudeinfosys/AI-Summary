@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-16",
+  "generatedAt": "2026-04-16T14:55:49.289Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Accelerating the cyber defense ecosystem that protects us all",
+          "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI announces Trusted Access for Cyber program with GPT-5.4-Cyber model and $10M in API grants. Leading security firms and enterprises are joining to strengthen global cyber defense capabilities.",
+          "importance": 5
+        },
+        {
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+          "source": "Google AI Blog",
+          "summary": "Google releases Gemini 3.1 Flash TTS, now available across Google products for expressive AI speech synthesis.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Build a personal organization command center with GitHub Copilot CLI",
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+          "source": "GitHub Blog",
+          "summary": "GitHub engineer demonstrates building a productivity tool using Copilot CLI, showing how AI supported the development process. The post explores practical applications of AI-assisted command-line interfaces.",
+          "importance": 3
+        },
+        {
+          "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+          "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+          "source": "GitHub Blog",
+          "summary": "GitHub shares recent policy updates affecting developers, updates Transparency Center with 2025 data. The post covers important legal and policy changes developers should be aware of.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
+          "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
+          "source": "TechCrunch AI",
+          "summary": "Runway's CEO suggests AI could enable studios to produce dozens of films for the cost of one major blockbuster. The approach bets that volume production will increase odds of creating hit films.",
+          "importance": 4
+        },
+        {
+          "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
+          "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
+          "source": "TechCrunch AI",
+          "summary": "Starting April 19, Quest 3S models increase by $50 and Quest 3 by $100 due to global memory shortage. The price hikes reflect broader supply chain challenges affecting tech hardware.",
+          "importance": 3
+        },
+        {
+          "title": "Canva's AI assistant can now call various tools to make designs for you",
+          "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+          "source": "TechCrunch AI",
+          "summary": "Canva's latest AI assistant version enables users to create editable designs through text prompts. The update represents significant advancement in AI-powered design automation.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
+          "url": "https://arxiv.org/abs/2604.12374",
+          "source": "arXiv CS.AI",
+          "summary": "NVIDIA introduces Nemotron 3 Super, a 120B parameter hybrid model with 12B active parameters. The model combines Mamba-Attention architecture with Mixture-of-Experts for efficient agentic reasoning tasks.",
+          "importance": 5
+        },
+        {
+          "title": "The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break",
+          "url": "https://arxiv.org/abs/2604.11978",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers introduce HORIZON benchmark to systematically diagnose failures in long-horizon agentic systems. The study reveals where LLM agents break down on extended, interdependent action sequences.",
+          "importance": 4
+        },
+        {
+          "title": "Beyond Static Sandboxing: Learned Capability Governance for Autonomous AI Agents",
+          "url": "https://arxiv.org/abs/2604.11839",
+          "source": "arXiv CS.AI",
+          "summary": "Paper addresses capability overprovisioning problem where agents receive excessive tool access regardless of task requirements. Proposes learned governance system to dynamically allocate appropriate capabilities based on task needs.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "datasette.io news preview",
+          "url": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Preview of upcoming Datasette.io news features and updates.",
+          "importance": 2
+        },
+        {
+          "title": "Gemini 3.1 Flash TTS",
+          "url": "https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Commentary and analysis on Google's new Gemini 3.1 Flash TTS release.",
+          "importance": 2
+        },
+        {
+          "title": "datasette 1.0a27",
+          "url": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Release notes and updates for Datasette version 1.0a27 alpha release.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 13
+}
