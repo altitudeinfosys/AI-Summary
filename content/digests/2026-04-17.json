@@ -1,0 +1,142 @@
+{
+  "date": "2026-04-17",
+  "generatedAt": "2026-04-17T14:20:55.793Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "New ways to create personalized images in the Gemini app",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+          "source": "Google AI Blog",
+          "summary": "Nano Banana 2 now uses your personal context and Google Photos to create images that reflect your unique life. This enables more personalized AI-generated content based on user's actual photos and context.",
+          "importance": 4
+        },
+        {
+          "title": "A new way to explore the web with AI Mode in Chrome",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+          "source": "Google AI Blog",
+          "summary": "Today's upgrades for AI Mode in Chrome transform how you interact with the web. The new features enable side-by-side exploration with AI assistance for enhanced web browsing.",
+          "importance": 4
+        },
+        {
+          "title": "7 ways to travel smarter this summer, with help from Google",
+          "url": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+          "source": "Google AI Blog",
+          "summary": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination. Features include AI-powered travel planning and destination exploration capabilities.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "How GitHub uses eBPF to improve deployment safety",
+          "url": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+          "source": "GitHub Blog",
+          "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The implementation improves deployment safety through advanced monitoring and dependency detection.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+          "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+          "source": "TechCrunch AI",
+          "summary": "The three-year-old startup raised $150 million led by Khosla Ventures. Factory focuses on AI-powered coding solutions specifically designed for enterprise environments.",
+          "importance": 4
+        },
+        {
+          "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+          "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+          "source": "TechCrunch AI",
+          "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain. This could be a significant breakthrough in robotics AI capabilities.",
+          "importance": 4
+        },
+        {
+          "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+          "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities. The enhanced Codex now includes desktop control capabilities, directly competing with Anthropic's offerings.",
+          "importance": 4
+        },
+        {
+          "title": "Gucci-branded Google smart glasses are coming next year",
+          "url": "https://www.theverge.com/gadgets/913523/google-gucci-ai-smart-glasses-2027",
+          "source": "The Verge",
+          "summary": "Google is reportedly partnering with Gucci to make a pair of AI smart glasses stylish enough people might actually want to wear them. According to Reuters, Gucci parent company Kering is planning to launch the glasses sometime in 2027.",
+          "importance": 3
+        },
+        {
+          "title": "The creative software industry has declared war on Adobe",
+          "url": "https://www.theverge.com/tech/913765/adobe-rivals-free-creative-software-app-updates",
+          "source": "The Verge",
+          "summary": "All empires eventually fall, and it seems the creative software industry has collectively decided that Adobe's time has come. Competitors are offering free alternatives and undercutting Adobe's expensive subscription model.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
+          "url": "https://arxiv.org/abs/2604.13151",
+          "source": "arXiv CS.AI",
+          "summary": "This paper presents a framework for systematically distinguishing and quantifying exploration and exploitation behaviors in language model agents. The research addresses fundamental challenges in understanding how LM agents balance discovery of new strategies versus leveraging known approaches.",
+          "importance": 4
+        },
+        {
+          "title": "WebXSkill: Skill Learning for Autonomous Web Agents",
+          "url": "https://arxiv.org/abs/2604.13318",
+          "source": "arXiv CS.AI",
+          "summary": "The paper addresses the grounding gap in web agent skills by proposing a framework that enables better error recovery and step-level understanding. This work tackles the challenge of making autonomous web agents more robust for long-horizon workflows.",
+          "importance": 4
+        },
+        {
+          "title": "AI-Assisted Peer Review at Scale: The AAAI-26 AI Review Pilot",
+          "url": "https://arxiv.org/abs/2604.13940",
+          "source": "arXiv CS.AI",
+          "summary": "This paper reports the first large-scale field deployment of AI-assisted peer review across a major conference. The study examines whether AI can generate technically sound reviews at real-world conference scale, addressing key questions about AI's role in academic peer review.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+          "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison demonstrates how a local Qwen model running on his laptop outperformed Claude Opus in drawing tasks. This highlights the improving capabilities of smaller, locally-runnable models compared to large cloud-based ones.",
+          "importance": 3
+        },
+        {
+          "title": "llm-anthropic 0.25",
+          "url": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison announces version 0.25 of his llm-anthropic plugin. This tool provides command-line access to Anthropic's Claude models through his LLM framework.",
+          "importance": 2
+        },
+        {
+          "title": "datasette 1.0a28",
+          "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison releases alpha version 28 of Datasette 1.0. Datasette is a popular tool for exploring and publishing data, particularly useful for data journalism and analysis workflows.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 15
+}
