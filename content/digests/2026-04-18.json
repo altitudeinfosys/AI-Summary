@@ -1,0 +1,128 @@
+{
+  "date": "2026-04-18",
+  "generatedAt": "2026-04-18T14:01:08.710Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": []
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Bringing more transparency to GitHub's status page",
+          "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+          "source": "GitHub Blog",
+          "summary": "GitHub is updating its status page to provide more specific data about platform health. The changes will give developers better insight into service availability and overall system status.",
+          "importance": 3
+        },
+        {
+          "title": "Building an emoji list generator with the GitHub Copilot CLI",
+          "url": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+          "source": "GitHub Blog",
+          "summary": "GitHub demonstrates how to create an emoji list generator using the GitHub Copilot CLI. The tutorial was created during their Rubber Duck Thursday stream.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+          "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+          "source": "TechCrunch AI",
+          "summary": "AI coding assistant Cursor is reportedly in talks to raise over $2 billion at a $50 billion valuation. The massive funding round is driven by surging enterprise adoption, with a16z and Thrive expected to lead.",
+          "importance": 5
+        },
+        {
+          "title": "OpenAI's former Sora boss is leaving",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+          "source": "The Verge",
+          "summary": "Bill Peebles, who led OpenAI's Sora video generation team, is leaving the company after OpenAI shuttered the project. This departure is part of OpenAI's broader shift away from \"side quests\" to focus more on coding and enterprise applications.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic's new cybersecurity model could get it back in the government's good graces",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+          "source": "The Verge",
+          "summary": "Anthropic's relationship with the Trump administration may be improving thanks to its new cybersecurity-focused model, Claude Mythos Preview. The company has faced criticism from the administration for refusing to work with the Pentagon on certain defense applications.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+          "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic has launched Claude Design, a new tool for creating visual content quickly. The product is aimed at founders and product managers without design backgrounds to help them share ideas more effectively.",
+          "importance": 3
+        },
+        {
+          "title": "The App Store is booming again, and AI may be why",
+          "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+          "source": "TechCrunch AI",
+          "summary": "New data from Appfigures shows a significant increase in new app launches in 2026. The surge suggests that AI tools could be driving a new boom in mobile software development.",
+          "importance": 3
+        },
+        {
+          "title": "Should you stare into Sam Altman's orb before your next date?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+          "source": "The Verge",
+          "summary": "Tinder users can now verify their identity using Sam Altman's World orb scanning technology to receive free boosts in the app. The service, which uses facial scanning orbs to verify users aren't bots, is expanding from Japan to select markets including the US.",
+          "importance": 3
+        },
+        {
+          "title": "'Tokenmaxxing' is making developers less productive than they think",
+          "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+          "source": "TechCrunch AI",
+          "summary": "A new trend called \"tokenmaxxing\" - using AI to generate maximum amounts of code - may be counterproductive for developers. While it produces more code, it's expensive and often requires significant rewriting.",
+          "importance": 3
+        },
+        {
+          "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+          "url": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+          "source": "Ars Technica AI",
+          "summary": "Meta's massive investments in AI infrastructure are driving up prices for critical components. This cost increase is contributing to higher prices for the company's Quest VR headsets.",
+          "importance": 3
+        },
+        {
+          "title": "Our new favorite budget phones",
+          "url": "https://www.theverge.com/tech/912286/our-new-favorite-budget-phones",
+          "source": "The Verge",
+          "summary": "The Verge has updated its budget phone recommendations after recent refreshes from major manufacturers. The iPhone 17E tops the list as the best affordable iPhone option.",
+          "importance": 2
+        },
+        {
+          "title": "This charming gadget writes bad AI poetry",
+          "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+          "source": "The Verge",
+          "summary": "The Poetry Camera is a playful device that generates AI poems instead of taking photos. While charming in design with its white and cherry red aesthetic, the reviewer finds it both delightful and frustrating in execution.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
+          "url": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "PyCon US 2026 is taking place in Long Beach with new dedicated tracks for AI and security topics. The conference continues to evolve to address current technology trends in the Python community.",
+          "importance": 3
+        },
+        {
+          "title": "Adding a new content type to my blog-to-newsletter tool",
+          "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison shares his experience adding new functionality to his blog-to-newsletter automation tool. The post likely covers agentic engineering patterns and practical implementation details.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 14
+}
