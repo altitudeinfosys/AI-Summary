@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-19",
+  "generatedAt": "2026-04-19T13:59:30.071Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+          "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Analysis of system prompt changes between Claude Opus versions 4.6 and 4.7. This technical update provides insights into how Anthropic is evolving Claude's behavior and capabilities.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Tesla brings its robotaxi service to Dallas and Houston",
+          "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+          "source": "TechCrunch AI",
+          "summary": "Tesla expands its autonomous robotaxi service to Dallas and Houston, bringing the total to three Texas cities. The service now operates without safety drivers after launching in Austin last year and removing human oversight in January 2026.",
+          "importance": 4
+        },
+        {
+          "title": "AI chip startup Cerebras files for IPO",
+          "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "AI chip manufacturer Cerebras has filed for its initial public offering. The company recently secured major deals including an agreement with AWS and a reported $10+ billion contract with OpenAI.",
+          "importance": 4
+        },
+        {
+          "title": "The RAM shortage could last years",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+          "source": "The Verge",
+          "summary": "DRAM manufacturers are expected to meet only 60% of demand by end of 2027, with shortages potentially lasting until 2030. Major memory makers Samsung, SK Hynix, and Micron won't have new fabrication capacity online until at least 2027-2028.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic's relationship with the Trump administration seems to be thawing",
+          "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+          "source": "TechCrunch AI",
+          "summary": "Despite being designated a supply-chain risk by the Pentagon, Anthropic continues dialogue with high-level Trump administration officials. The relationship appears to be improving after initial tensions.",
+          "importance": 3
+        },
+        {
+          "title": "Marathon battery life makes Keychron's Ultra 8K keyboards its best yet",
+          "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
+          "source": "The Verge",
+          "summary": "Keychron's new Q and V Ultra 8K keyboards offer significant battery life improvements over previous models. The Ultra series represents a straightforward upgrade to the popular Q and V keyboard lineups.",
+          "importance": 2
+        },
+        {
+          "title": "Judge rules Trump administration violated the First Amendment in fight against ICE-tracking",
+          "url": "https://www.theverge.com/policy/914619/trump-administration-violated-first-amendment-ice-tracking",
+          "source": "The Verge",
+          "summary": "Federal judge Jorge L. Alonso ruled the Trump administration violated First Amendment rights by pressuring Facebook and Apple to remove ICE-tracking groups and apps. The ruling favors plaintiffs who run ICE monitoring services in Chicago.",
+          "importance": 3
+        },
+        {
+          "title": "The future of local TV news has taken a Trumpian turn",
+          "url": "https://www.theverge.com/column/914674/nexstar-tegna-merger-trump-local-news",
+          "source": "The Verge",
+          "summary": "Analysis of how local TV news consolidation and potential Nexstar-Tegna merger could impact media landscape. The piece examines FCC broadcast ownership rules dating back to 2004 and their current relevance.",
+          "importance": 2
+        },
+        {
+          "title": "Cheap stuff that doesn't suck, take 3",
+          "url": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+          "source": "The Verge",
+          "summary": "The Verge staff shares favorite gadgets under $50 amid rising costs from tariffs and memory shortages. The roundup focuses on affordable tech that delivers good value without compromising quality.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 9
+}
