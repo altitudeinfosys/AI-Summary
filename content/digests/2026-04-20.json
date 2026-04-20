@@ -1,0 +1,163 @@
+{
+  "date": "2026-04-20",
+  "generatedAt": "2026-04-20T14:50:43.308Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI helps Hyatt advance AI among colleagues",
+          "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+          "source": "OpenAI Blog",
+          "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences. This represents a significant enterprise adoption of OpenAI's latest models.",
+          "importance": 4
+        },
+        {
+          "title": "Qwen3.5-Omni Technical Report",
+          "url": "https://arxiv.org/abs/2604.15804",
+          "source": "arXiv CS.CL",
+          "summary": "Qwen3.5-Omni scales to hundreds of billions of parameters with 256k context length and demonstrates robust omni-modality capabilities. The model was trained on massive multimodal datasets including over 100 million hours of audio-visual content.",
+          "importance": 4
+        },
+        {
+          "title": "Seed1.8 Model Card: Towards Generalized Real-World Agency",
+          "url": "https://arxiv.org/abs/2603.20633",
+          "source": "arXiv CS.AI",
+          "summary": "Seed1.8 is a foundation model aimed at generalized real-world agency, supporting multi-turn interaction, tool use, and multi-step execution. It offers latency- and cost-aware inference with configurable thinking modes for deployment.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence",
+          "url": "https://arxiv.org/abs/2603.24621",
+          "source": "arXiv CS.AI",
+          "summary": "ARC-AGI-3 introduces interactive environments for studying agentic intelligence through novel, abstract, turn-based challenges. Agents must explore, infer goals, and build internal models without explicit instructions, focusing on fluid adaptive efficiency.",
+          "importance": 5
+        },
+        {
+          "title": "LACE: Lattice Attention for Cross-thread Exploration",
+          "url": "https://arxiv.org/abs/2604.15529",
+          "source": "arXiv CS.AI",
+          "summary": "LACE transforms reasoning from isolated trials into coordinated parallel processes by enabling cross-thread attention. This allows concurrent reasoning paths to share information and coordinate, improving problem-solving efficiency.",
+          "importance": 4
+        },
+        {
+          "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+          "url": "https://arxiv.org/abs/2604.15726",
+          "source": "arXiv CS.AI",
+          "summary": "This position paper argues that LLM reasoning should be studied as latent-state trajectory formation rather than surface chain-of-thought. The distinction matters for claims about faithfulness, interpretability, and reasoning benchmarks.",
+          "importance": 4
+        },
+        {
+          "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+          "url": "https://arxiv.org/abs/2604.15877",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes a unified framework for agent memory systems and skill discovery, addressing the challenge of managing accumulated experience in long-horizon deployments. Analysis reveals low cross-community citation rates despite addressing similar challenges.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
+          "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+          "source": "Ars Technica AI",
+          "summary": "Anthropic's new Mythos model raises concerns about accelerated cybersecurity threats. The model could potentially expose cyberdefenses faster than fixes can be deployed.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Huawei beats Samsung and Apple to market with the first wide foldable",
+          "url": "https://www.theverge.com/tech/914807/huawei-pura-x-max-launch-price-specs-availability",
+          "source": "The Verge",
+          "summary": "Huawei launches the Pura X Max in China, becoming the first wide-style foldable phone available for purchase. This beats similar devices rumored from Apple and Samsung to market.",
+          "importance": 4
+        },
+        {
+          "title": "Blue Origin successfully reused its New Glenn rocket",
+          "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+          "source": "The Verge",
+          "summary": "Blue Origin achieved a successful second launch and landing of its New Glenn rocket, officially giving Jeff Bezos a reusable launch vehicle. The mission partially succeeded despite delivering payload to lower than expected orbit.",
+          "importance": 4
+        },
+        {
+          "title": "Cloud development platform Vercel was hacked",
+          "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+          "source": "The Verge",
+          "summary": "Vercel, a major development platform for web apps, was compromised with hackers attempting to sell stolen data. The security incident impacted a limited subset of customers.",
+          "importance": 4
+        },
+        {
+          "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+          "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+          "source": "MIT Technology Review",
+          "summary": "Tech workers in China are being instructed to train AI agents to replace themselves, prompting soul-searching among early adopters. A GitHub project called Colleague Skill allows workers to distill colleagues' skills and replicate them.",
+          "importance": 4
+        },
+        {
+          "title": "OpenAI's existential questions",
+          "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+          "source": "TechCrunch AI",
+          "summary": "Discussion of OpenAI's latest acquisitions and whether they address two big existential problems for the company. The latest Equity episode explores these strategic challenges.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "SQL functions in Google Sheets to fetch data from Datasette",
+          "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "New functionality allowing SQL queries to be executed directly from Google Sheets to fetch data from Datasette instances. This bridges spreadsheet tools with database querying capabilities.",
+          "importance": 3
+        },
+        {
+          "title": "Claude Token Counter, now with model comparisons",
+          "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Updated Claude Token Counter tool now includes comparisons across different models. Helps developers understand tokenization differences between various language models.",
+          "importance": 2
+        },
+        {
+          "title": "Headless everything for personal AI",
+          "url": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Discussion of headless architectures and approaches for personal AI systems. Explores decoupling AI capabilities from specific user interfaces.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "The Download: murderous 'mirror' bacteria, and Chinese workers fighting AI doubles",
+          "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+          "source": "MIT Technology Review",
+          "summary": "Daily technology newsletter covering synthetic mirror life research concerns and Chinese workers training AI replacements. Highlights key developments in AI and biotechnology.",
+          "importance": 2
+        },
+        {
+          "title": "The 12-month window",
+          "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "source": "TechCrunch AI",
+          "summary": "Analysis of AI startups existing in categories that foundation models haven't expanded into yet. Many acknowledge this advantage won't last forever as models continue to improve.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 18
+}
