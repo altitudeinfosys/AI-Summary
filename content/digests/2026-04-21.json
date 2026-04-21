@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-21T14:47:14.699Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Scaling Codex to enterprises worldwide",
+          "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI launches Codex Labs with enterprise partnerships including Accenture, PwC, and Infosys to scale Codex deployment across software development lifecycles. The platform has reached 4 million weekly active users.",
+          "importance": 5
+        },
+        {
+          "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
+          "url": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
+          "source": "Google AI Blog",
+          "summary": "Google introduces three new agentic safety and policy features integrated into Ads Advisor. These enhancements aim to protect and streamline Google Ads accounts through automated safety measures.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Changes to GitHub Copilot Individual plans",
+          "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+          "source": "GitHub Blog",
+          "summary": "GitHub announces changes to Copilot Individual plans to ensure more reliable and predictable experiences for existing customers. The modifications aim to improve service consistency.",
+          "importance": 4
+        },
+        {
+          "title": "Highlights from Git 2.54",
+          "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+          "source": "GitHub Blog",
+          "summary": "The open source Git project releases version 2.54 with new features and improvements. GitHub provides insights into the most interesting changes introduced since the previous version.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
+          "url": "https://arxiv.org/abs/2604.15456",
+          "source": "arXiv CS.AI",
+          "summary": "A framework for trustworthy AI in healthcare that integrates AI agents with multi-hop information retrieval and reasoning. The system addresses transparency issues by providing explicit evidence appraisal criteria for medical research applications.",
+          "importance": 4
+        },
+        {
+          "title": "LACE: Lattice Attention for Cross-thread Exploration",
+          "url": "https://arxiv.org/abs/2604.15529",
+          "source": "arXiv CS.AI",
+          "summary": "LACE transforms reasoning from independent trials into coordinated parallel processes using cross-thread attention. This allows concurrent reasoning paths to share information and coordinate their exploration strategies.",
+          "importance": 4
+        },
+        {
+          "title": "LLM Reasoning Is Latent, Not the Chain of Thought",
+          "url": "https://arxiv.org/abs/2604.15726",
+          "source": "arXiv CS.AI",
+          "summary": "Position paper arguing that LLM reasoning should be studied as latent-state trajectory formation rather than surface chain-of-thought. The work challenges assumptions about faithfulness, interpretability, and reasoning benchmarks.",
+          "importance": 4
+        },
+        {
+          "title": "Experience Compression Spectrum: Unifying Memory, Skills, and Rules in LLM Agents",
+          "url": "https://arxiv.org/abs/2604.15877",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes a unified framework for managing LLM agent experience across long-horizon deployments. The Experience Compression Spectrum bridges agent memory systems and skill discovery through extracting reusable knowledge from interaction traces.",
+          "importance": 4
+        },
+        {
+          "title": "Weak-Link Optimization for Multi-Agent Reasoning and Collaboration",
+          "url": "https://arxiv.org/abs/2604.15972",
+          "source": "arXiv CS.AI",
+          "summary": "Addresses reasoning instability in multi-agent LLM frameworks where individual agent errors amplify through collaboration. The approach focuses on systematic identification and reinforcement of weak links rather than enhancing high-capability agents.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "John Ternus's first big problem is AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+          "source": "The Verge",
+          "summary": "Apple announces John Ternus as the next CEO, succeeding Tim Cook on September 1st after 15 years. Despite Apple's recent AI struggles, the official announcement doesn't mention AI once, highlighting the challenge ahead.",
+          "importance": 5
+        },
+        {
+          "title": "Apple will have a product guy as CEO again",
+          "url": "https://www.theverge.com/tech/915388/apple-ceo-john-ternus-tim-cook",
+          "source": "The Verge",
+          "summary": "John Ternus brings product expertise to Apple's CEO role, contrasting with Cook's logistics background. As SVP of hardware engineering, Ternus has been increasingly visible in product announcements including the iPhone Air and new Macs.",
+          "importance": 5
+        },
+        {
+          "title": "The SpaceX IPO is a trillion-dollar gamble on the future of space",
+          "url": "https://www.theverge.com/science/915244/spacex-ipo-trillion-dollar-commercial-iss-nasa-launch",
+          "source": "The Verge",
+          "summary": "The upcoming SpaceX IPO will allow public investors to buy stakes in one of the most buzzworthy and controversial companies. The move represents either the best investment opportunity or a significant gamble on space commercialization.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+          "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon invests another $5 billion in Anthropic in a circular deal where Anthropic commits to spending $100 billion on AWS services. This represents a significant expansion of their strategic partnership.",
+          "importance": 4
+        },
+        {
+          "title": "NSA spies are reportedly using Anthropic's Mythos, despite Pentagon feud",
+          "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+          "source": "TechCrunch AI",
+          "summary": "Reports indicate the NSA is using Anthropic's restricted Mythos AI model for intelligence operations. This usage occurs despite ongoing tensions between Anthropic and Pentagon officials.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Deezer says 44% of new music uploads are AI-generated, most streams are fraudulent",
+          "url": "https://arstechnica.com/ai/2026/04/deezer-says-44-of-new-music-uploads-are-ai-generated-most-streams-are-fraudulent/",
+          "source": "Ars Technica AI",
+          "summary": "Deezer reports that 44% of new music uploads are AI-generated, with most associated streams being fraudulent. However, AI tracks represent only a small fraction of total streams and most are demonetized for fraud.",
+          "importance": 3
+        },
+        {
+          "title": "Robot runner handily beats humans in half-marathon, setting new record",
+          "url": "https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/",
+          "source": "Ars Technica AI",
+          "summary": "A humanoid robot achieves a record-breaking performance in a half-marathon, easily outpacing human competitors. The achievement demonstrates China's rapid advancement in robotics technology and capabilities.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "totalArticles": 16
+}
