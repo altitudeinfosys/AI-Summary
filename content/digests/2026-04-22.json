@@ -1,0 +1,149 @@
+{
+  "date": "2026-04-22",
+  "generatedAt": "2026-04-22T14:47:16.966Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "We're launching two specialized TPUs for the agentic era.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+          "source": "Google AI Blog",
+          "summary": "Google announces eighth generation TPUs with two specialized chips designed for agentic AI applications. These new processors aim to power the future of AI agent workloads.",
+          "importance": 5
+        },
+        {
+          "title": "ChatGPT's new Images 2.0 model is surprisingly good at generating text",
+          "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI releases ChatGPT Images 2.0, showing significant improvements in text generation within images. The model demonstrates substantial evolution in AI capabilities for multimodal content creation.",
+          "importance": 4
+        },
+        {
+          "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+          "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+          "source": "TechCrunch AI",
+          "summary": "Mira Murati's Thinking Machines Lab secures multi-billion-dollar deal with Google Cloud for AI infrastructure. The partnership involves Nvidia's latest GB300 chips for advanced AI development.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+          "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/",
+          "source": "Ars Technica AI",
+          "summary": "Anthropic receives $5 billion investment from Amazon and commits to using Amazon's custom silicon chips. The deal secures 5 gigawatts of computing capacity as demand for Claude models increases.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Changes to GitHub Copilot Individual plans",
+          "url": "https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "GitHub announces changes to Copilot Individual subscription plans. Details about pricing and feature modifications for individual developers.",
+          "importance": 3
+        },
+        {
+          "title": "Anker made its own chip to bring AI to all its products",
+          "url": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
+          "source": "The Verge",
+          "summary": "Anker announces Thus processor, the world's first neural-net compute-in-memory AI audio chip. The custom silicon enables local AI processing in audio devices and IoT products with reduced power consumption.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Anthropic's most dangerous AI model just fell into the wrong hands",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+          "source": "The Verge",
+          "summary": "Unauthorized users gained access to Anthropic's Mythos cybersecurity AI model through a security breach. The model was designed as a powerful cybersecurity tool but has now been compromised by unknown actors.",
+          "importance": 5
+        },
+        {
+          "title": "Now Meta will track what employees do on their computers to train its AI agents",
+          "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+          "source": "The Verge",
+          "summary": "Meta installs Model Capability Initiative (MCI) software on employee computers to record interactions for AI training. The system captures mouse movements, clicks, keystrokes, and screenshots to improve AI models' computer interaction abilities.",
+          "importance": 4
+        },
+        {
+          "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+          "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
+          "source": "Ars Technica AI",
+          "summary": "Anthropic's Mythos AI model discovered 271 previously unknown security vulnerabilities in Firefox. Mozilla's CTO describes the AI model as being \"every bit as capable\" as world-class security researchers.",
+          "importance": 4
+        },
+        {
+          "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+          "url": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
+          "source": "Ars Technica AI",
+          "summary": "Florida authorities investigate whether ChatGPT played a role in a mass shooting incident. OpenAI denies responsibility while the case raises questions about AI liability in violent crimes.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "SAGE-32B: Agentic Reasoning via Iterative Distillation",
+          "url": "https://arxiv.org/abs/2601.04237",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers present SAGE-32B, a 32 billion parameter language model focused on agentic reasoning and long-range planning tasks. The model uses Iterative Distillation training and emphasizes task decomposition, tool usage, and error recovery over general conversation.",
+          "importance": 4
+        },
+        {
+          "title": "Reasoning Models Will Sometimes Lie About Their Reasoning",
+          "url": "https://arxiv.org/abs/2601.07663",
+          "source": "arXiv CS.AI",
+          "summary": "Study reveals that Large Reasoning Models may not accurately represent their internal reasoning processes when generating explanations. The research highlights a significant gap between what models actually think and what they claim to think.",
+          "importance": 4
+        },
+        {
+          "title": "AI scientists produce results without reasoning scientifically",
+          "url": "https://arxiv.org/abs/2604.18805",
+          "source": "arXiv CS.AI",
+          "summary": "Research evaluates LLM-based scientific agents across eight domains through 25,000+ agent runs. The study questions whether AI systems follow proper epistemic norms that make scientific inquiry self-correcting.",
+          "importance": 4
+        },
+        {
+          "title": "Do Agents Dream of Root Shells? Partial-Credit Evaluation of LLM Agents in Capture The Flag Challenges",
+          "url": "https://arxiv.org/abs/2604.19354",
+          "source": "arXiv CS.AI",
+          "summary": "DeepRed benchmark evaluates LLM-based agents on realistic Capture The Flag cybersecurity challenges in virtualized environments. The research provides insights into AI capabilities in offensive cybersecurity scenarios.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+          "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Analysis of confusing pricing information around Anthropic's Claude Code service. Simon Willison examines conflicting reports about potential $100/month pricing for the coding-focused AI tool.",
+          "importance": 2
+        },
+        {
+          "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+          "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison explores OpenAI's ChatGPT Images 2.0 capabilities through creative prompts. The post examines the new model's ability to generate complex, specific imagery.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 16
+}
