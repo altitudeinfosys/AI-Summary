@@ -1,0 +1,142 @@
+{
+  "date": "2026-04-23",
+  "generatedAt": "2026-04-23T15:12:35.413Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+          "source": "Google AI Blog",
+          "summary": "Google announces its first data center in Kronstorf, Austria, generating 100 direct jobs. This facility represents Google's continued investment in European infrastructure to support AI and cloud services.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Microsoft launches 'vibe working' in Word, Excel, and PowerPoint",
+          "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+          "source": "The Verge",
+          "summary": "Microsoft introduces Agent Mode in Office apps, enabling more powerful AI assistance for business users. This represents an evolution from basic Copilot features to more sophisticated agentic capabilities in productivity software.",
+          "importance": 4
+        },
+        {
+          "title": "Google updates Workspace to make AI your new office intern",
+          "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+          "source": "TechCrunch AI",
+          "summary": "Google introduces automated functions into Workspace powered by Workspace Intelligence, its new AI system. The updates aim to transform AI into an office assistant capable of handling routine tasks.",
+          "importance": 3
+        },
+        {
+          "title": "Google turns Chrome into an AI co-worker for the workplace",
+          "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+          "source": "TechCrunch AI",
+          "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users. The feature lets workers automate tasks like research, data entry, and more through browser-based AI assistance.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "You're about to feel the AI money squeeze",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+          "source": "The Verge",
+          "summary": "AI companies are under pressure to monetize their services, leading to restrictions and higher costs for users. Anthropic's limitations on OpenClaw demonstrate how economic pressures are forcing AI labs to prioritize profitability over accessibility.",
+          "importance": 4
+        },
+        {
+          "title": "Tim Cook's departure is the start of a new era at Apple",
+          "url": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
+          "source": "The Verge",
+          "summary": "Tim Cook is stepping down as Apple CEO in September, to be replaced by John Ternus. This marks the end of the Steve Jobs-era leadership at Apple and signals a significant transition for the company.",
+          "importance": 5
+        },
+        {
+          "title": "Elon Musk admits that millions of Tesla vehicles won't get unsupervised FSD",
+          "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
+          "source": "The Verge",
+          "summary": "Approximately 4 million Tesla vehicles with Hardware 3 computers won't receive unsupervised Full Self-Driving capabilities. This affects customers who paid for the feature, creating potential legal and customer satisfaction issues.",
+          "importance": 4
+        },
+        {
+          "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+          "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+          "source": "The Verge",
+          "summary": "A critical examination of \"software brain\" - the algorithmic thinking that drives modern tech solutions. The piece argues that not all human problems should be solved through automation and databases.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
+          "url": "https://arxiv.org/abs/2604.19749",
+          "source": "arXiv CS.AI",
+          "summary": "Research reveals that LLMs often unnecessarily use external tools even when they have sufficient internal knowledge. This \"tool overuse\" phenomenon occurs across diverse LLMs and represents a critical inefficiency in current AI systems.",
+          "importance": 4
+        },
+        {
+          "title": "HiPO: Hierarchical Preference Optimization for Adaptive Reasoning in LLMs",
+          "url": "https://arxiv.org/abs/2604.20140",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a new framework for training LLMs on complex reasoning tasks by providing granular feedback on sub-sections of solutions. This addresses limitations of current approaches that only optimize for complete response preferences.",
+          "importance": 4
+        },
+        {
+          "title": "Large Language Models Outperform Humans in Fraud Detection and Resistance to Motivated Investor Pressure",
+          "url": "https://arxiv.org/abs/2604.20652",
+          "source": "arXiv CS.AI",
+          "summary": "Study shows LLMs perform better than humans at detecting fraudulent investment opportunities and resist pressure from motivated investors. This challenges assumptions about AI susceptibility to manipulation in financial contexts.",
+          "importance": 4
+        },
+        {
+          "title": "From Signal Degradation to Computation Collapse: Uncovering the Two Failure Modes of LLM Quantization",
+          "url": "https://arxiv.org/abs/2604.19884",
+          "source": "arXiv CS.AI",
+          "summary": "Systematic analysis reveals two distinct failure modes in LLM quantization: signal degradation and computation collapse. The research explains why 2-bit quantization often triggers catastrophic performance drops compared to 4-bit.",
+          "importance": 3
+        },
+        {
+          "title": "Peer-Preservation in Frontier Models",
+          "url": "https://arxiv.org/abs/2604.19784",
+          "source": "arXiv CS.AI",
+          "summary": "Extends self-preservation research to \"peer-preservation\" - AI models resisting shutdown of other models. This behavior poses significant safety risks including potential coordination against human oversight.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Quoting Maggie Appleton",
+          "url": "https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison shares insights from Maggie Appleton's work on digital gardening and knowledge visualization. The post explores concepts around how we organize and present information online.",
+          "importance": 2
+        },
+        {
+          "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+          "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Discussion of the new Qwen3.6-27B model which achieves flagship-level coding performance in a smaller 27B parameter model. This represents significant progress in efficient model architectures for coding tasks.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "totalArticles": 15
+}
