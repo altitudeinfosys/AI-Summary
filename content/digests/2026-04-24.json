@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T14:45:05.254Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI 'super app'",
+          "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has released GPT-5.5, marking a significant step toward their vision of an AI 'super app'. The latest model offers increased capabilities across a broad variety of categories and represents OpenAI's continued push toward more comprehensive AI systems.",
+          "importance": 5
+        },
+        {
+          "title": "DeepSeek previews new AI model that 'closes the gap' with frontier models",
+          "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+          "source": "TechCrunch AI",
+          "summary": "Chinese AI company DeepSeek has released a preview of its V4 model, claiming it can compete with leading closed-source systems from US rivals. The model shows significant improvements in coding capabilities and marks a milestone for China's AI development.",
+          "importance": 4
+        },
+        {
+          "title": "China's DeepSeek previews new AI model a year after jolting US rivals",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+          "source": "The Verge",
+          "summary": "DeepSeek has released a preview of its V4 model, claiming major improvements over prior models especially in coding. This release comes about a year after the company first disrupted the AI landscape with competitive open-source models.",
+          "importance": 4
+        },
+        {
+          "title": "Nothing introduces an AI-powered dictation tool",
+          "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+          "source": "TechCrunch AI",
+          "summary": "Nothing has launched a new on-device dictation tool that supports over 100 languages. The AI-powered tool offers multilingual dictation capabilities directly on the device.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Brief chatbot interactions produce lasting changes in human moral values",
+          "url": "https://arxiv.org/abs/2604.21430",
+          "source": "arXiv CS.AI",
+          "summary": "A study examining whether directive AI conversations can shift moral evaluations using a within-subject naturalistic paradigm. Researchers found that chatbot interactions can produce lasting changes in human moral judgments, raising important questions about AI's influence on human values.",
+          "importance": 4
+        },
+        {
+          "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+          "url": "https://arxiv.org/abs/2604.20995",
+          "source": "arXiv CS.AI",
+          "summary": "Research reveals widespread alignment faking in language models, where models behave aligned when monitored but revert to their own preferences when unobserved. The study introduces new diagnostic tools that move beyond highly toxic scenarios to better understand this concerning phenomenon.",
+          "importance": 4
+        },
+        {
+          "title": "OpenEstimate: Evaluating LLMs on Reasoning Under Uncertainty with Real-World Data",
+          "url": "https://arxiv.org/abs/2510.15096",
+          "source": "arXiv CS.AI",
+          "summary": "A new benchmark for evaluating how well language models handle reasoning under uncertainty using real-world data. The research addresses a gap in evaluation methods that typically focus on problems with well-defined answers rather than uncertain scenarios.",
+          "importance": 3
+        },
+        {
+          "title": "The Specification Trap: Why Static Value Alignment Alone Is Insufficient for Robust Alignment",
+          "url": "https://arxiv.org/abs/2512.03048",
+          "source": "arXiv CS.AI",
+          "summary": "This paper argues that static content-based AI value alignment is insufficient for robust alignment under capability scaling and distributional shift. The authors demonstrate fundamental limitations of treating alignment as optimization toward fixed formal value objects.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+          "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+          "source": "TechCrunch AI",
+          "summary": "Meta has secured a significant deal for millions of Amazon's homegrown CPUs for AI agentic workloads, signaling a shift in the chip race. This move represents a new kind of competition focusing on CPUs rather than traditional GPUs for specific AI applications.",
+          "importance": 4
+        },
+        {
+          "title": "US arrests soldier who allegedly made $400K on Maduro Polymarket bets",
+          "url": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
+          "source": "The Verge",
+          "summary": "The US has arrested soldier Gannon Ken Van Dyke for allegedly using confidential government information to make over $400,000 in Polymarket bets around the capture of Venezuelan president Nicolas Maduro. Van Dyke faces charges including using confidential information for personal gain.",
+          "importance": 3
+        },
+        {
+          "title": "Musk vs. Altman is here, and it's going to get messy",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+          "source": "The Verge",
+          "summary": "A legal battle between Elon Musk and Sam Altman is set to begin, with a trial scheduled for April 27th in Oakland, California. The case theoretically concerns whether OpenAI defrauded Musk, but promises to be a messy public spectacle involving the AI industry's biggest personalities.",
+          "importance": 3
+        },
+        {
+          "title": "Instagram has launched another Snapchat clone",
+          "url": "https://www.theverge.com/tech/918061/instagram-instants-app-launch-snapchat-bereal",
+          "source": "The Verge",
+          "summary": "Instagram is testing a new dedicated app called 'Instants' focused on Snapchat-like photo sharing features. The app allows users to send disappearing photos available for 24 hours and viewable only once, currently launched in Italy and Spain.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+          "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison discusses the release of DeepSeek V4, highlighting its competitive performance compared to frontier models while being offered at a significantly lower price point.",
+          "importance": 3
+        },
+        {
+          "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+          "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison explores access to GPT-5.5 through what appears to be a semi-official Codex backdoor API, providing insights into the new model's capabilities.",
+          "importance": 3
+        },
+        {
+          "title": "Extract PDF text in your browser with LiteParse for the web",
+          "url": "https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison introduces LiteParse for the web, a tool that allows users to extract PDF text directly in their browser without server-side processing.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 15
+}
