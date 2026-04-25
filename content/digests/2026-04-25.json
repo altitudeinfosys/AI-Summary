@@ -1,0 +1,116 @@
+{
+  "date": "2026-04-25",
+  "generatedAt": "2026-04-25T14:02:44.241Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "8 Gemini tips for organizing your space (and life)",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+          "source": "Google AI Blog",
+          "summary": "Google shares practical applications for using Gemini AI to organize both physical and digital spaces. The guide covers AI-powered tips for cleaning schedules, inbox management, and seasonal household tasks.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Google to invest up to $40B in Anthropic in cash and compute",
+          "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+          "source": "TechCrunch AI",
+          "summary": "Google plans a massive $40 billion investment in Anthropic as AI rivals compete for compute capacity. This follows the limited release of Anthropic's cybersecurity-focused Mythos model.",
+          "importance": 5
+        },
+        {
+          "title": "Apple's new CEO, and why Elon Musk wants to buy Cursor for $60B",
+          "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+          "source": "TechCrunch AI",
+          "summary": "Tim Cook plans to step down as Apple CEO in September, with hardware chief John Ternus taking over. Ternus will inherit a durable business but in a very different tech ecosystem than Cook shaped.",
+          "importance": 5
+        },
+        {
+          "title": "Three reasons why DeepSeek's new model matters",
+          "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+          "source": "MIT Technology Review",
+          "summary": "Chinese AI firm DeepSeek released V4, its new flagship model with significantly improved long-context processing capabilities. The open-source model uses a new design to handle large amounts of text more efficiently.",
+          "importance": 4
+        },
+        {
+          "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+          "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "source": "TechCrunch AI",
+          "summary": "ComfyUI raised $30 million, reaching a $500M valuation with tools that give creators enhanced control over AI-generated images, videos, and audio. The funding reflects growing demand for more precise AI content creation tools.",
+          "importance": 4
+        },
+        {
+          "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+          "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+          "source": "TechCrunch AI",
+          "summary": "Apple's Mac mini is sold out everywhere, leading to inflated prices on eBay. The shortage is driven by surging demand from users wanting to run local AI models and tools on the compact desktop.",
+          "importance": 3
+        },
+        {
+          "title": "Report: Samsung execs worried company could lose money on smartphones for the first time",
+          "url": "https://arstechnica.com/gadgets/2026/04/samsung-may-be-bracing-for-first-ever-annual-loss-in-smartphone-business/",
+          "source": "Ars Technica AI",
+          "summary": "Samsung executives are concerned about potential first-ever annual losses in their smartphone business. The AI-driven memory shortage is significantly impacting Samsung's bottom line.",
+          "importance": 3
+        },
+        {
+          "title": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
+          "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+          "source": "The Verge",
+          "summary": "Microsoft is rolling out changes allowing Windows users to delay automatic updates up to 35 days at a time indefinitely. This addresses common user complaints about forced updates interrupting work or gaming.",
+          "importance": 3
+        },
+        {
+          "title": "The US gets the worst phones",
+          "url": "https://www.theverge.com/gadgets/917340/us-worst-smartphones-china-batteries-cameras-apple-iphone-john-ternus",
+          "source": "The Verge",
+          "summary": "While Apple and Samsung dominate the US market through iteration rather than innovation, Chinese tech giants have surged ahead. A growing gap exists between phones available in the US versus the rest of the world.",
+          "importance": 3
+        },
+        {
+          "title": "BMW is one step closer to selling you a color-changing car",
+          "url": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
+          "source": "The Verge",
+          "summary": "BMW announced the iX3 Flow Edition concept at the 2026 Beijing Auto Show, building on previous E Ink color-changing car concepts. The vehicle brings the company closer to commercially available color-changing automobiles.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "GPT-5.5 prompting guide",
+          "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison shares guidance on prompting techniques for GPT-5.5. The post provides practical insights for effectively interacting with the latest language model.",
+          "importance": 3
+        },
+        {
+          "title": "llm 0.31",
+          "url": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison announces version 0.31 of his llm command-line tool. The update likely includes new features and improvements for working with language models from the terminal.",
+          "importance": 2
+        },
+        {
+          "title": "The people do not yearn for automation",
+          "url": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison reflects on public attitudes toward automation and AI implementation. The post likely explores the disconnect between tech industry assumptions and actual user desires.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 13
+}
