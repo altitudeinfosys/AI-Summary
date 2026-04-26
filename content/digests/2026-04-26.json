@@ -1,0 +1,103 @@
+{
+  "date": "2026-04-26",
+  "generatedAt": "2026-04-26T14:04:24.971Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Trump fires the entire National Science Board",
+          "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+          "source": "The Verge",
+          "summary": "The Trump administration has dismissed the entire National Science Board, which advises on the National Science Foundation. The NSF has been fundamental in developing technology used in MRIs, cellphones, and helping startups like Duolingo.",
+          "importance": 5
+        },
+        {
+          "title": "Apple under Ternus: what comes next for the tech giant's hardware strategy",
+          "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+          "source": "TechCrunch AI",
+          "summary": "John Ternus, Apple's incoming CEO, is a hardware-focused leader, signaling that Apple may be putting devices back at the center of its strategy. This represents a potential shift in Apple's strategic direction under new leadership.",
+          "importance": 4
+        },
+        {
+          "title": "Why Cohere is merging with Aleph Alpha",
+          "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+          "source": "TechCrunch AI",
+          "summary": "Canadian AI startup Cohere is acquiring Germany-based Aleph Alpha with support from Schwarz Group. The companies aim to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+          "importance": 4
+        },
+        {
+          "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+          "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic conducted an experiment where AI agents represented both buyers and sellers in a classified marketplace. The agents struck real deals for real goods using real money, demonstrating advanced AI commerce capabilities.",
+          "importance": 4
+        },
+        {
+          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "source": "TechCrunch AI",
+          "summary": "Sam Altman issued a letter apologizing to residents of Tumbler Ridge, Canada, saying he is \"deeply sorry\" that OpenAI failed to alert law enforcement about a suspect in a recent mass shooting. This suggests OpenAI had relevant information about the incident.",
+          "importance": 4
+        },
+        {
+          "title": "An influx of used EVs could drive down prices",
+          "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
+          "source": "The Verge",
+          "summary": "Used EV availability is expected to surge from 123,000 expired leases in 2025 to over 600,000 by 2027-2028. This influx could dramatically reduce EV prices and make electric vehicles more accessible to consumers.",
+          "importance": 3
+        },
+        {
+          "title": "Why Tokyo is the most important tech destination of 2026",
+          "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+          "source": "TechCrunch AI",
+          "summary": "SusHi Tech Tokyo 2026 features four defined technology domains with live demonstrations and dedicated exhibit floors. The event showcases the people actually building and funding technologies globally.",
+          "importance": 3
+        },
+        {
+          "title": "Maine's governor vetoes data center moratorium",
+          "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+          "source": "TechCrunch AI",
+          "summary": "L.D. 307, which would have imposed the country's first statewide moratorium on new data centers until November 2027, was vetoed by Maine's governor. This keeps the door open for data center development in the state.",
+          "importance": 3
+        },
+        {
+          "title": "Researchers say we're talking less than ever",
+          "url": "https://www.theverge.com/science/918753/researchers-talking-less",
+          "source": "The Verge",
+          "summary": "University researchers found that spoken words between humans fell by nearly 28% between 2005 and 2019, from an average of 16,632 words daily. The decline has likely worsened since the pandemic, based on data from over 2,000 people.",
+          "importance": 3
+        },
+        {
+          "title": "After three months on Linux, I don't miss Windows at all",
+          "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+          "source": "The Verge",
+          "summary": "A user switched to Linux as their main desktop OS and has only booted Windows twice in three months - once for scanning and once for photo printing. The experiment demonstrates Linux's viability as a primary operating system for everyday users.",
+          "importance": 2
+        },
+        {
+          "title": "Sharge's fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
+          "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
+          "source": "The Verge",
+          "summary": "The Sharge Icemag 3 is a 10,000mAh magnetic Qi2 power bank that wirelessly outputs 25W to iPhone 16-series phones. It includes a built-in kickstand and is currently on sale for $70 with a free USB-C cable.",
+          "importance": 1
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "WHY ARE YOU LIKE THIS",
+          "url": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Article content not available in the provided snippet.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 12
+}
