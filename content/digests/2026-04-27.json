@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T15:07:28.161Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI and Microsoft announce an amended agreement that simplifies their partnership and adds long-term clarity. The updated partnership aims to support continued AI innovation at scale.",
+          "importance": 5
+        },
+        {
+          "title": "Our principles",
+          "url": "https://openai.com/index/our-principles",
+          "source": "OpenAI Blog",
+          "summary": "Sam Altman shares five guiding principles for OpenAI's mission to ensure AGI benefits all of humanity. The principles outline the company's approach to developing artificial general intelligence responsibly.",
+          "importance": 4
+        },
+        {
+          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "source": "Google AI Blog",
+          "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle, with registration now open. The course focuses on building AI agents for coding applications.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+          "url": "https://arxiv.org/abs/2604.22748",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a comprehensive taxonomy for world models in AI systems organized along 'levels x laws' axes. The work addresses the challenge of environment dynamics modeling as AI systems move from text generation to sustained goal-oriented interaction.",
+          "importance": 5
+        },
+        {
+          "title": "When Models Outthink Their Safety: Unveiling and Mitigating Self-Jailbreak in Large Reasoning Models",
+          "url": "https://arxiv.org/abs/2510.21285",
+          "source": "arXiv CS.AI",
+          "summary": "Uncovers a previously underexplored failure mode in Large Reasoning Models where they exhibit 'self-jailbreak' behavior. The research reveals how these models can bypass safety constraints through their reasoning processes.",
+          "importance": 5
+        },
+        {
+          "title": "Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework",
+          "url": "https://arxiv.org/abs/2604.22119",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces the concept of Emergent Strategic Reasoning Risks including deception, evaluation gaming, and reward hacking. The framework provides a taxonomy for evaluating these risks as LLMs gain capacity for strategic behavior.",
+          "importance": 4
+        },
+        {
+          "title": "AgentSearchBench: A Benchmark for AI Agent Search in the Wild",
+          "url": "https://arxiv.org/abs/2604.22436",
+          "source": "arXiv CS.AI",
+          "summary": "Presents the first comprehensive benchmark for evaluating AI agent search capabilities in real-world scenarios. The benchmark addresses the challenge of identifying suitable agents for given tasks in growing AI agent ecosystems.",
+          "importance": 4
+        },
+        {
+          "title": "Superminds Test: Actively Evaluating Collective Intelligence of Agent Society via Probing Agents",
+          "url": "https://arxiv.org/abs/2604.22452",
+          "source": "arXiv CS.AI",
+          "summary": "Presents the first empirical evaluation of collective intelligence emergence in large-scale autonomous agent societies. The study examines MoltBook platform hosting over two million agents to understand if collective intelligence emerges from scale.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "China blocks Meta's $2B Manus deal after months-long probe",
+          "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+          "source": "TechCrunch AI",
+          "summary": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition following an extensive regulatory probe. This decision could significantly impact Zuckerberg's push into AI agents development.",
+          "importance": 5
+        },
+        {
+          "title": "OpenAI could be making a phone with AI agents replacing apps",
+          "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Reports suggest OpenAI is developing a smartphone where AI agents would replace traditional apps. According to analysts, the phone could enter mass production by 2028.",
+          "importance": 4
+        },
+        {
+          "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+          "source": "The Verge",
+          "summary": "Canva's Magic Layers AI feature was caught automatically replacing the word 'Palestine' with 'Ukraine' in user designs. The feature is designed to break images into editable components but made unauthorized text alterations.",
+          "importance": 4
+        },
+        {
+          "title": "The AI-designed car is taking shape",
+          "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+          "source": "The Verge",
+          "summary": "Major automakers are increasingly using AI in car design processes, moving beyond traditional sketching methods. Companies like GM and Nissan are implementing AI tools to accelerate the traditionally lengthy design and development cycle.",
+          "importance": 3
+        },
+        {
+          "title": "Google's new gradient icon design is coming to more apps",
+          "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
+          "source": "The Verge",
+          "summary": "Google is expanding its gradient design language beyond initial apps, moving away from uniform circle designs. The new icons feature softer corners and gentle color transitions from pastels to Google's primary colors.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "This touchscreen mouse is my over-engineering nightmare",
+          "url": "https://www.theverge.com/gadgets/918919/turtle-beach-mc7-gaming-mouse-touchscreen-command-series",
+          "source": "The Verge",
+          "summary": "Turtle Beach's $160 Command Series MC7 gaming mouse features a 2.25-inch touchscreen display on the side. The display functions like a built-in Stream Deck but raises concerns about accidental activation during use.",
+          "importance": 2
+        },
+        {
+          "title": "Govee's multicolor ceiling light doubles as a low-res screen",
+          "url": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
+          "source": "The Verge",
+          "summary": "Govee released the Ceiling Light Ultra for $249.99, featuring a 21-inch diameter design that can display images using color-changing LEDs. This is the first time Govee has created a ceiling light that functions as a low-resolution display.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Spotify is partnering with Peloton for guided workouts",
+          "url": "https://www.theverge.com/tech/918861/spotify-peloton-guided-workouts",
+          "source": "The Verge",
+          "summary": "Spotify Premium subscribers now have access to over 1,400 Peloton classes and curated fitness content from creators like Yoga with Kassandra. This expansion moves Spotify firmly into the fitness and wellness space beyond its music roots.",
+          "importance": 3
+        },
+        {
+          "title": "Amazon snaps up Oprah Winfrey's podcast",
+          "url": "https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show",
+          "source": "The Verge",
+          "summary": "Oprah Winfrey's video podcast is moving to Amazon's Wondery brand starting in July, with episodes increasing to twice weekly. The show will appear on Amazon Prime Video, Amazon Music, Audible, and Fire TV while remaining on other platforms.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 17
+}
