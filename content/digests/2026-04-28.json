@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T15:26:51.934Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+          "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has won major concessions from Microsoft that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement. This ends the exclusive partnership between the two companies.",
+          "importance": 5
+        },
+        {
+          "title": "DeepMind's David Silver just raised $1.1B to build an AI that learns without human data",
+          "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+          "source": "TechCrunch AI",
+          "summary": "Ineffable Intelligence, a British AI lab founded by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a $5.1 billion valuation. The company aims to build AI systems that can learn without requiring human-generated training data.",
+          "importance": 5
+        },
+        {
+          "title": "Elon Musk and Sam Altman are going to court over OpenAI's future",
+          "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+          "source": "MIT Technology Review",
+          "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial in Northern California. The court could rule on whether OpenAI can exist as a for-profit enterprise and might even oust current leadership.",
+          "importance": 4
+        },
+        {
+          "title": "Kwai Summary Attention Technical Report",
+          "url": "https://arxiv.org/abs/2604.24432",
+          "source": "arXiv CS.CL",
+          "summary": "Technical report on Kwai's approach to long-context ability in large language models, focusing on attention mechanisms that reduce quadratic complexity. The work addresses computational overhead in long-context settings for semantic understanding and code intelligence.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "GitHub Copilot is moving to usage-based billing",
+          "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+          "source": "GitHub Blog",
+          "summary": "Starting June 1, GitHub Copilot usage will consume GitHub AI Credits instead of the current flat-rate pricing model. This represents a significant shift in how developers will pay for AI coding assistance.",
+          "importance": 4
+        },
+        {
+          "title": "An update on GitHub availability",
+          "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+          "source": "GitHub Blog",
+          "summary": "GitHub provides details on recent availability improvements and ongoing reliability efforts. The update covers what has been done and what continues to be implemented to improve service stability.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Musk and Altman go to court",
+          "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+          "source": "The Verge",
+          "summary": "The trial between Elon Musk and OpenAI is officially underway, promising to reveal important secrets about AI development. The case centers on disputes over OpenAI's early days and questions of credit and compensation.",
+          "importance": 4
+        },
+        {
+          "title": "Google and Pentagon reportedly agree on deal for 'any lawful' use of AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+          "source": "The Verge",
+          "summary": "Google has signed a classified deal allowing the US Department of Defense to use its AI models for any lawful government purpose. This comes despite employee concerns about potential misuse of the technology.",
+          "importance": 4
+        },
+        {
+          "title": "Behold the crown jewel of outrageous gaming laptops",
+          "url": "https://www.theverge.com/tech/918529/asus-rog-zephyrus-duo-2026-intel-nvidia-5090-review",
+          "source": "The Verge",
+          "summary": "The Asus ROG Zephyrus Duo features two high-end 16-inch OLED screens and represents a pinnacle of multitasking gaming hardware. The review configuration costs $5,500 but delivers exceptional performance and unique dual-screen functionality.",
+          "importance": 3
+        },
+        {
+          "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+          "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+          "source": "TechCrunch AI",
+          "summary": "YouTube is rolling out a new AI search feature to Premium subscribers in the U.S. on an opt-in basis. The feature provides conversational search results with guided answers drawn from videos and related content.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "A Fano-Style Accuracy Upper Bound for LLM Single-Pass Reasoning in Multi-Hop QA",
+          "url": "https://arxiv.org/abs/2509.21199",
+          "source": "arXiv CS.AI",
+          "summary": "Research establishes theoretical accuracy limits for large language models performing multi-hop question answering in single-pass reasoning. The work provides formal bounds on performance when models must integrate dispersed, interdependent evidence under noise.",
+          "importance": 4
+        },
+        {
+          "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+          "url": "https://arxiv.org/abs/2604.23002",
+          "source": "arXiv CS.AI",
+          "summary": "Framework for automatically formalizing informal mathematical reasoning in scientific domains using Lean theorem proving. The system addresses domain-specific challenges like Dirac notation and vector calculus through human-in-the-loop agentic approaches.",
+          "importance": 4
+        },
+        {
+          "title": "Beyond the Attention Stability Boundary: Agentic Self-Synthesizing Reasoning Protocols",
+          "url": "https://arxiv.org/abs/2604.24512",
+          "source": "arXiv CS.AI",
+          "summary": "Identifies and formalizes the Attention Latch phenomenon in decoder-only transformers, which creates bottlenecks in maintaining deterministic goal-directedness. The work proposes solutions for autonomous digital coworker applications.",
+          "importance": 3
+        },
+        {
+          "title": "QED: An Open-Source Multi-Agent System for Generating Mathematical Proofs on Open Problems",
+          "url": "https://arxiv.org/abs/2604.24021",
+          "source": "arXiv CS.AI",
+          "summary": "Research explores whether AI systems can produce original, non-trivial proofs for open research problems. The work identifies seven failure modes preventing reliable proof generation and tests frontier LLMs on research-level mathematical tasks.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+          "url": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison highlights new features in pip 26.1, including lockfiles and dependency cooldowns for better package management.",
+          "importance": 3
+        },
+        {
+          "title": "Introducing talkie: a 13B vintage language model from 1930",
+          "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A humorous take on language model development, presenting a fictional 13B parameter model supposedly from 1930.",
+          "importance": 2
+        },
+        {
+          "title": "microsoft/VibeVoice",
+          "url": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison covers Microsoft's VibeVoice project, likely related to voice AI technology developments.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 17
+}
