@@ -1,0 +1,135 @@
+{
+  "date": "2026-04-29",
+  "generatedAt": "2026-04-29T15:12:57.739Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Marco-MoE: Open Multilingual Mixture-of-Expert Language Models with Efficient Upcycling",
+          "url": "https://arxiv.org/abs/2604.25578",
+          "source": "arXiv CS.CL",
+          "summary": "Presents Marco-MoE, a suite of fully open multilingual sparse MoE models featuring extreme sparsity (only 5% parameters activated per token) and efficient pre-training on 5T tokens. The models surpass similarly-sized competitors on English and multilingual benchmarks through innovative upcycling from dense models.",
+          "importance": 5
+        },
+        {
+          "title": "Cybersecurity in the Intelligence Age",
+          "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+          "importance": 4
+        },
+        {
+          "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+          "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+          "source": "Google AI Blog",
+          "summary": "Google celebrates Google Translate's 20-year milestone, sharing 20 fun facts about its evolution from a 2006 AI experiment to supporting almost 250 languages today.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+          "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+          "source": "GitHub Blog",
+          "summary": "GitHub details how they validated, fixed, and investigated a critical vulnerability in under two hours, confirming no exploitation occurred. The post describes their rapid response process for securing the git push pipeline.",
+          "importance": 4
+        },
+        {
+          "title": "GitHub for Beginners: Getting started with Markdown",
+          "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+          "source": "GitHub Blog",
+          "summary": "A beginner's guide to formatting and editing comments and posts using Markdown on GitHub.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "QED: An Open-Source Multi-Agent System for Generating Mathematical Proofs on Open Problems",
+          "url": "https://arxiv.org/abs/2604.24021",
+          "source": "arXiv CS.AI",
+          "summary": "Explores whether AI systems can produce original, nontrivial proofs for open research problems. Through systematic experiments, identifies seven failure modes that prevent reliable proof generation and demonstrates the challenges in generating genuinely novel proofs.",
+          "importance": 5
+        },
+        {
+          "title": "AgentPulse: A Continuous Multi-Signal Framework for Evaluating AI Agents in Deployment",
+          "url": "https://arxiv.org/abs/2604.24038",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a continuous evaluation framework scoring 50 agents across 10 workload categories using real-time signals from GitHub, package registries, and social media. Addresses the limitation of static benchmarks that only measure capability at fixed points in time.",
+          "importance": 4
+        },
+        {
+          "title": "MIMIC: A Generative Multimodal Foundation Model for Biomolecules",
+          "url": "https://arxiv.org/abs/2604.24506",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a generative multimodal foundation model trained on LORE dataset, linking nucleic acid, protein, evolutionary, structural, regulatory, and semantic modalities. Addresses the challenge that biological function emerges from coupled constraints across multiple modalities.",
+          "importance": 4
+        },
+        {
+          "title": "Beyond the Attention Stability Boundary: Agentic Self-Synthesizing Reasoning Protocols",
+          "url": "https://arxiv.org/abs/2604.24512",
+          "source": "arXiv CS.AI",
+          "summary": "Identifies and formalizes the Attention Latch failure mode in decoder-only transformers where cumulative probabilistic weight causes goal-directedness to degrade. Proposes solutions for maintaining deterministic reasoning in autonomous digital coworkers.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "ChatGPT downloads are slowing — and may cause problems for OpenAI's IPO",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+          "source": "The Verge",
+          "summary": "ChatGPT is experiencing slowing growth with 132% increase in uninstalls year-over-year in April and 413% in the following month. While still growing its user base, the deceleration could impact OpenAI's IPO prospects.",
+          "importance": 4
+        },
+        {
+          "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect's ChatGPT activity",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+          "source": "The Verge",
+          "summary": "Seven families from the Tumbler Ridge school shooting have filed lawsuits against OpenAI and Sam Altman for allegedly staying silent after systems flagged the suspected shooter's ChatGPT activity. The families accuse OpenAI of protecting its reputation and upcoming IPO over public safety.",
+          "importance": 4
+        },
+        {
+          "title": "Uber adds hotels to its app in big travel swing",
+          "url": "https://www.theverge.com/transportation/919393/uber-hotel-expedia-vrbo-ai-voice-search",
+          "source": "The Verge",
+          "summary": "Uber is expanding into travel accommodations by adding hotel booking functionality to its app, announced at the company's annual Go/Get product event. This represents one of Uber's biggest strategic expansions beyond transportation and food delivery.",
+          "importance": 3
+        },
+        {
+          "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+          "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon's new 'Join the chat' feature lets customers ask questions about products and receive AI-powered audio responses, enhancing the shopping experience with conversational AI.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Quoting OpenAI Codex base_instructions",
+          "url": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Community discussion about OpenAI Codex base instructions and their implications for AI development.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 14
+}
