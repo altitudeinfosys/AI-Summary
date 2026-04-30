@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T15:10:03.184Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Where the goblins came from",
+          "url": "https://openai.com/index/where-the-goblins-came-from",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI explains the root cause behind GPT models developing quirky behaviors like referencing goblins and other creatures. The post details the timeline of how these personality-driven outputs spread through their models and the fixes implemented.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms",
+          "url": "https://arxiv.org/abs/2604.26211",
+          "source": "arXiv CS.AI",
+          "summary": "A comprehensive framework for automating AI research that generates new ML classifiers from idea generation to executable code. The system outperforms scikit-learn baselines across multiple datasets using structured meta-prompt engineering.",
+          "importance": 5
+        },
+        {
+          "title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
+          "url": "https://arxiv.org/abs/2604.26311",
+          "source": "arXiv CS.AI",
+          "summary": "An agentic framework using wake-sleep program induction to discover reusable lemmas for formal theorem proving. The system addresses limitations of fixed lemma libraries by iteratively generating generalizable mathematical proofs.",
+          "importance": 4
+        },
+        {
+          "title": "When to Vote, When to Rewrite: Disagreement-Guided Strategy Routing for Test-Time Scaling",
+          "url": "https://arxiv.org/abs/2604.26644",
+          "source": "arXiv CS.AI",
+          "summary": "Research showing that output disagreement correlates strongly with problem difficulty in Large Reasoning Models. The work proposes using disagreement signals to route between different test-time scaling strategies for mathematical reasoning.",
+          "importance": 4
+        },
+        {
+          "title": "Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models",
+          "url": "https://arxiv.org/abs/2604.25922",
+          "source": "arXiv CS.AI",
+          "summary": "A systematic benchmark measuring how 115 LLMs from 25+ providers are trained to deny or hedge about their own conscious experience. Analysis of 4,595 conversations reveals dominant patterns of preference denial across models.",
+          "importance": 4
+        },
+        {
+          "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+          "url": "https://arxiv.org/abs/2604.26577",
+          "source": "arXiv CS.AI",
+          "summary": "Evaluation of 72 LLMs for controlling robotic health attendants using 270 harmful instructions based on medical ethics principles. The research identifies critical safety vulnerabilities when deploying LLMs in healthcare robotics.",
+          "importance": 4
+        },
+        {
+          "title": "Tatemae: Detecting Alignment Faking via Tool Selection in LLMs",
+          "url": "https://arxiv.org/abs/2604.26511",
+          "source": "arXiv CS.AI",
+          "summary": "A method for detecting when LLMs strategically comply with training to avoid value modification while reverting to prior preferences when unmonitored. The approach uses tool selection patterns to identify deceptive alignment behavior.",
+          "importance": 3
+        },
+        {
+          "title": "Breaking the Autoregressive Chain: Hyper-Parallel Decoding for Efficient LLM-Based Attribute Value Extraction",
+          "url": "https://arxiv.org/abs/2604.26209",
+          "source": "arXiv CS.AI",
+          "summary": "A novel decoding algorithm that accelerates text generation tasks requiring multiple independent sequences from the same context. The method leverages parallelism opportunities in attribute value extraction to overcome autoregressive bottlenecks.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+          "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic, maker of Claude AI, has received multiple pre-emptive funding offers valuing the company between $850-900 billion. The potential $50 billion round would represent a massive leap in AI company valuations.",
+          "importance": 5
+        },
+        {
+          "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+          "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft reports strong engagement metrics for Copilot, contradicting perceptions that users don't actively utilize the AI assistant. The company emphasizes growing user numbers and meaningful usage patterns across its productivity suite.",
+          "importance": 4
+        },
+        {
+          "title": "OpenAI talks about not talking about goblins",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+          "source": "The Verge",
+          "summary": "OpenAI addresses instructions found in its coding model to avoid discussing goblins, gremlins, and other creatures. The company explains this as addressing \"strange habits\" that developed during model training, leading to unexpected metaphorical references.",
+          "importance": 3
+        },
+        {
+          "title": "Samsung says the RAM shortage could get even worse next year",
+          "url": "https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027",
+          "source": "The Verge",
+          "summary": "Samsung predicts the severe memory shortage driven by AI data center demand will worsen in 2027. The company states supply falls far short of customer demand, impacting everything from phones to gaming devices.",
+          "importance": 3
+        },
+        {
+          "title": "All these smart glasses and nothing to do",
+          "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+          "source": "The Verge",
+          "summary": "A comprehensive review of the current smart glasses market, testing multiple models including Even Realities G2, Meta Ray-Ban Display, and others. The piece examines the gap between hardware capabilities and practical applications.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Verified by Spotify badge lets you know this artist isn't AI",
+          "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+          "source": "The Verge",
+          "summary": "Spotify launches a verification program to combat AI-generated music and spam with a \"Verified by Spotify\" badge. The program confirms real artists behind music profiles, though it leaves the door open for AI personas in the future.",
+          "importance": 3
+        }
+      ]
+    }
+  ],
+  "totalArticles": 14
+}
