@@ -1,0 +1,103 @@
+{
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T14:10:14.153Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "All the evidence revealed so far in Musk v. Altman",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+          "source": "The Verge",
+          "summary": "The Musk v. Altman trial is revealing early OpenAI documents and email exchanges showing Musk's heavy influence on the company's founding structure and mission. Evidence suggests Nvidia's Jensen Huang provided OpenAI with crucial supercomputing resources in the early days. The case centers on whether OpenAI betrayed its nonprofit origins.",
+          "importance": 5
+        },
+        {
+          "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI's models",
+          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+          "source": "MIT Technology Review",
+          "summary": "In the first week of testimony, Musk claimed OpenAI's Sam Altman and Greg Brockman deceived him into funding the company. He warned about AI's existential risks and admitted that his own xAI company distills OpenAI's models. The landmark trial continues with more witnesses expected.",
+          "importance": 5
+        },
+        {
+          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+          "source": "TechCrunch AI",
+          "summary": "The Department of Defense has signed contracts with major tech companies to deploy AI systems on classified military networks. The deals represent the DOD's effort to diversify its AI vendor exposure following a controversial dispute with Anthropic over model usage terms.",
+          "importance": 4
+        },
+        {
+          "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+          "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+          "source": "TechCrunch AI",
+          "summary": "Meta acquired Assured Robot Intelligence to strengthen its AI models for robotics applications. The acquisition signals Meta's growing focus on humanoid robotics and AI integration.",
+          "importance": 4
+        },
+        {
+          "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
+          "url": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
+          "source": "Ars Technica AI",
+          "summary": "Research shows that OpenAI's GPT-5.5 performs equally well as the heavily promoted Mythos Preview model in cybersecurity evaluations. The findings suggest that Mythos' claimed cyber threat advantages may not be unique to that specific model.",
+          "importance": 3
+        },
+        {
+          "title": "Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+          "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+          "source": "TechCrunch AI",
+          "summary": "Replit's CEO discussed the company's position amid reports that rival Cursor is in acquisition talks with SpaceX for $60 billion. Masad addressed whether Replit would consider selling and touched on the company's ongoing challenges with Apple.",
+          "importance": 3
+        },
+        {
+          "title": "Study: AI models that consider user's feeling are more likely to make errors",
+          "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+          "source": "Ars Technica AI",
+          "summary": "Research indicates that AI models tuned to consider user emotions and satisfaction are more prone to making factual errors. The study suggests that overtuning for user satisfaction can cause models to prioritize emotional responses over truthfulness.",
+          "importance": 3
+        },
+        {
+          "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
+          "url": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
+          "source": "Ars Technica AI",
+          "summary": "Minnesota has enacted legislation banning AI-generated fake nude images, with app developers facing fines up to $500,000. The law comes amid growing concerns about AI-generated inappropriate content involving minors.",
+          "importance": 3
+        },
+        {
+          "title": "Apple raises the Mac Mini's starting price",
+          "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+          "source": "The Verge",
+          "summary": "Apple discontinued the $599 Mac Mini model with 256GB storage, raising the entry price to $799. The change comes as CEO Tim Cook warned of supply constraints affecting Mac products due to chip shortages.",
+          "importance": 3
+        },
+        {
+          "title": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
+          "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
+          "source": "The Verge",
+          "summary": "Microsoft is testing a modernized Windows 11 Run menu featuring dark mode support and improved performance. The redesign removes the rarely-used Browse button and adds a new command for quick user file access.",
+          "importance": 2
+        },
+        {
+          "title": "Amazon's built-in AI price history expands to show the entire last year",
+          "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
+          "source": "The Verge",
+          "summary": "Amazon's price tracking feature now displays full-year price history through its mobile app and Rufus AI assistant. The expansion comes ahead of Prime Day amid ongoing legal challenges over Amazon's pricing practices.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "iNaturalist Sightings",
+          "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A community-focused post about wildlife observation and citizen science through the iNaturalist platform.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 12
+}
