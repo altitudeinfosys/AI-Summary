@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-03",
+  "generatedAt": "2026-05-03T14:10:48.680Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Spirit Airlines shuts down after Trump's war on Iran doubled jet fuel prices",
+          "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
+          "source": "The Verge",
+          "summary": "Ultra-low-cost carrier Spirit Airlines ceased operations after 34 years, canceling all flights due to doubled jet fuel prices amid geopolitical tensions. The airline shut down at 3AM ET Saturday morning, redirecting passengers away from airports.",
+          "importance": 5
+        },
+        {
+          "title": "Meta's historic loss in court could cost a lot more than $375 million",
+          "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+          "source": "The Verge",
+          "summary": "New Mexico won $375 million against Meta in a landmark child safety case. The next phase begins Monday with a three-week public nuisance trial that could have even more significant consequences for Meta and the social media industry.",
+          "importance": 4
+        },
+        {
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "source": "TechCrunch AI",
+          "summary": "The Academy of Motion Picture Arts and Sciences has ruled that AI-generated actors and scripts will no longer be eligible for Oscar consideration. This represents a significant policy shift affecting the intersection of AI and entertainment.",
+          "importance": 4
+        },
+        {
+          "title": "AI music is flooding streaming services — but who wants it?",
+          "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+          "source": "The Verge",
+          "summary": "Generative AI music that started as experimental projects in 2018-2019 is now flooding streaming platforms. The article examines the growing presence of AI-generated music and questions around consumer demand.",
+          "importance": 3
+        },
+        {
+          "title": "How the internet's favorite squirrel dad made the hottest camera app of 2026",
+          "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+          "source": "The Verge",
+          "summary": "DualShot Recorder became the #1 paid app on the App Store within 12 hours of release. The surprising success story originated from Derrick Downey Jr.'s content featuring neighborhood squirrels.",
+          "importance": 3
+        },
+        {
+          "title": "The best AI dictation apps, tested and ranked",
+          "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+          "source": "TechCrunch AI",
+          "summary": "A comprehensive review and ranking of AI-powered dictation applications. The apps are evaluated for their utility in email replies, note-taking, and voice-to-code functionality.",
+          "importance": 2
+        },
+        {
+          "title": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
+          "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
+          "source": "The Verge",
+          "summary": "VidaBay has created magnetic digital photo frames that mimic Polaroids for refrigerator displays. The updateable e-ink devices offer a modern alternative to traditional instant film photography.",
+          "importance": 2
+        },
+        {
+          "title": "Aura's delightful Aspen photo frame is on sale for $30 off this weekend",
+          "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
+          "source": "The Verge",
+          "summary": "Aura's digital photo frames are discounted ahead of Mother's Day, with the Aspen model available for $199. The connected frames offer bright, lifelike displays that continuously update with new photos.",
+          "importance": 1
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Sightings",
+          "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "A community post from Simon Willison's blog with no available snippet or description provided.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 9
+}
