@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T15:10:18.279Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Tesla hits Musk's threshold for 'safe unsupervised' driving",
+          "url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
+          "source": "The Verge",
+          "summary": "Tesla's Full Self-Driving system has crossed 10 billion miles, meeting Elon Musk's threshold for 'safe unsupervised' driving. However, FSD remains a Level 2 system and Tesla owners haven't suddenly gained access to unsupervised capabilities.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Register now for OpenClaw: After Hours @ GitHub",
+          "url": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+          "source": "GitHub Blog",
+          "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Participants can join in person or watch the livestream on Twitch.",
+          "importance": 2
+        },
+        {
+          "title": "Homebridge 2.0 is here, and it speaks Matter",
+          "url": "https://www.theverge.com/tech/922877/homebridge-2-0-matter-update-robot-vacuums",
+          "source": "The Verge",
+          "summary": "Homebridge 2.0 officially launches after three years in beta, adding initial support for the Matter smart home standard. The update enables integration of non-HomeKit devices into Apple Home with improved compatibility.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "GameStop makes $56 billion offer to acquire eBay",
+          "url": "https://www.theverge.com/games/922935/gamestop-ebay-bid",
+          "source": "The Verge",
+          "summary": "GameStop has made an unsolicited $56 billion bid to acquire eBay as part of CEO Ryan Cohen's plan to transform the marketplace into a competitor to Amazon. eBay says it will carefully review the proposal, having had no prior discussions with GameStop.",
+          "importance": 5
+        },
+        {
+          "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+          "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+          "source": "TechCrunch AI",
+          "summary": "A new Harvard study examines how large language models perform in medical contexts, including real emergency room cases. At least one AI model demonstrated higher accuracy than human doctors in diagnostic tasks.",
+          "importance": 4
+        },
+        {
+          "title": "'This is fine' creator says AI startup stole his art",
+          "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "source": "TechCrunch AI",
+          "summary": "The creator of the famous 'This is fine' meme alleges that AI startup Artisan used his artwork without permission. Artisan is known for billboards encouraging businesses to 'stop hiring humans.'",
+          "importance": 3
+        },
+        {
+          "title": "Dara Khosrowshahi on replacing Uber drivers — and himself — with AI",
+          "url": "https://www.theverge.com/podcast/922909/dara-khosrowshahi-uber-drivers-ai-hotels-service",
+          "source": "The Verge",
+          "summary": "Uber CEO Dara Khosrowshahi discusses expanding Uber into a larger travel platform, including hotel booking through an Expedia partnership. The conversation covers AI's role in transportation and service delivery.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Beyond Benchmarks: MathArena as an Evaluation Platform for Mathematics with LLMs",
+          "url": "https://arxiv.org/abs/2605.00674",
+          "source": "arXiv CS.CL",
+          "summary": "Researchers propose MathArena as a dynamic evaluation platform for mathematical reasoning in LLMs, arguing that static benchmarks are insufficient. The platform aims to provide continuous evaluation across multiple benchmarks to better track model progress over time.",
+          "importance": 4
+        },
+        {
+          "title": "Why Do LLMs Struggle in Strategic Play? Broken Links Between Observations, Beliefs, and Actions",
+          "url": "https://arxiv.org/abs/2605.00226",
+          "source": "arXiv CS.CL",
+          "summary": "Study reveals fundamental gaps in LLM decision-making mechanisms during incomplete-information games. Researchers identify broken links between observations, beliefs, and actions that explain why LLMs fail at strategic reasoning tasks.",
+          "importance": 4
+        },
+        {
+          "title": "Escaping Mode Collapse in LLM Generation via Geometric Regulation",
+          "url": "https://arxiv.org/abs/2605.00435",
+          "source": "arXiv CS.CL",
+          "summary": "Researchers propose a dynamical-systems approach to address mode collapse in autoregressive text generation. The method interprets mode collapse as geometric collapse where model trajectories become confined to low-dimensional regions during generation.",
+          "importance": 4
+        },
+        {
+          "title": "NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus",
+          "url": "https://arxiv.org/abs/2605.00086",
+          "source": "arXiv CS.CL",
+          "summary": "Introduces NorBERTo, a modern encoder based on ModernBERT architecture for Portuguese language processing. The model is trained on Aurora-PT, a newly curated Brazilian Portuguese corpus with 331 billion GPT-2 tokens.",
+          "importance": 3
+        },
+        {
+          "title": "Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations",
+          "url": "https://arxiv.org/abs/2605.00227",
+          "source": "arXiv CS.CL",
+          "summary": "Presents the first end-to-end framework for evaluating safety risks in AI companion applications during multi-turn interactions. The framework addresses growing concerns about emotional engagement risks through controlled simulation and scalable evaluation methods.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+          "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+          "source": "TechCrunch AI",
+          "summary": "TechCrunch is offering a limited-time BOGO promotion for Disrupt 2026 passes. The offer provides 50% off a second ticket of the same type and expires on Friday, May 8.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 13
+}
