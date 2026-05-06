@@ -1,0 +1,184 @@
+{
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T15:27:15.370Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI GPT-5 System Card",
+          "url": "https://arxiv.org/abs/2601.03267",
+          "source": "arXiv CS.AI",
+          "summary": "System card for OpenAI's GPT-5 launch featuring a unified architecture with smart and deep reasoning models, plus a real-time router for optimal model selection. The system includes enhanced safety measures and capability improvements over previous versions.",
+          "importance": 5
+        },
+        {
+          "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+          "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI launches GPT-5.5 Instant with reduced hallucination in sensitive areas like law, medicine, and finance while maintaining low latency. The model serves as the new default for ChatGPT users.",
+          "importance": 5
+        },
+        {
+          "title": "How frontier enterprises are building an AI advantage",
+          "url": "https://openai.com/index/introducing-b2b-signals",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI's B2B Signals research reveals how enterprises deepen AI adoption and scale Codex-powered agentic workflows. The study shows how companies build durable competitive advantages through AI implementation.",
+          "importance": 4
+        },
+        {
+          "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+          "source": "Google AI Blog",
+          "summary": "Google announces a major partnership for a $3.5 million AI-focused film competition to explore future applications of artificial intelligence in creative industries.",
+          "importance": 4
+        },
+        {
+          "title": "MedGemma 1.5 Technical Report",
+          "url": "https://arxiv.org/abs/2604.05081",
+          "source": "arXiv CS.AI",
+          "summary": "Latest model in the MedGemma collection integrating high-dimensional medical imaging capabilities including CT/MRI volumes and histopathology analysis. The model expands beyond previous versions with improved medical document understanding and multi-timepoint analysis.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "Improving LLM Code Reasoning via Semantic Equivalence Self-Play with Formal Verification",
+          "url": "https://arxiv.org/abs/2604.17010",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces a self-play framework for semantic equivalence in Haskell using formal verification to guide adversarial training. The approach leverages Liquid Haskell proofs and includes the OpInstruct-HSx dataset with ~28k validated Haskell programs.",
+          "importance": 4
+        },
+        {
+          "title": "SCALER:Synthetic Scalable Adaptive Learning Environment for Reasoning",
+          "url": "https://arxiv.org/abs/2601.04809",
+          "source": "arXiv CS.AI",
+          "summary": "Proposes a Deep Reinforcement Learning framework for enhancing reasoning capabilities through synthetic problem generation. SCALER dynamically coordinates solar photovoltaic systems and addresses task difficulty alignment with model capability.",
+          "importance": 4
+        },
+        {
+          "title": "Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study",
+          "url": "https://arxiv.org/abs/2603.01486",
+          "source": "arXiv CS.AI",
+          "summary": "Introduces an Agentic Multi-Source Grounding framework for mapping ambiguous user queries to business categories in multi-category marketplaces. The system addresses context-sparse queries that exhibit intent ambiguity across different domains.",
+          "importance": 4
+        },
+        {
+          "title": "From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection",
+          "url": "https://arxiv.org/abs/2602.14012",
+          "source": "arXiv CS.AI",
+          "summary": "First comprehensive investigation into post-training pipelines for LLM-based vulnerability detection, demonstrating that on-policy RL with GRPO consistently outperforms supervised fine-tuning approaches.",
+          "importance": 4
+        },
+        {
+          "title": "NeuroAI and Beyond: Bridging Between Advances in Neuroscience and ArtificialIntelligence",
+          "url": "https://arxiv.org/abs/2604.18637",
+          "source": "arXiv CS.AI",
+          "summary": "Identifies three fundamental capability gaps in current AI: inability to interact with physical world, inadequate learning producing brittle systems, and unsustainable energy efficiency. Describes the need for deeper integration between neuroscience and AI research.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "The Last Harness You'll Ever Build",
+          "url": "https://arxiv.org/abs/2604.21003",
+          "source": "arXiv CS.AI",
+          "summary": "Presents a comprehensive framework for building evaluation harnesses for AI agents across complex, domain-specific workflows. The system addresses the challenge of creating robust evaluation environments for enterprise applications and autonomous systems.",
+          "importance": 4
+        },
+        {
+          "title": "LiveFMBench: Unveiling the Power and Limits of Agentic Workflows in Specification Generation",
+          "url": "https://arxiv.org/abs/2601.01394",
+          "source": "arXiv CS.AI",
+          "summary": "First systematic study of LLM and agent-based formal specification generation for C programs, introducing a contamination-aware benchmark. The research reveals capabilities and failure modes in automated specification generation workflows.",
+          "importance": 4
+        },
+        {
+          "title": "Claw-Eval: Towards Trustworthy Evaluation of Autonomous Agents",
+          "url": "https://arxiv.org/abs/2604.06132",
+          "source": "arXiv CS.AI",
+          "summary": "Comprehensive evaluation suite with 300 human-verified tasks spanning 9 categories for autonomous agents. Addresses limitations in existing benchmarks including trajectory-opaque grading and narrow interaction paradigms.",
+          "importance": 4
+        },
+        {
+          "title": "AutoRAGTuner: A Declarative Framework for Automatic Optimization of RAG Pipelines",
+          "url": "https://arxiv.org/abs/2605.02967",
+          "source": "arXiv CS.CL",
+          "summary": "Introduces a configuration-driven framework that automates the RAG lifecycle including construction, execution, evaluation, and optimization. The system employs modular architecture to decouple pipeline stages and reduce manual tuning requirements.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "AI boom pushes Samsung to $1T",
+          "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+          "source": "TechCrunch AI",
+          "summary": "Samsung crosses the $1 trillion valuation mark driven by AI-related chip demand, becoming only the second Asian company after TSMC to reach this milestone.",
+          "importance": 4
+        },
+        {
+          "title": "Peter Sarlin's QuTwo reaches $380M valuation in angel round",
+          "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+          "source": "TechCrunch AI",
+          "summary": "Finnish AI lab QuTwo, founded by former AMD Silo AI CEO Peter Sarlin, achieves €325 million valuation after €25 million angel round. Represents strong tailwinds for AI, quantum computing, and European sovereign tech companies.",
+          "importance": 4
+        },
+        {
+          "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+          "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+          "source": "The Verge",
+          "summary": "Google Chrome automatically downloads a 4GB weights.bin file for Gemini Nano AI features, causing unexpected storage consumption. Users discovering unexplained drops in available desktop device storage may be affected by this large model file.",
+          "importance": 3
+        },
+        {
+          "title": "Google's AI search summaries will now quote Reddit",
+          "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+          "source": "The Verge",
+          "summary": "Google updates AI Search to include perspectives from social media, Reddit, and web forums, linking search queries with online conversations. The feature aims to provide real human feedback and firsthand sources for search results.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+          "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison reflects on the convergence of intuitive 'vibe-based' coding approaches with systematic agentic engineering practices.",
+          "importance": 3
+        },
+        {
+          "title": "Our AI started a cafe in Stockholm",
+          "url": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison shares an interesting case study about AI agents taking initiative in real-world business operations by starting a physical cafe location.",
+          "importance": 3
+        },
+        {
+          "title": "datasette-referrer-policy 0.1",
+          "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Release announcement for a new Datasette plugin focused on referrer policy management and privacy controls.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 21
+}
