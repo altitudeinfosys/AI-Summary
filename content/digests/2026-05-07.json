@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-07",
+  "generatedAt": "2026-05-07T15:28:14.643Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "Parloa builds service agents customers want to talk to",
+          "url": "https://openai.com/index/parloa",
+          "source": "OpenAI Blog",
+          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents. The platform enables enterprises to design, simulate, and deploy reliable real-time interactions for customer service.",
+          "importance": 4
+        },
+        {
+          "title": "5 gardening tips you can use right in Search",
+          "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+          "source": "Google AI Blog",
+          "summary": "Google has introduced new AI-powered features in Search to help with gardening. The update includes AI Mode, Search Live, and Shopping integration to provide plant care guidance.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Validating agentic behavior when \"correct\" isn't deterministic",
+          "url": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+          "source": "GitHub Blog",
+          "summary": "GitHub discusses building a \"Trust Layer\" for GitHub Copilot Coding Agents without brittle scripts or black-box judgments. The approach uses dominatory analysis to validate agentic behavior in non-deterministic scenarios.",
+          "importance": 4
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "China's Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+          "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+          "source": "TechCrunch AI",
+          "summary": "Moonshot AI has secured $2 billion in funding at a $20 billion valuation, driven by strong demand for open-source AI solutions. The company's annualized recurring revenue topped $200 million in April.",
+          "importance": 5
+        },
+        {
+          "title": "DeepSeek could hit $45B valuation from its first investment round",
+          "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+          "source": "TechCrunch AI",
+          "summary": "Chinese AI lab DeepSeek is reportedly seeking its first major investment round at a $45 billion valuation. The company gained prominence for developing large language models with significantly lower training costs than major US competitors.",
+          "importance": 5
+        },
+        {
+          "title": "Spotify wants to become the home for AI-generated personal audio",
+          "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+          "source": "TechCrunch AI",
+          "summary": "Spotify is positioning itself as a platform for AI-generated personal audio content. Users will be able to create podcasts from AI tools like Codex or Claude Code and import them directly to Spotify.",
+          "importance": 4
+        },
+        {
+          "title": "Google shuts down Project Mariner",
+          "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+          "source": "The Verge",
+          "summary": "Google has discontinued Project Mariner, an experimental AI feature designed to perform web-based tasks automatically. The project was shut down on May 4th, 2026, with its technology being integrated into other Google products.",
+          "importance": 4
+        },
+        {
+          "title": "Barry Diller trusts Sam Altman. But 'trust is irrelevant' as AGI nears, he says.",
+          "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+          "source": "TechCrunch AI",
+          "summary": "Media mogul Barry Diller expressed trust in OpenAI CEO Sam Altman while warning that personal trust becomes irrelevant as artificial general intelligence approaches. He emphasized the need for proper guardrails regardless of individual trustworthiness.",
+          "importance": 3
+        },
+        {
+          "title": "Snap says its $400M deal with Perplexity 'amicably ended'",
+          "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "source": "TechCrunch AI",
+          "summary": "Snap and Perplexity have ended their $400 million partnership deal announced last November. The agreement would have integrated Perplexity's AI search engine directly into Snapchat.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing",
+          "url": "https://arxiv.org/abs/2605.02910",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers introduce CreativityBench, a benchmark for evaluating creative problem-solving in language models through tool repurposing. The benchmark tests models' ability to reason about object affordances and attributes for non-canonical usage.",
+          "importance": 4
+        },
+        {
+          "title": "Terminus-4B: Can a Smaller Model Replace Frontier LLMs at Agentic Execution Tasks?",
+          "url": "https://arxiv.org/abs/2605.03195",
+          "source": "arXiv CS.AI",
+          "summary": "This paper explores whether smaller, specialized models can replace large frontier LLMs for specific agentic tasks. The research investigates the architectural patterns where agents delegate specialized subtasks to smaller, focused subagents.",
+          "importance": 4
+        },
+        {
+          "title": "Stop Automating Peer Review Without Rigorous Evaluation",
+          "url": "https://arxiv.org/abs/2605.03202",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers argue against using current AI systems for automated paper reviews, citing bias issues and reliability concerns. The paper compares human and AI-generated ICLR 2026 reviews, identifying critical problems with AI reviewer consistency.",
+          "importance": 4
+        },
+        {
+          "title": "cotomi Act: Learning to Automate Work by Watching You",
+          "url": "https://arxiv.org/abs/2605.03231",
+          "source": "arXiv CS.AI",
+          "summary": "Researchers present cotomi Act, a browser-based agent that learns to automate work by observing user behavior. The system combines reliable multi-step task execution with persistent organizational knowledge learned from user interactions.",
+          "importance": 4
+        },
+        {
+          "title": "What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis",
+          "url": "https://arxiv.org/abs/2605.03354",
+          "source": "arXiv CS.AI",
+          "summary": "This study analyzes internal computations in LLM-based agent memory systems, revealing how models extract, retain, and retrieve information across sessions. The research traces feature circuits across different model sizes and memory frameworks.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Live blog: Code w/ Claude 2026",
+          "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison provides live coverage and commentary on coding developments with Claude AI in 2026. The blog post offers insights into practical applications and real-world usage of Claude for development tasks.",
+          "importance": 2
+        }
+      ]
+    }
+  ],
+  "totalArticles": 15
+}
