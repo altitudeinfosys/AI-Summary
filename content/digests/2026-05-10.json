@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T14:19:35.668Z",
+  "categories": [
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Nvidia has already committed $40B to equity AI deals this year",
+          "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia continues to be a major investor in the AI ecosystem. The company has committed $40 billion to equity AI deals this year, demonstrating its significant financial commitment to AI development.",
+          "importance": 4
+        },
+        {
+          "title": "Writers are fleeing the Substack Tax",
+          "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
+          "source": "The Verge",
+          "summary": "Substack is losing popular writers to rival platforms like Ghost and Beehiiv. Writers cite complaints about the platform's pricing model and increased focus on social features as reasons for leaving.",
+          "importance": 3
+        },
+        {
+          "title": "Netflix may have finally figured out games",
+          "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+          "source": "The Verge",
+          "summary": "Netflix appears to be finding success with its gaming strategy, particularly with TV-based games like Boggle. The platform's approach to gaming may finally be resonating with users and families.",
+          "importance": 3
+        },
+        {
+          "title": "So you've heard these AI terms and nodded along; let's fix that",
+          "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "source": "TechCrunch AI",
+          "summary": "A comprehensive glossary defining important AI terms and phrases that have emerged with the rise of artificial intelligence. The guide helps readers understand the avalanche of new terminology in the AI space.",
+          "importance": 2
+        },
+        {
+          "title": "Vivo's X300 Ultra has the best cameras in any phone",
+          "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
+          "source": "The Verge",
+          "summary": "The Vivo X300 Ultra focuses heavily on telephoto camera capabilities, following the trend of Ultra-class flagships prioritizing telephoto lenses. Despite having exceptional camera performance, the phone is held back by its uninspiring design.",
+          "importance": 2
+        },
+        {
+          "title": "Dyson's powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+          "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+          "source": "The Verge",
+          "summary": "Dyson's 360 Vis Nav robot vacuum is on sale for $279.99, marking an all-time low price with $919 off. The device is noted for its exceptionally powerful carpet-cleaning performance compared to other robot vacuums.",
+          "importance": 1
+        },
+        {
+          "title": "Cricut's $99 craft cutting machine helped me feel creative again",
+          "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+          "source": "The Verge",
+          "summary": "The Cricut Joy 2 is a $99 smart cutting and drawing machine that enables users to create stickers, cards, and bookmarks. Despite some imperfections, its capabilities and app-provided templates make creative projects accessible and enjoyable.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 7
+}
