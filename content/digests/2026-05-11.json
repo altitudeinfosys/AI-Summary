@@ -1,0 +1,163 @@
+{
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T15:55:21.182Z",
+  "categories": [
+    {
+      "name": "LLM Updates",
+      "slug": "llm_updates",
+      "articles": [
+        {
+          "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+          "url": "https://openai.com/index/openai-launches-the-deployment-company",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact. This represents a significant expansion of OpenAI's enterprise services beyond just providing models.",
+          "importance": 4
+        },
+        {
+          "title": "The new AI-powered Google Finance is expanding to Europe",
+          "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+          "source": "Google AI Blog",
+          "summary": "Google Finance launches across Europe with AI-powered features and full local language support. The reimagined experience offers a suite of powerful capabilities for financial information and analysis.",
+          "importance": 3
+        },
+        {
+          "title": "How enterprises are scaling AI",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI provides guidance on how enterprises can scale AI from early experiments to compounding impact through trust, governance, workflow design, and quality at scale. The resource covers practical strategies for enterprise AI deployment.",
+          "importance": 3
+        },
+        {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "source": "OpenAI Blog",
+          "summary": "OpenAI launches the Campus Network to connect student clubs worldwide, providing access to AI tools, event hosting opportunities, and building AI-powered campus communities. This initiative aims to foster AI education and development in academic settings.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Dev Tools",
+      "slug": "dev_tools",
+      "articles": [
+        {
+          "title": "Fast Byte Latent Transformer",
+          "url": "https://arxiv.org/abs/2605.08044",
+          "source": "arXiv CS.AI",
+          "summary": "Recent byte-level language models match token-level performance without subword vocabularies, but suffer from slow generation. BLT addresses this with new training techniques including BLT Diffusion (BLT-D) for faster byte-by-byte generation.",
+          "importance": 4
+        },
+        {
+          "title": "CktFormalizer: Autoformalization of Natural Language into Circuit Representations",
+          "url": "https://arxiv.org/abs/2605.07782",
+          "source": "arXiv CS.AI",
+          "summary": "LLMs can generate hardware descriptions from natural language but often produce invalid Verilog. CktFormalizer redirects LLM hardware generation through a dependently-typed HDL embedded in Lean 4 to ensure correctness.",
+          "importance": 3
+        },
+        {
+          "title": "PolySQL: Scaling Text-to-SQL Evaluation Across SQL Dialects via Automated Backend Isomorphism",
+          "url": "https://arxiv.org/abs/2605.07796",
+          "source": "arXiv CS.AI",
+          "summary": "Text-to-SQL benchmarks predominantly support only SQLite, creating evaluation gaps across database engines. PolySQL enables cross-dialect evaluation through automated query transpilation, revealing weak agreement between SQLite and other dialects.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Research & Papers",
+      "slug": "research",
+      "articles": [
+        {
+          "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
+          "url": "https://arxiv.org/abs/2605.06672",
+          "source": "arXiv CS.AI",
+          "summary": "Chain-of-thought reasoning and reasoning-tuned models like DeepSeek-R1 are assumed to reduce biases by thinking carefully. However, research shows that per-question position bias actually scales with the length of the reasoning trajectory across thirteen reasoning configurations.",
+          "importance": 4
+        },
+        {
+          "title": "Extracting Search Trees from LLM Reasoning Traces Reveals Myopic Planning",
+          "url": "https://arxiv.org/abs/2605.06840",
+          "source": "arXiv CS.AI",
+          "summary": "Large language models generate extended chain-of-thought reasoning that contains explicit deliberation over future outcomes. Research introduces a method to characterize LLM planning by extracting and quantifying search trees from reasoning traces, revealing myopic planning behaviors.",
+          "importance": 4
+        },
+        {
+          "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
+          "url": "https://arxiv.org/abs/2605.06671",
+          "source": "arXiv CS.AI",
+          "summary": "Large Language Models demonstrate strong potential for mathematical problems but struggle with graph algorithmic tasks due to topology complexity. GraphDC proposes a divide-and-conquer multi-agent framework for scalable graph algorithm reasoning.",
+          "importance": 3
+        },
+        {
+          "title": "CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment",
+          "url": "https://arxiv.org/abs/2605.06702",
+          "source": "arXiv CS.AI",
+          "summary": "LLMs are constrained by rigid separation between training and deployment, where learning effectively ceases. This paper formalizes deployment-time learning as the third stage in the LLM lifecycle, enabling continual adaptation through interaction with the environment.",
+          "importance": 3
+        },
+        {
+          "title": "From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms",
+          "url": "https://arxiv.org/abs/2605.06716",
+          "source": "arXiv CS.AI",
+          "summary": "LLM-based agents have fundamentally reshaped AI by integrating external tools and planning capabilities. While memory mechanisms are architectural cornerstones, current research remains fragmented between operating system engineering and cognitive science approaches.",
+          "importance": 3
+        }
+      ]
+    },
+    {
+      "name": "Tech Media",
+      "slug": "tech_media",
+      "articles": [
+        {
+          "title": "Live updates from Elon Musk and Sam Altman's court battle over the future of OpenAI",
+          "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+          "source": "The Verge",
+          "summary": "Sam Altman and Elon Musk face off in a high-stakes trial that could alter OpenAI's future. Musk's 2024 lawsuit accuses OpenAI of abandoning its founding mission of developing AI to benefit humanity in favor of profit maximization.",
+          "importance": 5
+        },
+        {
+          "title": "Joanna Stern is not a robot, but she lived with them",
+          "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+          "source": "The Verge",
+          "summary": "Former Wall Street Journal columnist Joanna Stern left her position to start New Things media company. Her new book 'I Am Not a Robot' explores AI and automation, marking a significant career transition in tech journalism.",
+          "importance": 3
+        },
+        {
+          "title": "Wordle is turning into a primetime TV game show on NBC",
+          "url": "https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times",
+          "source": "The Verge",
+          "summary": "NBC greenlit a Wordle game show debuting in 2027 with Savannah Guthrie as host. The show will feature teams competing in a fast-paced format based on The New York Times' popular puzzle game.",
+          "importance": 2
+        },
+        {
+          "title": "Windows 11 is getting a macOS-like speed boost",
+          "url": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost",
+          "source": "The Verge",
+          "summary": "Microsoft is testing a 'Low Latency Profile' feature in Windows 11 that improves app launch times and system responsiveness. The feature ramps up CPU frequency in short bursts, similar to how macOS handles performance optimization.",
+          "importance": 2
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "slug": "community",
+      "articles": [
+        {
+          "title": "Learning on the Shop floor",
+          "url": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison discusses practical learning approaches in technical environments. The post explores hands-on learning methodologies and their application in real-world technical contexts.",
+          "importance": 2
+        },
+        {
+          "title": "Quoting New York Times Editors' Note",
+          "url": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+          "source": "Simon Willison",
+          "summary": "Simon Willison quotes and discusses a New York Times editors' note. The post provides commentary on editorial practices and journalistic standards in the context of technology reporting.",
+          "importance": 1
+        }
+      ]
+    }
+  ],
+  "totalArticles": 18
+}
